@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_255</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Grace and Max Granich Papers
+                    <num>TAM.255</num>
+                </titleproper>
+                <author>Finding aid prepared by Peter Meyer Filardo, 2003</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from Granich.doc</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T19:12-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Grace and Max Granich Papers</unittitle>
+            <unitid>TAM.255</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1929/1998" type="inclusive">1929-1998</unitdate>
+            <abstract id="ref3" label="Abstract">Grace Granich was the secretary for Earl Browder, the head of the Communist Party, USA. In the 1930s, She traveled to the Soviet Union and to Shanghai, China, where she served as a liaison to Chinese radicals, notably Agnes Smedley. She also edited 
+                <emph render="italic">The Voice of China</emph>(her husband Max Granich was its publisher), the organ of the League for National Salvation, headed by Mme. Sun Yat Sen. During World War II she headed Intercontinent News, a Communist Party news agency. Max (Manny) Granich was the younger brother of writer Michael Gold and served as chauffeur to Earl Browder. Following World War II, the Graniches distanced themselves from the CP and in 1946 founded Camp Higley Hill (Wilmington, Vermont), a left-wing summer camp for children, which they ran until 1964.</abstract>
+            <origination label="creator">
+                <persname source="local">Granich, Grace, 1895-1971</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="local">Granich, Max, 1896-1987</persname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>Gift of John McDermott, 1991. Mailing list (1998), alumni newsletter, and letter (1971) donated by Marion Nestle, 2008.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>Grace (b. Maul) Granich (1895-1971) was a key administrative figure in the national office of the Communist Party, USA from 1930 to 1945, serving as secretary to CP General Secretary Earl Browder and as a member of the Organization Department. On behalf of the CP and the Communist International (Comintern), she traveled to the Soviet Union in 1930-1931, and in 1935-1937, to Shanghai, China, where she served as a liaison to Chinese radicals, notably Agnes Smedley. She also edited 
+                <emph render="italic">The Voice of China</emph>(her husband Max Granich was its publisher), the organ of the League for National Salvation, headed by Mme. Sun Yat Sen. During World War II she headed Intercontinent News, a CP news agency, and served as a foreign agent for Service Universel de Presse (Moscow).</p>
+            <p>Max (Manny) Granich (1896-1987) was the younger brother of writer Michael Gold (b. Itzok Granich). He joined the Industrial Workers of the World in 1917, participating in several agricultural organizing campaigns in California. He joined the Communist Party sometime in the late 1920s, married Grace and accompanied her to Soviet Union, where he did engineering work, and to China. Upon their return, he served as chauffeur and bodyguard for Earl Browder, and (through 1942) as Managing Editor of 
+                <emph render="italic">China Today</emph>. Following the postwar expulsion of Earl Browder the Graniches distanced themselves from the CP and in 1946 founded Camp Higley Hill (Wilmington, Vermont), a left-wing summer camp for children, which they ran until 1964. Grace Granich died in an automobile accident in 1971. In the 1970s Max Granich was active in the Chinese-American Friendship Association, and led tours of Communist China. In the early 1980s he recorded a lengthy oral history, and began work on a memoir. He died in 1987.</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The collection is organized alphabetically and contains typescripts, oral history transcripts, correspondence, clippings, government reports, and some ephemera and research notes and materials. There is an autobiographical typescript by Grace Granich, approximately 100 pp., largely concerned with her experiences in China (along with a three-page outline of a planned autobiography covering her entire life). There is also a transcript of an oral history interview with Max Granich (607 pp.), covering his life through the 1970s, and a combined typescript-transcript, apparently the beginnings of a memoir. Shanghai police and U.S. Consular and State Department reports document the Graniches China activities. The correspondence principally covers GG's WWII press work, much of it concerned with her registration as a foreign agent for Service Universel de Presse (Moscow), including numerous telegrams to/from Moscow, their time at and the administration of Camp Higley Hill (including letters from Herbert Aptheker and Pete Seeger), and their trips to Mexico. Other Higley Hill materials include research notes and correspondence by HH alum Gina Luria Walker for a proposed autobiographical memoir, ephemera and memorabilia.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The folders are arranged alphabetically.</p>
+            <p>The files are grouped into one series:</p>
+            <list type="ordered">
+                <item>I, Inventory</item>
+            </list>
+        </arrangement>
+        <separatedmaterial id="ref13">
+            <head>Separated Material</head>
+            <p>Grace and Max Granich Photographs (Photographs 103).</p>
+        </separatedmaterial>
+        <userestrict id="ref41">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref42">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="naf">Browder, Earl, 1891-1973.</persname>
+            <corpname source="naf">Communist Party of the United States of America.</corpname>
+            <persname source="local">Granich, Grace, 1895-1971</persname>
+            <persname source="local">Granich, Max, 1896-1987</persname>
+            <corpname source="local">Russian News Agency.</corpname>
+            <corpname source="local">Service Universel de Presse (Moscow, Soviet Union).</corpname>
+            <persname source="naf">Smedley, Agnes, 1892-1950</persname>
+            <genreform source="aat">Clippings (information artifacts).</genreform>
+            <subject source="lcsh">Communism |z China.</subject>
+            <subject source="lcsh">Communism |z United States</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <genreform source="aat">Ephemera.</genreform>
+            <genreform source="aat">Notes.</genreform>
+            <genreform source="aat">Oral histories (document genres)</genreform>
+            <genreform source="aat">Reports.</genreform>
+            <genreform source="aat">Telegrams.</genreform>
+            <genreform source="aat">Transcripts.</genreform>
+            <genreform source="aat">Typescripts.</genreform>
+            <subject source="lcsh">Women communists |z United States.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Inventory</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                </did>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Biographical</unittitle>
+                        <container id="cid67764" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67764" type="Folder">1</container>
+                        <unitdate normal="1929/1987" type="inclusive">1929 , 1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>China: Shanghai Municipal Police Reports</unittitle>
+                        <container id="cid67763" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67763" type="Folder">2</container>
+                        <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>China: US Government Reports (Consulate General, State Department)</unittitle>
+                        <container id="cid67762" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67762" type="Folder">3</container>
+                        <unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Clippings: Letters to Editor; About GG &amp; MG</unittitle>
+                        <container id="cid67761" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67761" type="Folder">4</container>
+                        <unitdate normal="1927/1957" type="inclusive">1927-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid67760" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67760" type="Folder">5</container>
+                        <unitdate normal="1939/1939">1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid67759" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67759" type="Folder">6</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid67758" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67758" type="Folder">7</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid67757" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67757" type="Folder">8</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid67756" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67756" type="Folder">9</container>
+                        <unitdate normal="1944/1944">1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container id="cid67755" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67755" type="Folder">10</container>
+                        <unitdate normal="1968/1968">1968 , 1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Correspondence: Granich, Carl (son)</unittitle>
+                        <container id="cid67754" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67754" type="Folder">11</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Correspondence: Foreign Agent Registration</unittitle>
+                        <container id="cid67753" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67753" type="Folder">12</container>
+                        <unitdate normal="1942/1952" type="inclusive">1942-1944 , 1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Correspondence: Intercontinent News Service</unittitle>
+                        <container id="cid67752" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67752" type="Folder">13</container>
+                        <unitdate normal="1941/1943" type="inclusive">1941-1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Correspondence: Mexico</unittitle>
+                        <container id="cid67751" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67751" type="Folder">14</container>
+                        <unitdate normal="1956/1961" type="inclusive">1956-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Correspondence: RUNAG (Russian News Agency) - via cable</unittitle>
+                        <container id="cid67750" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67750" type="Folder">15</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Correspondence: SUPRESS (Service Universel de Presse) - via cable</unittitle>
+                        <container id="cid67749" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67749" type="Folder">16</container>
+                        <unitdate normal="1933/1954" type="inclusive">ca.1943-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Granich, Grace: Autobiographical Typescript</unittitle>
+                        <container id="cid67748" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67748" type="Folder">17</container>
+                        <unitdate normal="1960/1981" type="inclusive">ca.1970-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Granich, Manny: Autobiographical Typescript (based upon oral history interview) - approx. 150 pp.</unittitle>
+                        <container id="cid67747" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67747" type="Folder">18</container>
+                        <unitdate normal="1973/1998" type="inclusive">ca.1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Granich, Manny: Oral History Transcript, pp. 1-150</unittitle>
+                        <container id="cid67746" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67746" type="Folder">19</container>
+                        <unitdate normal="1971/1992" type="inclusive">ca.1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Granich, Manny: Oral History Transcript, pp. 151-300</unittitle>
+                        <container id="cid67745" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67745" type="Folder">20</container>
+                        <unitdate normal="1971/1992" type="inclusive">ca.1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Granich, Manny: Oral History Transcript, pp. 301-450</unittitle>
+                        <container id="cid67744" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67744" type="Folder">21</container>
+                        <unitdate normal="1971/1992" type="inclusive">ca.1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Granich, Manny: Oral History Transcript, pp. 451-607</unittitle>
+                        <container id="cid67743" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67743" type="Folder">22</container>
+                        <unitdate normal="1971/1992" type="inclusive">ca.1981-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Higley Hill Camp Correspondence</unittitle>
+                        <container id="cid67742" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67742" type="Folder">23</container>
+                        <unitdate normal="1929/1998" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Higley Hill Camp Correspondence</unittitle>
+                        <container id="cid67741" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67741" type="Folder">24</container>
+                        <unitdate normal="1954/1983" type="inclusive">1954-1964 , 1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Higley Hill Camp Ephemera</unittitle>
+                        <container id="cid67740" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67740" type="Folder">25</container>
+                        <unitdate normal="1944/1998" type="inclusive">ca.1954-1960 , 1998</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Higley Hill Camp: Walker, Gina Luria - Correspondence and Research Material</unittitle>
+                        <container id="cid67739" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid67739" type="Folder">26</container>
+                        <unitdate normal="1988/1993" type="inclusive">1988-1993</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

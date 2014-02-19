@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Unprocessed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">nicaragua_solidarity_network</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Preliminary Inventory to the Nicaragua Solidarity Network of Greater New York Records
+                    <num>TAM 580</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>7/1/2011</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-07-01T14:59-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Nicaragua Solidarity Network of Greater New York Records</unittitle>
+            <unitid>TAM 580</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.5 linear feet</extent>
+                <extent>(6 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1983/2003" type="inclusive">1983-2003</unitdate>
+            <abstract id="ref18" label="Abstract">The Nicaragua Solidarity Network of Greater New York (1985-2002), and its member organizations worked to support the Sandinista Revolution and to protest U.S. support of the counter-revolutionary military movement, aka the Contras, who also murdered civilian supporters of the revolution, targeting medical and educational personnel in particular. Some of the member organizations, like the NY-Nicaragua Construction Brigade, worked to help create infrastructure in Nicaragua. The collection holds the records of the NSN and its member organizations, most notably the NY-Nicaragua Construction Brigade, and includes newsletters, event notices, fundraising letters, correspondence, reports, membership and financial information, grant applications, and reference material about Nicaragua and related issues.</abstract>
+            <langmaterial id="ref22" label="Language of Materials note">Materials are in primarily in English, with some material in Spanish</langmaterial>
+            <origination label="creator">
+                <corpname source="naf">Nicaragua Solidarity Network of Greater New York.</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref17">
+            <head>Historical/Biographical Note</head>
+            <p>The Nicaragua Solidarity Network (NSN) of Greater New York was formed in 1985, initially as a sub-organization of New Yorkers for Peace in the Gulf. The NSN formed from over twenty-five small grassroots organizations in New York that came together in response to President Ronald Reagan's trade embargo on Nicaragua in 1985. The NSN worked to support the Sandinista Revolution, and to protest U.S. support of the counter-revolutionary military movement, aka the Contras, who also murdered civilian supporters of the revolution, targeting medical and educational personnel in particular. Delegates from these small groups met at monthly meetings, and with a grant from the North Star Foundation, were able to establish a newsletter, the 
+                <emph render="italic">NicaNews</emph>. Among its member organizations were the New York-Nicaragua Construction Brigade, which organized groups of volunteer workers who went to Nicaragua.</p>
+        </bioghist>
+        <arrangement id="ref21">
+            <head>Arrangement</head>
+            <p>This collection is unprocessed.</p>
+        </arrangement>
+        <userestrict id="ref20">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <accessrestrict id="ref19">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <scopecontent id="ref2">
+            <head>Scope and Content Note</head>
+            <p>This collection contains the records of the Nicaragua Solidarity Network of Greater New York (NSN) and its member organizations, most notably the New York-Nicaragua Construction Brigade. The collection includes type of material related to the NSN in this collection consist mostly of fliers, event notices, speeches, pamphlets, leaflets, fundraising letters, informational documentation on the situation in Nicaragua, ledgers and budgets, directories, internal correspondence, phone trees, materials related to phone raps, member lists, grant awards, and the NicaNews newsletter. The papers mostly detail the events and demonstrations in regards to raising awareness to the situation in Nicaragua, support of the Sandinista government and opposition to the US-backed Contras, fundraising, the election in 1990 and its aftermath, and other topics. Other organizations represented in the collection include the NY-Nicaragua Construction Brigade, which built various co-operatives and schools in Nicaragua, the Women's Brigade (also a construction group), Oats for Peace, New Yorkers for Peace in the Gulf, Peace Ship/Peace House, the Movement Support Network, and the Global Sweatshop Coalition.</p>
+        </scopecontent>
+        <relatedmaterial id="ref23">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+            <p>Ventana - Cultural Workers in Solidarity with Nicaragua Collection (TAM 121)</p>
+        </relatedmaterial>
+        <controlaccess>
+            <corpname source="naf">Center for Constitutional Rights (New York, N.Y.).</corpname>
+            <corpname source="naf">Movement Support Network (Center for Constitutional Rights).</corpname>
+            <corpname source="local">New York-Nicaragua Construction Brigade.</corpname>
+            <corpname source="local">Nicaragua Solidarity Network (U.S.).</corpname>
+            <corpname source="naf">Nicaragua Solidarity Network of Greater New York.</corpname>
+            <corpname source="naf">Nicaragua Solidarity Network of Greater New York.</corpname>
+            <persname source="naf">Ortega, Daniel</persname>
+            <geogname source="lcsh">Nicaragua |x Foreign relations |z United States</geogname>
+            <geogname source="lcsh">Nicaragua |x Politics and government |y 1979-1990</geogname>
+            <geogname source="lcsh">Nicaragua |x Politics and government |y 1990-</geogname>
+            <geogname source="lcsh">United States |x Foreign relations |z Nicaragua</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref3" level="otherlevel">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid20730001" type="Box" label="Mixed materials">1</container>
+                    <physdesc>
+                        <extent>1.0 linear feet</extent>
+                        <extent>(1 box)</extent>
+                    </physdesc>
+                    <unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate>
+                </did>
+                <odd id="ref4">
+                    <head>General note</head>
+                    <p>Contents include: 
+                        <emph render="italic">Nica News</emph>, 1990-1991 (drafts), correspondence, circulars, reports, press packages, phone trees, election papers, phone rap sheets, member lists, fliers and other printed ephemera. Topics include various talks and demonstrations, a labor delegation from Nicaragua, a "December Retreat," the U.S. invasion of Panama, miscellaneous updates from Peace Net, correspondence of Patricia Elvir (an activist who worked for the Sandinista National Liberation Front (FSLN) international bureau), Daniel Ortega's visit in August 1990 to New York, activities during Nicaraguan election week and response to Panama invasion, the 1990 election and its aftermath in Nicaragua, including speech by Daniel Ortega to North America, other speeches (spanish only).</p>
+                    <p>Other organizations' represented in this box include New Yorkers for Peace in the Gulf, fliers and minutes, Peace in the Gulf Action Line, event lists and phone message documents, FSLN statements and demonstration fliers, Adelante Street Theater fliers (Spanish and English), Reservists against the Gulf War papers, and subscriptions to 
+                        <emph render="italic">Barricada International</emph>.</p>
+                </odd>
+            </c01>
+            <c01 id="ref5" level="otherlevel">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid20730002" type="Box" label="Mixed materials">2</container>
+                    <physdesc>
+                        <extent>1.0 linear feet</extent>
+                        <extent>(1 box)</extent>
+                    </physdesc>
+                    <unitdate normal="1985/1994" type="inclusive">1985-1994, 2003</unitdate>
+                </did>
+                <odd id="ref6">
+                    <head>General note</head>
+                    <p>This box contains New York-Nicaragua Construction Brigade material, including internal papers, fundraising, mostly bowlathon fliers, orientation packets, participant applications, and papers related to building projects in Nicaragua, including schools community centers, and co-ops. Also included are Peace Ship/Peace House records, including correspondence and participant applications, Peace Ship delegates information, specifcally for the Thanksgiving Peace Ship of 1986, and fundraising materials.</p>
+                </odd>
+            </c01>
+            <c01 id="ref8" level="otherlevel">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid20734001" type="Box" label="Mixed materials">3</container>
+                    <physdesc>
+                        <extent>1.0 linear feet</extent>
+                        <extent>(1 box)</extent>
+                    </physdesc>
+                    <unitdate normal="1983/1991" type="inclusive">1983-1991</unitdate>
+                </did>
+                <odd id="ref9">
+                    <head>General note</head>
+                    <p>This box contains mostly New York-Nicaragua Construction Brigade records, including proposals to foundations, a North Star Foundation grant award, fundraising letters and fliers for fundraising events, financial reports, participant applications, Freedom of Information Act (FOIA) applications, Movement Support Network correspondence, Construction Brigade outreach papers, documents regarding a Construction Brigade event with Judy Butler, Howard Zinn, David McMichaels, and Margaret Randall. Brigada Companeras (Women's Brigade) materials include flyers, agendas, phone lists, press contacts, newsletters, participant applications, a women's Brigade Binder holding orientation materials, pamphlets, participant lists, organizational information, correspondence on development, meeting minutes, proposals, budgets, and logistical information.</p>
+                    <p>Other organizations and materials represented are the 
+                        <emph render="italic">Movement Support Network Newsletter</emph> from Center for Constitutional Rights (CCR), CCR information on the U.S. economic embargo of Nicaragua, correspondence of the Task Force Against Government Spying, files on harassment of travellers to Nicaragua by the FBI, including Movement Support Network's harassment reports, and Nicaragua Support Project-New Paltz records including meeting minutes, fliers, manuals, fundraising material, newsletters, clippings on Nicaragua, a copy of a CIA Contra manual, and informational booklets.</p>
+                </odd>
+            </c01>
+            <c01 id="ref10" level="otherlevel">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid20737001" type="Box" label="Mixed materials">4</container>
+                    <physdesc>
+                        <extent>1.0 box</extent>
+                        <extent>(1 box)</extent>
+                    </physdesc>
+                    <unitdate normal="1991/2002" type="inclusive">1991-2002</unitdate>
+                </did>
+                <odd id="ref12">
+                    <head>General note</head>
+                    <p>Includes NSN correspondence, minutes, membership lists and surveys, sign-up lists, fundraising letters, event notices, newsletters, membership lists, and documents from a Nicaragua Solidarity Network 1992 national meeting, including workshop outlines and notes, NSN Labor Committee files, and material about the 1996 Nicaragua election.</p>
+                    <p>Other organizations represented include the Hurricane Mitch Relief Network, the Global Sweatshop Coalition (GSC), and the Coalition for Real Equitable Economic Development (CREED, predecessor to GSC). The GSC sponsored and kept records for events including the a support demonstration for the Han Young strike in Tijuana, the annual International Women's Day March, the People's Tribunal on Corportate Crimes Against Humanity: Public Arraignment of Disney, Kmart, Nike and Wal-mart, protest against union-busting in support of the Maquila workers in Guatemala at Phillips-Van Heusen factory, and other events.</p>
+                </odd>
+            </c01>
+            <c01 id="ref13" level="otherlevel">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid20737002" type="Box" label="Mixed materials">5</container>
+                    <physdesc>
+                        <extent>1.0 linear feet</extent>
+                        <extent>(1 box)</extent>
+                    </physdesc>
+                    <unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate>
+                    <physdesc id="ref14" label="General Physical Description note">Includes drafts of NicaNews newsletters, budgets, Central Legislative Network materials, a directory of Nicaragua Solidarity groups in New York City, fliers, fundraising materials, internal correspondence, materials relating to the A.J. Muste Memorial Institute's sponsorship, NSN (national) Activists Conference on June 25, 1988 in New York material including program notes and outlines, and New Yorkers Against US Intervention in Central America files. Oats for Peace records, another organization represented in this collection, include financial and administrative records, walkathon materials, an information packet, and fundraising materials.</physdesc>
+                </did>
+            </c01>
+            <c01 id="ref15" level="otherlevel">
+                <did>
+                    <unittitle>Records</unittitle>
+                    <container id="cid20737003" type="Box" label="Mixed materials">6</container>
+                    <physdesc>
+                        <extent>0.5 linear feet</extent>
+                        <extent>(1 box)</extent>
+                    </physdesc>
+                    <unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate>
+                </did>
+                <odd id="ref16">
+                    <head>General note</head>
+                    <p>Includes minutes, event notices (assorted demonstrations, the Native Land Tour, a speaking tour in 1986), Nicaragua fact sheets, NSN Teacher's project informational packet, NSN conference materials, brochure, and grant, mostly from the North Star Foundation.</p>
+                </odd>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

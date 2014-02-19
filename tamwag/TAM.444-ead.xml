@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Breif_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_444</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Charles Davis Research Files
+                    <num>TAM.444</num>
+                </titleproper>
+                <author>Finding aid prepared by Tamiment staff.</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>11/17/2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T19:44-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Charles Davis Research Files</unittitle>
+            <unitid>TAM.444</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid18827004" type="Box" label="Mixed materials">1</container>
+            <physdesc>
+                <extent>0.5 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate>1920s-1940s</unitdate>
+            <origination label="creator">
+                <persname source="ingest">Davis, Charles</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Historical/Biographical Note</head>
+            <p>While the identity of Charles Davis is unknown, the presence in the collection of an article from the January, 1936 issue of 
+                <emph render="italic">Economic Notes</emph>, the periodical of the Communist-associated Labor Research Association, may reflect the left political sympathies of Mr. Davis.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Contains pamphlets, writings and reports pertaining to the research interests of Charles Davis. Included are a number of United States Agriculture Department reports, pamphlets and other materials on Pittsburgh's urban planning, and research project material on women workers in Brazil. The materials span from the 1920s to the 1940s. PLEASE DIRECT FURTHER INQUIRIES TO: peter.filardo@nyu.edu</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="ingest">Davis, Charles</persname>
+            <persname source="ingest">Davis, Charles</persname>
+            <subject source="lcsh">City planning |z Pennsylvania |z Pittsburgh.</subject>
+            <genreform source="aat">Federal government records.</genreform>
+            <subject source="lcsh">Women |x Employment |z Brazil.</subject>
+            <genreform source="aat">Writings (document genre)</genreform>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

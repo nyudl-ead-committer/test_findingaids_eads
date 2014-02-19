@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_246</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the American Veterans for Peace Records
+                    <num>TAM.246</num>
+                </titleproper>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from AVP Guide.doc</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T19:10-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>American Veterans for Peace Records</unittitle>
+            <unitid>TAM.246</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid19804006" type="Box" label="Mixed materials">1</container>
+            <physdesc>
+                <extent>0.5 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1951/1955" type="bulk">Bulk, 1951-1955</unitdate>
+            <unitdate normal="1945/1957" type="inclusive">1945-1957, (Bulk 1951-1955)</unitdate>
+            <abstract id="ref3" label="Abstract">American Veterans for Peace was founded in 1951 to oppose American participation in the Korean War. The AVP opposed militarism, supported improved Soviet relations and a progressive social agenda. It published 
+                <title render="italic">Progressive Veteran</title>(later 
+                <title render="italic">Vet's Voice</title>). The collection includes: correspondence, ephemera, internal documents, petitions, public statements, and newsletters of the AVP and other progressive organizations.</abstract>
+            <origination label="creator">
+                <corpname source="local">American Veterans for Peace.</corpname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>Gift of Stanley Turkel, 2001.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>American Veterans for Peace, officially founded in June 1951, was the result of a Communist Party-oriented initiative in the months following the outbreak of the Korean War that saw the founding of several local Veterans for Peace organizations. The AVP published a monthly newsletter, 
+                <title render="italic">Progressive Veteran</title>, 1949-1955 (title changed to 
+                <title render="italic">Vet's Voice</title>in 1950). While its main purpose was to oppose American participation in the Korean War, the AVP also opposed militarism, supported improved relations with the Soviet Union and a progressive social agenda.</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The collection is arranged alphabetically, and contains correspondence, ephemera, internal documents, petitions and public statements, and newsletters of the AVP, and of other progressive organizations, including foreign veterans organizations. There are files on two annual AVP events -- an art show, and Elbe River Day, commemorating the meeting of American and Soviet troops in 1945. Other files document 
+                <title render="italic">Desert Fox</title>(a campaign against the 1951 movie), the suppression (by the U.S. Post Office) of 
+                <title render="italic">Vet's Voice</title>, an allied organization, the American Women for Peace (including copies of two issues of its monthly newsletter, 
+                <title render="italic">The Peacemaker</title>), and the Australian Legion of Ex-Servicemen and Women.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The files are grouped into 1 series.</p>
+            <p>Folders are arranged alphabetically.</p>
+        </arrangement>
+        <userestrict id="ref38">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref39">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname source="local">American Veterans for Peace.</corpname>
+            <persname source="naf">Green, Paul, 1894-1981</persname>
+            <persname source="ingest">Turkel, Stanley.</persname>
+            <persname source="local">Wagner, Norman</persname>
+            <subject source="lcsh">Communism |z United States</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <genreform source="aat">Documents.</genreform>
+            <genreform source="aat">Petitions.</genreform>
+            <subject source="lcsh">Veterans |z United States.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Container List</unittitle>
+                </did>
+                <c02 id="ref12" level="subseries">
+                    <did>
+                        <unittitle>General</unittitle>
+                    </did>
+                    <c03 id="ref13" level="otherlevel">
+                        <did>
+                            <unittitle>American Labor Party</unittitle>
+                            <container id="cid34168" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34168" type="Folder">1</container>
+                            <unitdate normal="1951/1951">1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="otherlevel">
+                        <did>
+                            <unittitle>American Legion. Duncan-Paris Post</unittitle>
+                            <container id="cid34167" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34167" type="Folder">2</container>
+                            <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="otherlevel">
+                        <did>
+                            <unittitle>American Peace Crusade</unittitle>
+                            <container id="cid34166" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34166" type="Folder">3</container>
+                            <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="otherlevel">
+                        <did>
+                            <unittitle>American Veterans Committee</unittitle>
+                            <container id="cid34165" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34165" type="Folder">4</container>
+                            <unitdate normal="1946/1946">1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="otherlevel">
+                        <did>
+                            <unittitle>American Veterans for Peace: National</unittitle>
+                            <container id="cid34164" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34164" type="Folder">5</container>
+                            <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="otherlevel">
+                        <did>
+                            <unittitle>American Veterans for Peace: Origins</unittitle>
+                            <container id="cid34163" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34163" type="Folder">6</container>
+                            <unitdate normal="1950/1953" type="inclusive">1950-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="otherlevel">
+                        <did>
+                            <unittitle>American Women for Peace</unittitle>
+                            <container id="cid34162" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34162" type="Folder">7</container>
+                            <unitdate normal="1951/1951">1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="otherlevel">
+                        <did>
+                            <unittitle>Art Shows</unittitle>
+                            <container id="cid34161" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34161" type="Folder">8</container>
+                            <unitdate normal="1952/1954" type="inclusive">1952-1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="otherlevel">
+                        <did>
+                            <unittitle>Australian Legion of Ex-Servicemen and Women</unittitle>
+                            <container id="cid34160" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34160" type="Folder">9</container>
+                            <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence: Foreign and United Nations</unittitle>
+                            <container id="cid34159" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34159" type="Folder">10</container>
+                            <unitdate normal="1951/1954" type="inclusive">1951-1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence: Outgoing</unittitle>
+                            <container id="cid34158" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34158" type="Folder">11</container>
+                            <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence: Received</unittitle>
+                            <container id="cid34157" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34157" type="Folder">12</container>
+                            <unitdate normal="1950/1952" type="inclusive">1950-1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="otherlevel">
+                        <did>
+                            <unittitle>Desert Fox (movie) Campaign</unittitle>
+                            <container id="cid34156" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34156" type="Folder">13</container>
+                            <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="otherlevel">
+                        <did>
+                            <unittitle>Elbe River Day</unittitle>
+                            <container id="cid34155" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34155" type="Folder">14</container>
+                            <unitdate normal="1945/1955" type="inclusive">1945-1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>Freedom's War Gum</unittitle>
+                            <container id="cid34154" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34154" type="Folder">15</container>
+                            <unitdate normal="1951/1951">1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="otherlevel">
+                        <did>
+                            <unittitle>Housing</unittitle>
+                            <container id="cid34153" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34153" type="Folder">16</container>
+                            <unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="otherlevel">
+                        <did>
+                            <unittitle>Korean Veterans</unittitle>
+                            <container id="cid34152" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34152" type="Folder">17</container>
+                            <unitdate normal="1952/1952">1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>Leaflets: Miscellaneous</unittitle>
+                            <container id="cid34151" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34151" type="Folder">18</container>
+                            <unitdate normal="1950/1954" type="inclusive">1950-1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>New York Peace Institute</unittitle>
+                            <container id="cid34150" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34150" type="Folder">19</container>
+                            <unitdate normal="1952/1952">1952</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>New York Veterans for Peace</unittitle>
+                            <container id="cid34149" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34149" type="Folder">20</container>
+                            <unitdate normal="1951/1955" type="inclusive">1951-1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="otherlevel">
+                        <did>
+                            <unittitle>New York Veterans for Peace: Leaflets</unittitle>
+                            <container id="cid34148" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34148" type="Folder">21</container>
+                            <unitdate normal="1951/1951">1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>Petitions</unittitle>
+                            <container id="cid34147" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34147" type="Folder">22</container>
+                            <unitdate normal="1945/1957" type="inclusive">undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>Society for the Prevention of World War III</unittitle>
+                            <container id="cid34146" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34146" type="Folder">23</container>
+                            <unitdate normal="1950/1951" type="inclusive">1950-1951</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>Veterans' Organizations: Other</unittitle>
+                            <container id="cid34145" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34145" type="Folder">24</container>
+                            <unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="otherlevel">
+                        <did>
+                            <unittitle>Vet's Voice: Suppression of</unittitle>
+                            <container id="cid34144" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid34144" type="Folder">25</container>
+                            <unitdate normal="1953/1957" type="inclusive">1953-1957</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
