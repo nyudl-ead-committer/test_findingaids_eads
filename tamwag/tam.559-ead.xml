@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Breif_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_559</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Gloria Wong Chung Papers
+                    <num>TAM.559</num>
+                </titleproper>
+                <author>Finding aid prepared by Tamiment staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>12/04/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T20:01-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Gloria Wong Chung Papers</unittitle>
+            <unitid>TAM.559</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid20107001" type="Box" label="Mixed materials">1</container>
+            <physdesc>
+                <extent>1.0 linear feet</extent>
+                <extent>(1 box)</extent>
+            </physdesc>
+            <unitdate normal="1947/2004" type="inclusive">1947-2004</unitdate>
+            <origination label="creator">
+                <persname source="local">Chung, Gloria Wong, 1925-2007</persname>
+            </origination>
+        </did>
+        <userestrict id="ref7">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <scopecontent id="ref2">
+            <head>Scope and Content Note</head>
+            <p>This unprocessed collection contains materials in various formats documenting Dr. Gloria Wong Chung’s struggles to promote healthcare and empowerment in New York City’s Chinatown and her work as one of the first female Asian/Pacific American psychiatrists. Formats represented in the collection include personal correspondence, brochures, newspaper clippings, notebooks, photographs, diplomas, awards, and certificates.</p>
+            <p>Documenting her work are two small notebooks containing handwritten notes pertaining to psychiatry and brochures and programs from award ceremonies, mostly from the Chinatown Planning Council and Children's Psychiatric Center, but also from the US Pan Asian American Chamber of Commerce. Present are also two folders of newspaper clippings—one chronicling Chinatown events from the late 1960s and late 1970s and the other featuring articles about Dr. Chung. Diplomas and certificates document information about her professional credentials and awards document honors she has received for her work for the CPC. Observation tapes of a Chinese pilot family on 1/4 inch reel to reel audio tapes from child and development psychologist Margaret Bullowa recorded as part of her research and sent to Dr. Chung can also be found in the collection.</p>
+            <p>Of a more personal nature are the correspondence and photographs in the collection. The letters date from the 1950s and document correspondence between Dr. Chung and her brother Edward Chung, and include drawings of the Chung’s home in Minnesota during the 1930s and 1940s. Subjects of the photographs include Dr. Chung at age 16, wedding photos and other photos taken of her later in life and photographs of various groups and societies of which she was a part in her youth, including her sorority (circa 1947-48), the Chinese Student club (circa 1947-48), Sigma Sigma Phi (circa 1947-48), and 2 large panorama photos from Alpha Lambda (1947 and 1949). Color photographs of her scrapbook from the University of Minnesota (circa 1947-48) are also included.</p>
+            <p>Photographs and artifacts have been transfered to the Library Non-Print Collection</p>
+        </scopecontent>
+        <bioghist id="ref5">
+            <head>Historical/Biographical Note</head>
+            <p>Dr. Gloria Wong Chung (1925-2007), a leader in the struggle for healthcare and empowerment in New York City’s Chinatown and one of the first female Asian/Pacific American psychiatrists, was born in Taishan, Guangdong Province. In 1929, Dr. Chung and her family came to the United States, settling in Albert Lea, Minnesota, where they were the only Chinese family.</p>
+            <p>Dr. Chung graduated from the University of Minnesota Medical School in 1948, and for the next fifty eight years worked as a psychiatrist, specializing in pediatric and adolescent psychiatry. In 1962, she was appointed Clinical Director of Health Services in Bedford Stuyvesant under the auspices of the Brooklyn Psychiatric Centers, where she served until 1967, when she took a position with the Children’s Psychiatric Center in Eatontown, New Jersey. In 1972 she joined the staff of the Community Mental Health Center of the Jersey Shore Medical Center in Neptune, New Jersey, where she served as the Director of Outpatient Services from 1974 to 1989. Over the course of her career, Dr. Chung has introduced a number of innovations in psychiatric care, including providing mental health services to municipal jail inmates, pregnant adolescents and women suffering from clinical depression, as well as using anger management training to alleviate domestic violence.</p>
+            <p>In 1965, along with eight others, she helped found the Chinese-American Planning Council (CPC). Currently one of the largest providers of social services to Asian/Pacific Americans in the United States, CPC began as a small volunteer-run family assistance program.</p>
+        </bioghist>
+        <bibliography id="ref6">
+            <head>Sources</head>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="embed" ns2:title="Asian/Pacific American Archives Description" ns2:href="http://dlibdev.nyu.edu/tamimentapa/?q=node/182">Asian/Pacific American Archives Survey description of collection</extref></p>
+        </bibliography>
+        <controlaccess>
+            <corpname source="naf">Chinese-American Planning Council (New York, N.Y.).</corpname>
+            <persname source="local">Chung, Gloria Wong, 1925-2007</persname>
+            <persname source="local">Chung, Jock</persname>
+            <geogname source="lcsh">Chinatown (New York, N.Y.)</geogname>
+            <subject source="local">Chinese American psychiatrists.</subject>
+            <subject source="lcsh">Chinese Americans |x Mental health services.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

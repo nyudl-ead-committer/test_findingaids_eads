@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="us" mainagencycode="us-NNU-TL">ptti</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Guide to the Postal, Telegraph, and Telephone International Collection
+                    <num>TAM 099</num>
+                </titleproper>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from PTTI Guide.wpd</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2009-06-30T17:24-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Postal, Telegraph, and Telephone International Collection</unittitle>
+            <unitid>TAM 099</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+            </physdesc>
+            <unitdate>1914-1967</unitdate>
+            <abstract id="ref3" label="Abstract">The Postal, Telegraph, and Telephone International was formed in 1911 in Bern as the International Federation of Posts, telegraphs, and Telephones. The anti-fascist and anti-communist PTTI eagerly sought the spread of democratic trade unionism and promoted the League of Nations. By the early 1930's, PTTI's membership surged into the hundreds of thousands. Throughout the 1950's and 1960's, the PTTI conducted research on the postal services of newly independent nations of Asia and Africa, and of Latin America and set up regional offices to integrate their postal unions. Today, the PTTI conducts educational programs and hold international conferences. In 1991, PTTI membership was more than four million and based in 65 unions in 102 nations. The collection includes material that documents PTTI's history, its organization and administrative structure.</abstract>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>The collection of the Postal, Telegraph, and Telephone International (PTTI) was a gift of Bruno Stein.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>The Postal, Telegraph, and Telephone International was formed in 1911 in Bern as the International Federation of Posts, telegraphs, and Telephones. However, the official founding conference was not held until 1920 in Milan, when postal employees realized that during World War I, the Post Office was unique in having maintained its international connections, and consequently should be developed as an instrument for world peace. The anti-fascist and anti-communist PTTI eagerly sought the spread of democratic trade unionism. It promoted the League of Nations and tried in its early years to be non-political for fear of a split between those who favored a separate trade union and those who favored affiliation with industrial unions. In the early 1920's, however, the union refused to admit the Soviet Postal Union.</p>
+            <p>Though always interested in learning from their foreign colleagues and uniting postal workers from all supposedly democratic nations, the discussions in the PTTI in the pre-WWII era seem to reflect concerns with nationalization of the postal services and employee control.</p>
+            <p>In the early 1930's, PTTI's membership surged into the hundreds of thousands, mainly of unionists from European countries. Because of communication difficulties, the implementation of Esperanto was attempted with some limited success. After 1935, the PTTI lost thousands of members as fascist forces closed PTTI offices in Vienna, Berlin, and other cities.</p>
+            <p>In 1947, the PTTI joined the World Federation of Trade Unions (WFTU) as an International Trade Secretariat. In 1949, American unions and their allies withdrew from the WFTU because of rising cold-war tensions and disagreement over the Marshall Plan. They formed the International Confederation of Free Trade Unions, and the PTTI followed suit.</p>
+            <p>Throughout the 1950's and 1960's, the PTTI conducted research on the postal services of newly independent nations of Asia and Africa, and of Latin America. The PTTI set up regional offices in these nations to integrate their postal unions into the International and to educate future leaders of the national postal unions.</p>
+            <p>Today, the PTTI conducts educational programs and hold international conferences. In 1991, PTTI membership was more than four million based in 65 unions in 102 nations.</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p>
+                <list>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                    <item></item>
+                </list></p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The 1.0 linear foot collection spans the years 1914-1967, with material evenly dispersed throughout those years. Provided in the collection is good documentation of the activities, structure, and goals of the organization. The collection, consisting mainly of reports, correspondence, bulletins, and indexes, is arranged in chronological order within each series.</p>
+            <p>Series I, History (1963-1967), contains a chapter outline plus one chapter of an unpublished book on the PTTI. This series also contains a thesis on the PTTI's history, based largely on information found in the collection.</p>
+            <p>Series II, Administrative Files (1914-1966), contains information generated by the central office of the PTTI, as well as resolutions passed in biennial congresses. Of special note in this series are the materials documenting the controversy surrounding the PTTI's 1924 refusal to admit the Soviet Postal Union.</p>
+            <p>The information documented this collection reflect the alliances, contradictions, and ideals of the larger international labor movement of this era.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The files are grouped into two series; I: History (1963-1967); II: Administrative Files (1914-1966).</p>
+            <p>Folders are arranged chronologically within each series.</p>
+        </arrangement>
+        <relatedmaterial id="ref93">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+        </relatedmaterial>
+        <separatedmaterial id="ref94">
+            <head>Separated Material</head>
+        </separatedmaterial>
+        <userestrict id="ref96">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref97">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname source="naf">Postal, Telegraph and Telephone Workers' International.</corpname>
+            <corpname source="naf">World Federation of Trade Unions.</corpname>
+            <genreform source="aat">Adminstrative records.</genreform>
+            <genreform source="aat">Correspondence.</genreform>
+            <subject source="lcsh">International labor activities.</subject>
+            <subject source="lcsh">Labor unions.</subject>
+            <genreform source="aat">News bulletins.</genreform>
+            <subject source="lcsh">Postal service--Employees--Labor unions.</subject>
+            <subject source="lcsh">Postal service--Employees.</subject>
+            <genreform source="aat">Reports.</genreform>
+            <subject source="lcsh">Telegraphers--Labor unions.</subject>
+            <subject source="lcsh">Telegraphers.</subject>
+            <subject source="lcsh">Telephone companies--Employees--Labor unions.</subject>
+            <subject source="lcsh">Telephone operators.</subject>
+            <genreform source="aat">Typescripts.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series I: History (1963-1967)</unittitle>
+                </did>
+                <c02 id="ref12" level="otherlevel">
+                    <did>
+                        <unittitle>History of the PTTI--Chapter Outline</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>PTTI General Staff Matters--Chapter 5</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>"The Postal, Telegraph, and Telephone Inter-national--1910-1945" Victor Hershkowitz</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Summary from International Directory of the Trade Union Movement.</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Series II: Administrative Files (1914-1966)</unittitle>
+                </did>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Monthly Bulletin</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>Notes of Second Congress--London</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1914/1914">1914</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Founding Congress--Milan</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1920/1920">1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Third Congress--Vienna</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1920/1920">1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>Congress Resolutions</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1920/1922" type="inclusive">1920-1922</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>US Federation of Post Office Clerks</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1921/1925" type="inclusive">1921-1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>PTTI Reports</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1922/1924" type="inclusive">1922-1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>Responses to Reports</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">12</container>
+                        <unitdate normal="1923/1923">1923</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence--Russian Union</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">13</container>
+                        <unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Meetings</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">14</container>
+                        <unitdate normal="1923/1925" type="inclusive">1923-1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>Report on Promotion</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">15</container>
+                        <unitdate normal="1924/1924">1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>The United Front and the PTT International</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">16</container>
+                        <unitdate normal="1924/1924">1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>Publications List</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">17</container>
+                        <unitdate normal="1924/1924">1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence--League of Nations --Universal Postal Union</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">18</container>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence and Meetings--Russian Union</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">19</container>
+                        <unitdate normal="1926/1927" type="inclusive">1926-1927</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Meetings</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">20</container>
+                        <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence of General Secretary</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">21</container>
+                        <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="otherlevel">
+                    <did>
+                        <unittitle>Report--US National Federation of Postal Clerks</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">22</container>
+                        <unitdate normal="1926/1930" type="inclusive">1926-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>Affiliations List</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">23</container>
+                        <unitdate normal="1927/1929" type="inclusive">1927-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="otherlevel">
+                    <did>
+                        <unittitle>Fourth Congress--Paris</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">24</container>
+                        <unitdate normal="1928/1928">1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="otherlevel">
+                    <did>
+                        <unittitle>Fifth Congress--London</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">25</container>
+                        <unitdate normal="1928/1928">1928</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Council Meetings</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">26</container>
+                        <unitdate normal="1928/1930" type="inclusive">1928-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="otherlevel">
+                    <did>
+                        <unittitle>Yearbook</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">27</container>
+                        <unitdate normal="1929/1930" type="inclusive">1929-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="otherlevel">
+                    <did>
+                        <unittitle>Sixth Congress--Copenhagen</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">28</container>
+                        <unitdate normal="1930/1930">1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Reports</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">29</container>
+                        <unitdate normal="1930/1935" type="inclusive">1930-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="otherlevel">
+                    <did>
+                        <unittitle>Yearbook</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">30</container>
+                        <unitdate normal="1931/1931">1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="otherlevel">
+                    <did>
+                        <unittitle>Financial Report</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">31</container>
+                        <unitdate normal="1931/1933" type="inclusive">1931-1933</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="otherlevel">
+                    <did>
+                        <unittitle>Excerpts from Post Bulletin</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">32</container>
+                        <unitdate normal="1931/1935" type="inclusive">1931-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="otherlevel">
+                    <did>
+                        <unittitle>Seventh Congress--Lucerne</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">33</container>
+                        <unitdate normal="1932/1932">1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="otherlevel">
+                    <did>
+                        <unittitle>Affiliations</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">34</container>
+                        <unitdate normal="1932/1935" type="inclusive">1932-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="otherlevel">
+                    <did>
+                        <unittitle>Vienna Situation</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">35</container>
+                        <unitdate normal="1934/1934">1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="otherlevel">
+                    <did>
+                        <unittitle>German Correspondence</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">36</container>
+                        <unitdate normal="1934/1934">1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="otherlevel">
+                    <did>
+                        <unittitle>Letters to PTTI President</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">37</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="otherlevel">
+                    <did>
+                        <unittitle>Eighth Congress--Brussels</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">38</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>Bulletin--International Committee of Clerks, Civil Servants, and Post Office Workers</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">39</container>
+                        <unitdate normal="1935/1935">1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="otherlevel">
+                    <did>
+                        <unittitle>Information Bulletin</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">40</container>
+                        <unitdate normal="1936/1936">1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="otherlevel">
+                    <did>
+                        <unittitle>Index to Post Bulletins</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">41</container>
+                        <unitdate normal="1936/1936">1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="otherlevel">
+                    <did>
+                        <unittitle>Report--"The Regulation of Multiple Employment"</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">42</container>
+                        <unitdate normal="1936/1936">1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="otherlevel">
+                    <did>
+                        <unittitle>Affiliations</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">43</container>
+                        <unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="otherlevel">
+                    <did>
+                        <unittitle>International Federation of Trade Unions--Notes</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">44</container>
+                        <unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="otherlevel">
+                    <did>
+                        <unittitle>Excerpts from Post Bulletin</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">45</container>
+                        <unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Reports</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">46</container>
+                        <unitdate normal="1936/1945" type="inclusive">1936-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="otherlevel">
+                    <did>
+                        <unittitle>Reports of International Federation of Employeesin the Public and Civil Service</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">47</container>
+                        <unitdate normal="1937/1937">1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="otherlevel">
+                    <did>
+                        <unittitle>Ninth Congress--Paris</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">48</container>
+                        <unitdate normal="1937/1937">1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="otherlevel">
+                    <did>
+                        <unittitle>Report on Activities</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">49</container>
+                        <unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="otherlevel">
+                    <did>
+                        <unittitle>Tenth Congress--Brussels</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">50</container>
+                        <unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="otherlevel">
+                    <did>
+                        <unittitle>World Trade Union Council--Paris</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">51</container>
+                        <unitdate normal="1945/1945">1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="otherlevel">
+                    <did>
+                        <unittitle>Eleventh Congress--London</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">52</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">53</container>
+                        <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="otherlevel">
+                    <did>
+                        <unittitle>World Federation of Trade Unions</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">54</container>
+                        <unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="otherlevel">
+                    <did>
+                        <unittitle>Annual Account</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">55</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Council Report</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">56</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Meeting--Dublin</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">57</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="otherlevel">
+                    <did>
+                        <unittitle>Study Tour of Eastern European Countries</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">58</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="otherlevel">
+                    <did>
+                        <unittitle>Index to Post Bulletins</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">59</container>
+                        <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Meeting--Zurich</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">60</container>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>Post Bulletin</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">61</container>
+                        <unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>Index to Post Bulletins</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">62</container>
+                        <unitdate normal="1950/1959" type="inclusive">1950-1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="otherlevel">
+                    <did>
+                        <unittitle>Congress Resolutions</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">63</container>
+                        <unitdate normal="1951/1954" type="inclusive">1951-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>Report--"Avenues of Advancement"</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">64</container>
+                        <unitdate normal="1953/1953">1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Meetings--Copenhagen, Vienna</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">65</container>
+                        <unitdate normal="1959/1960" type="inclusive">1959-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="otherlevel">
+                    <did>
+                        <unittitle>Report--Study Trip to Africa</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">66</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee on African, Asian, and Latin American Affairs</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">67</container>
+                        <unitdate normal="1961/1962" type="inclusive">1961-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="otherlevel">
+                    <did>
+                        <unittitle>Executive Committee Reports</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">68</container>
+                        <unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="otherlevel">
+                    <did>
+                        <unittitle>History of the International Labor Movement and ICTFU</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">69</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>Financial Report</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">70</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="otherlevel">
+                    <did>
+                        <unittitle>PTTI Draft Constitution</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">71</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="otherlevel">
+                    <did>
+                        <unittitle>Eighteenth Congress--London</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">72</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>Reports--eighteenth Congress</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">73</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="otherlevel">
+                    <did>
+                        <unittitle>PTTI Resolutions</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">74</container>
+                        <unitdate normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="otherlevel">
+                    <did>
+                        <unittitle>Congress--Brussels</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">75</container>
+                        <unitdate normal="1966/1966">1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>PTTI Statutes</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">76</container>
+                        <unitdate normal="1914/1967" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>The British Unions and the PTTI</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">77</container>
+                        <unitdate normal="1914/1967" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>List of Study Reports by PTTI</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">78</container>
+                        <unitdate normal="1914/1967" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>Affiliations</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">79</container>
+                        <unitdate normal="1914/1967" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="otherlevel">
+                    <did>
+                        <unittitle>PTTI Congress Standing Orders</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">80</container>
+                        <unitdate normal="1914/1967" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

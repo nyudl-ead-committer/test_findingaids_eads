@@ -1,0 +1,2927 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="us" mainagencycode="us-NNU-TL">pittman</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the John Pittman Papers
+                    <num>TAM 188</num>
+                </titleproper>
+                <author>Finding aid prepared by Elliot Silver and Peter Meyer Filardo, 2003</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from Pittman Guide.doc</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2009-06-30T16:05-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Pittman Papers</unittitle>
+            <unitid>TAM 188</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>6.0 Linear feet</extent>
+                <extent>(6 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1926/1983" type="bulk">Bulk, 1926-1983</unitdate>
+            <unitdate normal="1905/1987" type="inclusive">1905-1987, (Bulk 1926-1983)</unitdate>
+            <abstract id="ref3" label="Abstract">John Pittman (1906-1993) was an African-American communist journalist and writer born in Atlanta. He graduated from Morehouse College, and received an M.A. in Economics (1930) from the University of California at Berkeley. In 1931, he founded and served as editor of the 
+                <title render="italic">San Francisco Spokesman</title>, renamed 
+                <title render="italic">The Spokesman</title>. Pittman became an editor of the (daily) 
+                <title render="italic">People's World</title>. Pittman traveled to Europe as a correspondent for the Communist Party's newspapers: 
+                <title render="italic">Daily Worker</title>(New York), 
+                <title render="italic">People's World</title>, and for the 
+                <title render="italic">Chicago Defender</title>. He married fellow communist Margrit Adler and together were Moscow correspondents for the CPUSA press. Pittman was also the founding co-editor of the 
+                <title render="italic">Daily World</title>in New York. The collection includes biographical materials, correspondence, writings and documentation of his political activities.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Pittman, John.</persname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>Gift of Margrit Pittman (widow), 1997.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>John Pittman (1906-1993), an African-American communist journalist, was born in Atlanta, graduated from Morehouse College, and received an M.A. in Economics (1930) from the University of California at Berkeley, with a thesis titled "Railroads and Negro Labor." After a brief stint at Stanford Law School, and jobs as a waiter on the Southern Pacific Railroad and as secretary to art patron Noel Sullivan, in October, 1931 he founded and served as editor of the 
+                <title render="italic">San Francisco Spokesman</title>(a weekly newspaper for the Bay Area African American community), which by 1934 had been renamed 
+                <title render="italic">The Spokesman</title>, reflecting Pittman's broader ambitions and leftward political evolution. During that year's San Francisco general strike, he lent 
+                <title render="italic">The Spokesman's</title>printing presses to the fledgling Communist Party newspaper, the 
+                <title render="italic">Western Worker,</title>resulting in their destruction by right-wing vigilantes. Then Pittman went to work for the 
+                <title render="italic">Western Worker,</title>becoming by 1941 the editor of its successor, the (daily) 
+                <title render="italic">People's World.</title>In this capacity, he appeared regularly on radio station KSAN (San Francisco) in 1941-1942.</p>
+            <p>In 1945 he covered the founding conference of the United Nations, and in 1946 received his divorce from his first wife Merle Nance Pittman. In 1947 Pittman traveled to Europe as a correspondent for the Communist Party's newspapers 
+                <title render="italic">Daily Worker</title>(New York) and 
+                <title render="italic">People's World</title>, and for the 
+                <title render="italic">Chicago Defender</title>, a trip made possible by progressive notables including Lena Horne, Paul Jarrico, Albert Maltz, and Dalton Trumbo, whose financial support was coordinated by Los Angeles attorney Leo Gallagher. After his return he married fellow communist Margrit Adler, a German-Jewish antifascist refugee and German-American political activist. They remained in New York until 1955, when they moved to San Francisco with their two children, Carol and John Peter. There Pittman again worked for the 
+                <title render="italic">People's World</title>. From 1959-1961 the Pittmans were Moscow correspondents for the CPUSA press. In 1968 Pittman came to New York to become the founding co-editor of the 
+                <title render="italic">Daily World</title>(the result of the merger of the Party's West and East Coast weekly newspapers). In the late 1970s Pittman went to Prague as the Party's representative on the editorial board of the 
+                <title render="italic">World Marxist Review</title>, returning to New York in 1987. In addition to his newspaper writings, Pittman contributed some two dozen articles to the Party's monthly journal 
+                <title render="italic">Political Affairs</title>, and wrote 
+                <title render="italic">Africa Calling, Isolate the Racists: The Liberation Struggle in Southern Africa</title>(1973), and (with Margrit Pittman) 
+                <title render="italic">Sense and Nonsense About Berlin</title>(1962) and 
+                <title render="italic">Peaceful Coexistence: Its Theory and Practice in the Soviet Union</title>(1964).</p>
+            <p>
+                <emph render="bold">Selected Bibliography (arranged chronologically):</emph></p>
+            <p>
+                <bibref>
+                    <title render="italic">Railroads and Negro Labor.</title>Thesis (M.A. in Economics)--University of California, Berkeley, Dec 1930. 92 leaves.</bibref></p>
+            <p>
+                <bibref>"A Perspective for Forging Negro-White Unity." 
+                    <title render="italic">Communist</title>23 (Jan, Feb 1944): 86-91, 174-181.</bibref></p>
+            <p>
+                <bibref>"The Negro People Spark the Fight for Peace." 
+                    <title render="italic">Political Affairs</title>25 (Aug 1946): 724-733.</bibref></p>
+            <p>
+                <bibref>"War on Korea: Point IV in Action." 
+                    <title render="italic">Political Affairs</title>29 (Aug 1950): 40-50.</bibref></p>
+            <p>
+                <bibref>"Africa and the United States." 
+                    <title render="italic">Political Affairs</title>37(Feb 1958): 48-52.</bibref></p>
+            <p>
+                <bibref>"Books in Review: The Diplomacy of World War II." 
+                    <title render="italic">Political Affairs</title>37 
+                    <title render="italic"></title>(Apr 1958): 46-53.</bibref></p>
+            <p>
+                <bibref>"The October Revolution and National Liberation." 
+                    <title render="italic">Political Affairs</title>46 (Nov 1967): 27-38.</bibref></p>
+            <p>
+                <bibref>"Book Reviews: Toward Eradication of Colonialism." 
+                    <title render="italic">Political Affairs</title>47 (Feb 1968): 90-97.</bibref></p>
+            <p>
+                <bibref>"Laos: Testing Ground of the Nixon Doctrine." 
+                    <title render="italic">Political Affairs</title>49 (Oct 1970): 11-19.</bibref></p>
+            <p>
+                <bibref>"Indochina's 25 Year Struggle Against U.S. Imperialism." 
+                    <title render="italic">Political Affairs</title>50 (Feb 1971): 1-13.</bibref></p>
+            <p>
+                <bibref>
+                    <title render="italic">Africa Calling, Isolate the Racists: The Liberation Struggle in Southern Africa.</title>New York: New Outlook Publishers, 1973. 31 pp.</bibref></p>
+            <p>
+                <bibref>"Arena of Class Struggle: The United Nations, Part I." 
+                    <title render="italic">Political Affairs</title>52 (Mar 1973): 18-29.</bibref></p>
+            <p>
+                <bibref>"Arena of Class Struggle: The United Nations, Part II." 
+                    <title render="italic">Political Affairs</title>52 (Apr 1973): 31-40.</bibref></p>
+            <p>
+                <bibref>"A Guiding Ideology for Anti-Racist, Anti-Monopoly Struggle." 
+                    <title render="italic">Political Affairs</title>52 (Aug 1973) 18-30.</bibref></p>
+            <p>
+                <bibref>"The United Nations and the Struggle for Détente." 
+                    <title render="italic">Political Affairs</title>53 (Oct 1974): 44-54.</bibref></p>
+            <p>
+                <bibref>"Building the Communist Press." 
+                    <title render="italic">Political Affairs</title>54 (Mar 1975): 24-37.</bibref></p>
+            <p>
+                <bibref>"What's New in Soviet Agriculture." 
+                    <title render="italic">Political Affairs</title>54 (Jul 1975): 3-20.</bibref></p>
+            <p>
+                <bibref>"Book Reviews: A Man of Heroic Mold." 
+                    <title render="italic">Political Affairs</title>55 (Feb 1976): 54-64.</bibref></p>
+            <p>
+                <bibref>"The Bonn Congress of the German Communist Party." 
+                    <title render="italic">Political Affairs</title>55 (Jun 1976): 24-34.</bibref></p>
+            <p>
+                <bibref>"From Cradle of Bourgeois Freedom to State Monopoly Capitalism." 
+                    <title render="italic">Political Affairs</title>55 (Jul 1976): 7-9.</bibref></p>
+            <p>
+                <bibref>"Racism and War." 
+                    <title render="italic">Political Affairs</title>57 (May 1978): 22-27.</bibref></p>
+            <p>
+                <bibref>"Afro-American Struggle Today - A Framework." 
+                    <title render="italic">Political Affairs</title>58 (Feb 1979): 14-22.</bibref></p>
+            <p>
+                <bibref>"Bulgarian Theoretical Conference: Agreement on Basic Principles." 
+                    <title render="italic">Political Affairs</title>58 (Mar 1979): 2-7.</bibref></p>
+            <p>
+                <bibref>"Is Socialism Applicable to the U.S?" 
+                    <title render="italic">Political Affairs</title>59 (Sep 1980): 12-18.</bibref></p>
+            <p>
+                <bibref>"Détente: The Only Sane Option." 
+                    <title render="italic">Political Affairs</title>61 (May 1982): 2-8.</bibref></p>
+            <p>
+                <bibref>"The Class Role of Affirmative Action." 
+                    <title render="italic">Political Affairs</title>62 (Mar 1983): 18-24.</bibref></p>
+            <p>
+                <bibref>"The American Heritage of Karl Marx." 
+                    <title render="italic">Political Affairs</title>62 (Oct 1983): 15-23.</bibref></p>
+            <p>
+                <bibref>"Restructuring the World Economy." 
+                    <title render="italic">Political Affairs</title>64 (Nov 1985): 18-24.</bibref></p>
+            <p>
+                <bibref>Pittman, John and Margrit.</bibref></p>
+            <p>
+                <bibref>
+                    <title render="italic">Sense and Nonsense About Berlin.</title>New York: New Century Publishers, 1962. 60 pp.</bibref></p>
+            <p>
+                <bibref>
+                    <title render="italic">Peaceful Coexistence: Its Theory and Practice in the Soviet Union.</title>New York: International Publishers, 1964. 156 pp.</bibref></p>
+            <p>
+                <emph render="bold">Pittman, Margrit</emph></p>
+            <p>
+                <bibref>"The San Francisco Peace Referendum." 
+                    <title render="italic">Political Affairs</title>47 (1968): 58-63.</bibref></p>
+            <p>
+                <bibref>"25 Years of the German Democratic Republic." 
+                    <title render="italic">Political Affairs</title>53 (Oct 1974): 55-62.</bibref></p>
+            <p>
+                <bibref>"Democracy in Czechoslovakia." 
+                    <title render="italic">Political Affairs</title>56 (Mar 1977): 13-18.</bibref></p>
+            <p>
+                <bibref>"Women, Children, Marriage - the Experience of Socialism." 
+                    <title render="italic">Political Affairs</title>61 (Mar 1982): 10-14.</bibref></p>
+            <p>
+                <bibref>"Women's Equality in the German Democratic Republic." 
+                    <title render="italic">Political Affairs</title>66 (Mar 1987): 14-18.</bibref></p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The small Biographical series (arranged alphabetically) contains a Badger family genealogy, documents relating to Carrie Badger Pittman, school records, phone books, press cards and credentials, invitations, a Paul Robeson autograph, various personal and legal documents (including re his 1945-46 divorce from Merle Nance), ephemera, and memorabilia.</p>
+            <p>The Correspondence (most incoming), comprising one quarter of the collection, is organized into two subseries, Chronological (1925-1959) and Alphabetical (bulk 1960-1983) and contains letters from family members, friends (including fellow Morehouse alumni), U.S. and foreign Communist cadre, and African American journalists and activists, including numerous letters received in Pittman's capacity as editor of the 
+                <title render="italic">Spokesman.</title>Correspondents include the African American communists Marvel Cooke, Ben Davis Jr., Ishmael Flory (a lifelong friend), cartoonist Oliver Harrington, Angelo Herndon, James Jackson, William Patterson, Doxey Wilkerson, and Henry Winston; communists Herbert Aptheker, Phil Bart, Morris Childs, Eugene Dennis, Betty Gannett, Gus Hall, V.J. Jerome, Al Richmond, Art Shields, and Jessica Smith; African American newspaper editor Charlotta A. Bass and Max Yergan, both of the Council on African Affairs; Ben Burns and Metz T.P. Lochard (respectively, editor and publisher) of the 
+                <title render="italic">Chicago Defender</title>; Pittman's parents Carrie Badger Pittman and John Pittman Sr., cousin Claybert Robinson, and other relatives; friends D.D. Richardson, Mason and Doris Roberson, C.V. Roman, Robert "Red" Saxon, and George A. Towns; letters from Cedric Belfrage, Frederick Vanderbilt Field, Lion Feuchtwanger, attorneys Leo Gallagher and John T. McTernan, Benjamin E. Mays (President, Morehouse College), A. Philip Randolph, Noel Sullivan, Roy Wilkins; and, from Langston Hughes, a 1934 letter ("Dear Johnny") praising Communist-led unions for not discriminating against Negroes.</p>
+            <p>The Political Activities series (arranged alphabetically, bulk 1960-) contains Communist Party internal documents primarily re: the 'Negro Question' (1930s-1980s), notes taken at several 1983 meetings of the Party's Political Bureau, Central Committee, and African-American Commission, a notebook from a 1961 trip to the USSR, materials related to a course taught at the Jefferson School of Social Science, a file of Democratic Party of California documents re the 1932 mobilization of Negro voters (Pittman was an advocate of realigning the Negro vote from its traditional Republican Party orientation), and clippings and ephemera relating to various events and topics.</p>
+            <p>The Writings series (arranged alphabetically, bulk 1960-83) comprises somewhat more than half of the collection and contains typescripts of radio speeches given on KSAN, journalism dispatches, newspaper column typescripts and clippings, press telegrams from Moscow, photocopies of his articles in 
+                <title render="italic">Political Affairs</title>, notebooks, typescripts for numerous unpublished and published articles and for several pamphlets and for papers given at conferences sponsored by 
+                <title render="italic">World Marxist Review</title>and other communist fora. Pittman's writings were largely concerned with the problems and struggles of African Americans and of people of color worldwide, the strategy and tactics of the communist movement, and with its relationship to the capitalist powers and the developing countries.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The papers are organized into four series: I. Biographical; II. Correspondence; III. Political Activities; IV. Writings.</p>
+            <p>Folders are generally arranged alphabetically within each series.</p>
+        </arrangement>
+        <separatedmaterial id="ref334">
+            <head>Separated Material</head>
+            <p>Separated to the Library's Non Print collection were: some 45 photos, including images of Pittman, his mother, friends, relatives, Angela Davis and Paul Robeson, and images from his travels; 5 insignia from Pittman's journalism career (for column mastheads and titles, and one containing an image of Pittman's face); a Communist Party of Great Britain poster, and a color reproduction of the Thomas Benton painting "Soldier of America" (African-American soldier charging with fixed bayonet).</p>
+        </separatedmaterial>
+        <userestrict id="ref335">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref336">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="ingest">Aptheker, Herbert, 1915-2003.</persname>
+            <persname source="ingest">Bass, Charlotta A., 1880-1969.</persname>
+            <persname source="ingest">Belfrage, Cedric, 1904-1990.</persname>
+            <persname source="ingest">Burns, Ben.</persname>
+            <persname source="ingest">Childs, Morris, 1902-1991.</persname>
+            <corpname source="naf">Communist Party of the United States of America.</corpname>
+            <persname source="ingest">Davis, Benjamin J. (Benjamin Jefferson), 1903-1964.</persname>
+            <persname source="ingest">Dennis, Eugene, 1905-</persname>
+            <persname source="ingest">Feuchtwanger, Lion, 1884-1958.</persname>
+            <persname source="ingest">Field, Frederick Vanderbilt, 1905-</persname>
+            <persname source="ingest">Flory, Ishmael.</persname>
+            <persname source="ingest">Gallagher, Leo.</persname>
+            <persname source="ingest">Gannett, Betty.</persname>
+            <persname source="ingest">Hall, Gus.</persname>
+            <persname source="ingest">Harrington, Oliver W. (Oliver Wendell), 1912-</persname>
+            <persname source="ingest">Herndon, Angelo, 1913-</persname>
+            <persname source="ingest">Hughes, Langston, 1902-1967.</persname>
+            <persname source="ingest">Jackson, James</persname>
+            <persname source="ingest">Jerome, V. J. (Victor Jeremy), 1896-1965.</persname>
+            <corpname source="ingest">KSAN (Radio station : San Francisco, Calif.)</corpname>
+            <persname source="ingest">Lochard, Metz T. B., 1896-1984.</persname>
+            <persname source="ingest">Mays, Benjamin E. (Benjamin Elijah), 1894-1984.</persname>
+            <corpname source="ingest">Morehouse College (Atlanta, Ga.)</corpname>
+            <persname source="naf">Patterson, William L. (William Lorenzo), 1890-1980.</persname>
+            <persname source="ingest">Pittman, John.</persname>
+            <persname source="ingest">Randolph, A. Philip (Asa Philip), 1889-</persname>
+            <persname source="naf">Richmond, Al, 1913-1987.</persname>
+            <persname source="naf">Shields, Art, 1888-</persname>
+            <persname source="ingest">Smith, Jessica, 1895-</persname>
+            <persname source="ingest">Sullivan, Noel</persname>
+            <persname source="ingest">Wilkerson, Doxey Alphonso, 1905-</persname>
+            <persname source="ingest">Wilkins, Roy, 1901-</persname>
+            <persname source="naf">Winston, Henry, 1911-1986.</persname>
+            <persname source="ingest">Yergan, Max, 1894-1975.</persname>
+            <subject source="lcsh">African American communists.</subject>
+            <subject source="lcsh">African American journalists.</subject>
+            <subject source="lcsh">African American press.</subject>
+            <subject source="lcsh">African Americans--History--20th century.</subject>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <subject source="lcsh">Communism--United States.</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <genreform source="aat">Ephemera.</genreform>
+            <subject source="lcsh">Journalism, Communist.</subject>
+            <subject source="lcsh">Journalism--United States.</subject>
+            <genreform source="aat">Legal documents.</genreform>
+            <genreform source="aat">Manuscripts for publication.</genreform>
+            <genreform source="aat">Notebooks.</genreform>
+            <subject source="lcsh">Press, Communist.</subject>
+            <genreform source="aat">Speeches.</genreform>
+            <genreform source="aat">Telegrams.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series I. Biographical</unittitle>
+                </did>
+                <c02 id="ref12" level="otherlevel">
+                    <did>
+                        <unittitle>Badger, Robert H. (father of Carrie Badger): Last Will &amp; Testament</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1905/1905">1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>Biographical Materials - Chronological</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>Biographical Materials - Chronological</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1925/1977" type="inclusive">1925-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Daily World</title>Tribute for John Pittman and Carl Winter 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>Family Bible Genealogy</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Invitations</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1931/1979" type="inclusive">1931-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>Phone Books (4)</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman, Carrie Badger: Divorce from John Pittman, Sr.; Commitment to New York State Hospital</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1917/1952" type="inclusive">1917 , 1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman, John: Divorce from Merle Nance Pittman</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">8A</container>
+                        <unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman, John: Medical</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">8B</container>
+                        <unitdate normal="1947/1983" type="inclusive">1947-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Press Cards and Credentials</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1926/1958" type="inclusive">1926-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Robeson, Paul - Autograph</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1966/1966">1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>School Records</unittitle>
+                        <container type="Box">1</container>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1914/1966" type="inclusive">1914-1966</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref25" level="series">
+                <did>
+                    <unittitle>Series II. Correspondence</unittitle>
+                </did>
+                <c02 id="ref26" level="subseries">
+                    <did>
+                        <unittitle>Subseries A: Chronological</unittitle>
+                    </did>
+                    <scopecontent id="ref46">
+                        <head>Scope and Contents note</head>
+                        <p>NOTE: letters from the highlighted correspondents may ALSO appear in adjacent and/or other folders within this series.</p>
+                    </scopecontent>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">12</container>
+                            <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letter s from A. Philip Randolph, D.D. Richardson, C.V. Roman (M.D.), Robert "Red" Saxon; various relatives)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">13</container>
+                            <unitdate normal="1926/1929" type="inclusive">1926-1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">14</container>
+                            <unitdate normal="1925/1945" type="inclusive">ca.1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from D.D. Richardson, John Pittman Sr., Ishmael Flory)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">15</container>
+                            <unitdate normal="1930/1930">1930</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes 
+                                <title render="italic">San Francisco Spokesman</title>)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">16</container>
+                            <unitdate normal="1931/1931">1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes 
+                                <title render="italic">San Francisco Spokesman</title>)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">17</container>
+                            <unitdate normal="1932/1932">1932</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes 
+                                <title render="italic">San Francisco Spokesman</title>)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">18</container>
+                            <unitdate normal="1933/1933">1933</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes 
+                                <title render="italic">San Francisco Spokesman</title>; letters from Roy Wilkins &amp; Langston Hughes)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">19</container>
+                            <unitdate normal="1934/1934">1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Ben Davis Jr. &amp; A. Philip Randolph)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">20</container>
+                            <unitdate normal="1935/1935">1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">21</container>
+                            <unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from V.J. Jerome &amp; Al Richmond)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">22</container>
+                            <unitdate normal="1942/1942">1942</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Angelo Herndon, V.J. Jerome, Eugene Dennis)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">23</container>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Lion Feuchtwanger, Marvel Cooke, Charlotta Bass, Max Yergan, Art Shields)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">24</container>
+                            <unitdate normal="1944/1944">1944</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Doxey Wilkerson, Claude Barnett ( 
+                                <title render="italic">Associated Negro Press</title>))</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">25</container>
+                            <unitdate normal="1945/1945">1945</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Morris Childs, William Patterson, John T. McTernan)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">26</container>
+                            <unitdate normal="1946/1946">1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Doxey Wilkerson &amp; Morris Childs)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">27</container>
+                            <unitdate normal="1947/1947">1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Doxey Wilkerson &amp; Charlotta Bass)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">28</container>
+                            <unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Cedric Belfrage, Charlotta Bass, Karl Nathan (Soviet Anti-Semitism)), Al Richmond, Claybert Robinson</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">29</container>
+                            <unitdate normal="1950/1955" type="inclusive">1950-1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence (Includes letters from Ben Davis, Ishmael Flory, James Jackson, Herbert Aptheker)</unittitle>
+                            <container type="Box">1</container>
+                            <container type="Folder">30</container>
+                            <unitdate normal="1956/1959" type="inclusive">1956-1959</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref47" level="subseries">
+                    <did>
+                        <unittitle>Subseries B: Alphabetical</unittitle>
+                    </did>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Unidentified</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">1</container>
+                            <unitdate normal="1971/1983" type="inclusive">1971-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - A</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">2</container>
+                            <unitdate normal="1962/1983" type="inclusive">1962-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Aptheker, Herbert and Bettina</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">3</container>
+                            <unitdate normal="1968/1975" type="inclusive">1968-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Attorneys</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">4</container>
+                            <unitdate normal="1953/1956" type="inclusive">1953-1956</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - B</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">5</container>
+                            <unitdate normal="1964/1983" type="inclusive">1964-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Bart, Phil</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">6</container>
+                            <unitdate normal="1974/1978" type="inclusive">1974-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - C</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">7</container>
+                            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - 
+                                <title render="italic">Chicago Defender</title>(Ben Burns, Metz T.P. Lochard)</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">7A</container>
+                            <unitdate normal="1942/1947" type="inclusive">1942-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - D</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">8</container>
+                            <unitdate normal="1967/1979" type="inclusive">1967-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence- Diskin, Lou</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">9</container>
+                            <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - E</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">10</container>
+                            <unitdate normal="1964/1983" type="inclusive">1964-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - F</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">11</container>
+                            <unitdate normal="1964/1982" type="inclusive">1964-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Field, Frederick</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">12</container>
+                            <unitdate normal="1946/1946">1946</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>Flory, Ishmael</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">12A</container>
+                            <unitdate normal="1930/1990" type="inclusive">ca.1940-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - G</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">13</container>
+                            <unitdate normal="1967/1982" type="inclusive">1967-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Gannett, Betty ( 
+                                <title render="italic">Political Affairs</title>)</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">14</container>
+                            <unitdate normal="1967/1969" type="inclusive">1967-1969</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - H</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">15</container>
+                            <unitdate normal="1963/1979" type="inclusive">1963-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Hall, Gus</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">16</container>
+                            <unitdate normal="1966/1979" type="inclusive">1966-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Harrington, Oliver</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">17</container>
+                            <unitdate normal="1968/1982" type="inclusive">1968-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Herndon, Angelo</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">18</container>
+                            <unitdate normal="1943/1943">1943</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Hughes, Langston</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">19</container>
+                            <unitdate normal="1934/1963" type="inclusive">1934 , ca.1953</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - I</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">20</container>
+                            <unitdate normal="1968/1981" type="inclusive">1968-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - J</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">21</container>
+                            <unitdate normal="1969/1983" type="inclusive">1969-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - K</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">22</container>
+                            <unitdate normal="1965/1978" type="inclusive">1965-1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - L</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">23</container>
+                            <unitdate normal="1968/1983" type="inclusive">1968-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Literary Rejections</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">24</container>
+                            <unitdate normal="1905/1987" type="inclusive">undated , 1925</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Lumer, Hyman</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">25</container>
+                            <unitdate normal="1963/1976" type="inclusive">1963-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - M</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">26</container>
+                            <unitdate normal="1963/1982" type="inclusive">1963-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Mays, Benjamin E. (President, Morehouse College)</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">26A</container>
+                            <unitdate normal="1943/1947" type="inclusive">1943-1947</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Meyers, George</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">27</container>
+                            <unitdate normal="1967/1976" type="inclusive">1967-1976</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Morton, Charlie and Goldee</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">28</container>
+                            <unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - N</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">29</container>
+                            <unitdate normal="1963/1982" type="inclusive">1963-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - O</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">30</container>
+                            <unitdate normal="1968/1975" type="inclusive">1968-1975</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - P</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">31</container>
+                            <unitdate normal="1967/1982" type="inclusive">1967-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Passport</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">32</container>
+                            <unitdate normal="1954/1954">1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Pittman, Carol</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">33</container>
+                            <unitdate normal="1968/1979" type="inclusive">1968-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence: Pittman, Carrie - letters to John Pittman</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">33A</container>
+                            <unitdate normal="1920/1936" type="inclusive">1920s-early 1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Pittman, Carrie - Death of</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">34</container>
+                            <unitdate normal="1958/1958">1958</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - re: Pittman, Carrie</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">35</container>
+                            <unitdate normal="1920/1954" type="inclusive">ca.1930-1934 , 1950-1954</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Pittman Family</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">36</container>
+                            <unitdate normal="1968/1971" type="inclusive">1968 , 1971</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Pittman, John Jr.</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">37</container>
+                            <unitdate normal="1968/1979" type="inclusive">1968 , 1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Pittman, John Sr.</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">38</container>
+                            <unitdate normal="1930/1934" type="inclusive">1930 , 1931 , 1934</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Pittman, Margrit</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">39</container>
+                            <unitdate normal="1968/1982" type="inclusive">1968-1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Postcards</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">40</container>
+                            <unitdate normal="1935/1955" type="inclusive">1935-1955</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - R</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">41</container>
+                            <unitdate normal="1963/1979" type="inclusive">1963-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Richmond, Al</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">42</container>
+                            <unitdate normal="1968/1968">1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Roberson, Mason (Moke) and Doris (Dobby)</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">43</container>
+                            <unitdate normal="1968/1983" type="inclusive">1968-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence -Paul Robeson Archives of (Berlin, East Germany)</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">44</container>
+                            <unitdate normal="1967/1967">1967</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Robinson, Claybert ("Clay") - cousin.</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">45</container>
+                            <unitdate normal="1956/1983" type="inclusive">1956 , 1970 , 1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - S</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">46</container>
+                            <unitdate normal="1963/1981" type="inclusive">1963-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Shields, Art</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">47</container>
+                            <unitdate normal="1967/1979" type="inclusive">1967-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Smith, Jessica ( 
+                                <title render="italic">New World Review</title>)</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">48</container>
+                            <unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Stone, I.F.</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">48A</container>
+                            <unitdate normal="1930/1950" type="inclusive">ca.1940s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - T</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">49</container>
+                            <unitdate normal="1963/1983" type="inclusive">1963-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Towns, George Alexander</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">50</container>
+                            <unitdate normal="1926/1931" type="inclusive">1926-1931</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - U-V</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">51</container>
+                            <unitdate normal="1968/1979" type="inclusive">1968-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - W-Z</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">52</container>
+                            <unitdate normal="1966/1983" type="inclusive">1966-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Winston, Henry</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">53</container>
+                            <unitdate normal="1969/1983" type="inclusive">1969-1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="otherlevel">
+                        <did>
+                            <unittitle>Correspondence - Winter, Carl and Family</unittitle>
+                            <container type="Box">2</container>
+                            <container type="Folder">54</container>
+                            <unitdate normal="1967/1979" type="inclusive">1967-1979</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref107" level="series">
+                <did>
+                    <unittitle>Series III: Political Activities</unittitle>
+                </did>
+                <c02 id="ref108" level="otherlevel">
+                    <did>
+                        <unittitle>ABU Membership List [Bay Area Black University students??]</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="otherlevel">
+                    <did>
+                        <unittitle>African Liberation Struggles Today (Course Outline) - Jefferson School of Social Science</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="otherlevel">
+                    <did>
+                        <unittitle>The African Peoples and their Struggle for Liberation (Course Evaluation) - Jefferson School of Social Science</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1954/1954">1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="otherlevel">
+                    <did>
+                        <unittitle>American - European March</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="otherlevel">
+                    <did>
+                        <unittitle>Asian - African Liberation Struggles (Winter Term Syllabus) - Jefferson School of Social Science</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="otherlevel">
+                    <did>
+                        <unittitle>China, Trip to - Journal</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="otherlevel">
+                    <did>
+                        <unittitle>CIO - Texas</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="otherlevel">
+                    <did>
+                        <unittitle>Clipping File - Scheme of Classification</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1972/1972">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party Internal Documents (Negro Question)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1930/1969" type="inclusive">1930s-1960s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party Internal Documents</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1979/1983" type="inclusive">1979-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party Meeting Notes (Central Committee, Political Bureau, African-American Commission)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party - Twenty-first National Convention</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">12</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party of the Soviet Union - Twenty-fifth Congress</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">13</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Daily World</title>- Job Applications 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">14</container>
+                        <unitdate normal="1968/1968">1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="otherlevel">
+                    <did>
+                        <unittitle>Democratic Party of California - Internal Documents re: Mobilization of Negroes</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">15</container>
+                        <unitdate normal="1922/1942" type="inclusive">ca.1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="otherlevel">
+                    <did>
+                        <unittitle>Hall, Gus</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">16</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="otherlevel">
+                    <did>
+                        <unittitle>Hinds, Lennox - Speech by (International Conference of Solidarity with the Struggle of African and Arab Peoples against Imperialism and Reaction)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">17</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="otherlevel">
+                    <did>
+                        <unittitle>"Hymn to the Rising Sun - A Short Play about an African-American Soldier," by Paul Green</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">18</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="otherlevel">
+                    <did>
+                        <unittitle>International Commission of Inquiry into US Crimes in Indochina</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">19</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="otherlevel">
+                    <did>
+                        <unittitle>International Contacts List</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">20</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="otherlevel">
+                    <did>
+                        <unittitle>Jackson, Maurice - Afro-American Peoples Struggles (Seminar - Havana, Cuba)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">21</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="otherlevel">
+                    <did>
+                        <unittitle>Leon, Gilbert (First Lieutenant) vs. United States (Brief Amicus Curiae) - Korean War</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">22</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="otherlevel">
+                    <did>
+                        <unittitle>Maran, Rene M. - Interview with</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">23</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="otherlevel">
+                    <did>
+                        <unittitle>May Day: Rallies and Speech</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">24</container>
+                        <unitdate normal="1953/1953">1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="otherlevel">
+                    <did>
+                        <unittitle>McCarran Act Protests Reported in Press</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">25</container>
+                        <unitdate normal="1952/1972" type="inclusive">ca.1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="otherlevel">
+                    <did>
+                        <unittitle>Murdock, Steve - Death of</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">26</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="otherlevel">
+                    <did>
+                        <unittitle>National Lawyer's Conference</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">27</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="otherlevel">
+                    <did>
+                        <unittitle>National Question - Jefferson School Typescripts</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">28</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="otherlevel">
+                    <did>
+                        <unittitle>Nationalities Question - Worldwide</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">29</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="otherlevel">
+                    <did>
+                        <unittitle>Negro Candidates for Election on New Party Ticket</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">30</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="otherlevel">
+                    <did>
+                        <unittitle>Negro Press Circulation Figures</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">31</container>
+                        <unitdate normal="1943/1943">1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="otherlevel">
+                    <did>
+                        <unittitle>Nikolai Miklukho-Maclay: Fighter Against Racism - By Y.Y. Roginsky</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">32</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="otherlevel">
+                    <did>
+                        <unittitle>North Korea, Trip To</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">33</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Philip Alexander Bell and the San Francisco Elevator,</title>By John H. Telfer (San Francisco Negro and Cultural Society, California History Series, Monograph # 9) 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">34</container>
+                        <unitdate normal="1966/1966">1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman, John and Margarit - List of Articles Approved for 
+                            <title render="italic">The Daily Worker</title>and 
+                            <title render="italic">People's World</title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">35</container>
+                        <unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman, John - Work Record of (1974-1979)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">36</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman's Books - Prague to New York</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">37</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="otherlevel">
+                    <did>
+                        <unittitle>Polan, Lou: Statement Before the House Un-American Activities Committee</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">38</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="otherlevel">
+                    <did>
+                        <unittitle>Prague / 
+                            <title render="italic">World Marxist Review</title>- Activities</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">39</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="otherlevel">
+                    <did>
+                        <unittitle>Racism and Racial Discrimination, World Conference for Education of</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">40</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="otherlevel">
+                    <did>
+                        <unittitle>Racism - 
+                            <title render="italic">World Marxist Review</title>- Symposium</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">41</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Railroad Workers Link</title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">42</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="otherlevel">
+                    <did>
+                        <unittitle>Real Estate Career</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">43</container>
+                        <unitdate normal="1954/1958" type="inclusive">1954-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="otherlevel">
+                    <did>
+                        <unittitle>Record of Work Done - Time Copy</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">44</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="otherlevel">
+                    <did>
+                        <unittitle>Republican Convention - By Richard Walker</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">45</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="otherlevel">
+                    <did>
+                        <unittitle>Rubin, Daniel - "On the Life of Henry Winston, National Chairman, C.P.U.S.A."</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">46</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="otherlevel">
+                    <did>
+                        <unittitle>San Francisco Workers School</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">47</container>
+                        <unitdate normal="1934/1934">1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="otherlevel">
+                    <did>
+                        <unittitle>Soviet Discussion - Letter to the Editor ( 
+                            <title render="italic">People's World</title>)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">48</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="otherlevel">
+                    <did>
+                        <unittitle>Soviet Press Agency Translations</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">49</container>
+                        <unitdate normal="1970/1978" type="inclusive">1970-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="otherlevel">
+                    <did>
+                        <unittitle>Soviet Union, Trip to - Notebook / Journal</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">50</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="otherlevel">
+                    <did>
+                        <unittitle>Speaking Engagements</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">51</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Spokesman :</title>Articles of Co-Partnership, etc. 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">52</container>
+                        <unitdate normal="1931/1934" type="inclusive">1931 , 1934</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="otherlevel">
+                    <did>
+                        <unittitle>United Nations Correspondents Association (Application for Membership)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">53</container>
+                        <unitdate normal="1953/1953">1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="otherlevel">
+                    <did>
+                        <unittitle>United Nations Founding Conference - San Francisco</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">54</container>
+                        <unitdate normal="1945/1945">1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Western Negro Statesman</title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">55</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref163" level="series">
+                <did>
+                    <unittitle>Series IV. Writings</unittitle>
+                </did>
+                <c02 id="ref164" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Africa Against the Axis</title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">56</container>
+                        <unitdate normal="1933/1953" type="inclusive">ca.1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Africa Calling: Isolate the Racists</title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">57</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="otherlevel">
+                    <did>
+                        <unittitle>"Aid to Africa" - Incomplete</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">58</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="otherlevel">
+                    <did>
+                        <unittitle>"American Communists" - 
+                            <title render="italic">Komsomolskaya Pravda</title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">59</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="otherlevel">
+                    <did>
+                        <unittitle>"American Motion Pictures - A Weapon of Imperialism"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">60</container>
+                        <unitdate normal="1947/1947">1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="otherlevel">
+                    <did>
+                        <unittitle>"Banning Nuclear War Propaganda"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">61</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="otherlevel">
+                    <did>
+                        <unittitle>"Behind the Iron Curtain" - 4 Part Series ( 
+                            <title render="italic">The Daily Worker</title>and 
+                            <title render="italic">People's World</title>)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">62</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">63</container>
+                        <unitdate normal="1973/1977" type="inclusive">1973-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="otherlevel">
+                    <did>
+                        <unittitle>"Building the Communist Press"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">64</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="otherlevel">
+                    <did>
+                        <unittitle>"Capitalism USA, As Catholic Bishops See It"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">65</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="otherlevel">
+                    <did>
+                        <unittitle>"Capitalist Integration in the Western Hemisphere"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">66</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="otherlevel">
+                    <did>
+                        <unittitle>Colloquium - Julius Lips Institute, Karl Marx University, Berlin</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">67</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="otherlevel">
+                    <did>
+                        <unittitle>"Color Blindness - A Ploy to Derail Affirmative Action" (for 
+                            <title render="italic">Black Liberation Journal</title>)</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">68</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="otherlevel">
+                    <did>
+                        <unittitle>"Combating Crisis Consequences"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">69</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="otherlevel">
+                    <did>
+                        <unittitle>"Combating Effects of the Worst Crisis"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">70</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="otherlevel">
+                    <did>
+                        <unittitle>"Coming Battle for a Military Détente"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">71</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="otherlevel">
+                    <did>
+                        <unittitle>"Communists by the Minute"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">72</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="otherlevel">
+                    <did>
+                        <unittitle>"Concerning Native Americans and Peoples from the Caribbean and Central American Areas"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">73</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="otherlevel">
+                    <did>
+                        <unittitle>Conferences and Symposia (held in the) USSR - Pittman typescripts</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">74</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="otherlevel">
+                    <did>
+                        <unittitle>Conferences and Symposia ( 
+                            <title render="italic">World Marxist Review</title>) - Pittman typescripts</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">75</container>
+                        <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="otherlevel">
+                    <did>
+                        <unittitle>Conferences and Symposia, Miscellaneous ( 
+                            <title render="italic">WMR</title>?) - Pittman typescripts</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">76</container>
+                        <unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="otherlevel">
+                    <did>
+                        <unittitle>"The C.P.U.S.A. and U.S. Public Opinion"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">77</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="otherlevel">
+                    <did>
+                        <unittitle>"C.P.U.S.A: Origins and Sources of the C.P.U.S.A."</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">78</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="otherlevel">
+                    <did>
+                        <unittitle>"The C.P.U.S.A's 65 Year Fight for Peace"</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">79</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="otherlevel">
+                    <did>
+                        <unittitle>Daily Review of Soviet Press</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">80</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">"The Daily Worker</title>and Freedom of the Press" 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">81</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Daily World</title>, Content of - (For 
+                            <title render="italic">Party Affairs</title>) 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">82</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">"The Daily World</title>, In the Struggle for the Masses" 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">83</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="otherlevel">
+                    <did>
+                        <unittitle>"Davis, Angela" - Untitled ts</unittitle>
+                        <container type="Box">3</container>
+                        <container type="Folder">84</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="otherlevel">
+                    <did>
+                        <unittitle>"DeGaulle and U.S., Mandate System, Wallace's View"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1944/1944">1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="otherlevel">
+                    <did>
+                        <unittitle>"Economic Planning" (Note cards and ts)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="otherlevel">
+                    <did>
+                        <unittitle>"Equality for Afro-Americans: The Communist View" (Drafts)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="otherlevel">
+                    <did>
+                        <unittitle>"The Equality of Nations - Notes on"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="otherlevel">
+                    <did>
+                        <unittitle>"Existing Socialism: Its Meaning for the USA"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="otherlevel">
+                    <did>
+                        <unittitle>Fictional Writings Notebook</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1953/1973" type="inclusive">ca.1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="otherlevel">
+                    <did>
+                        <unittitle>"Focus on Racism" - (3 ts)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="otherlevel">
+                    <did>
+                        <unittitle>"For Peace, Jobs, and Equality"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="otherlevel">
+                    <did>
+                        <unittitle>"From Cradle of Bourgeois Freedom to State Monopoly Capitalism"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Ganbatte</title>- Book Review 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="otherlevel">
+                    <did>
+                        <unittitle>German Communist Party Conference (Bonn), Reports from</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="otherlevel">
+                    <did>
+                        <unittitle>"Government by the People" (60th Anniversary of Russian Revolution)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">12</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="otherlevel">
+                    <did>
+                        <unittitle>"The Great October Revolution and the United States of America" (For the International Conference of 
+                            <title render="italic">World Marxist Review</title>)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">13</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="otherlevel">
+                    <did>
+                        <unittitle>"Grim Future for Native Americans"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">14</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="otherlevel">
+                    <did>
+                        <unittitle>"How People's Democracies Emerged"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">15</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="otherlevel">
+                    <did>
+                        <unittitle>"How Polish Government is Liquidating Bigotry"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">16</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="otherlevel">
+                    <did>
+                        <unittitle>"How Socialist States Help Africa and Why" ts - 
+                            <title render="italic">New Quarterly</title></unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">17</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="otherlevel">
+                    <did>
+                        <unittitle>"The Ideology of U.S. Messianism"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">18</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="otherlevel">
+                    <did>
+                        <unittitle>"Imperialism's Main War Party - Then and Now"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">19</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="otherlevel">
+                    <did>
+                        <unittitle>"An Impression of John Hope" (President, Morehouse College)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">20</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="otherlevel">
+                    <did>
+                        <unittitle>"Impressions of Socialist Korea"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">21</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="otherlevel">
+                    <did>
+                        <unittitle>"Inevitability of War in the Capitalist World"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">22</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="otherlevel">
+                    <did>
+                        <unittitle>"Information for Changing the World"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">23</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="otherlevel">
+                    <did>
+                        <unittitle>"Inter-American Relations and the Export of Capital"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">24</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="otherlevel">
+                    <did>
+                        <unittitle>"Jewish-Negro Relations"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">25</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="otherlevel">
+                    <did>
+                        <unittitle>Journalism Dispatches</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">26</container>
+                        <unitdate>1940s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="otherlevel">
+                    <did>
+                        <unittitle>Journalism Dispatches</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">27</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="otherlevel">
+                    <did>
+                        <unittitle>Journalism Dispatches ( 
+                            <title render="italic">Daily Worker)</title></unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">28</container>
+                        <unitdate normal="1945/1945">1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="otherlevel">
+                    <did>
+                        <unittitle>Journalism Dispatches ( 
+                            <title render="italic">Daily Worker, People's World, Chicago Defender)</title></unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">29</container>
+                        <unitdate normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="otherlevel">
+                    <did>
+                        <unittitle>Journalism Dispatches ( 
+                            <title render="italic">Daily Worker, People's World, Chicago Defender)</title></unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">30</container>
+                        <unitdate normal="1947/1947">1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="otherlevel">
+                    <did>
+                        <unittitle>Journalism Dispatches</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">31</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="otherlevel">
+                    <did>
+                        <unittitle>"Ku Klux Klan" by John Badger (aka John Pittman)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">32</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="otherlevel">
+                    <did>
+                        <unittitle>"The Logic of a Life" ( 
+                            <title render="italic">Soviet Foreign Literature</title>)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">33</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="otherlevel">
+                    <did>
+                        <unittitle>Lovejoy, E.P. - "N.S. Khrushchev's Visit Opens Way to a Significant Improvement in US - USSR Relations"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">34</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="otherlevel">
+                    <did>
+                        <unittitle>"Mandate System and World Peace" (Germany/Africa)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">35</container>
+                        <unitdate normal="1936/1936">1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="otherlevel">
+                    <did>
+                        <unittitle>"Marxist - Leninist Party in the Soviet Union"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">36</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="otherlevel">
+                    <did>
+                        <unittitle>"Marxist Philosophy"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">37</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="otherlevel">
+                    <did>
+                        <unittitle>"May Day Centenary"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">38</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="otherlevel">
+                    <did>
+                        <unittitle>"May First: Its Origin and Significance"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">39</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="otherlevel">
+                    <did>
+                        <unittitle>Miscellaneous Writings</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">40</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="otherlevel">
+                    <did>
+                        <unittitle>"Morehouse College Football Dope for 1925"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">41</container>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="otherlevel">
+                    <did>
+                        <unittitle>"Multi-National State Development"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">42</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="otherlevel">
+                    <did>
+                        <unittitle>"Nate Shaw: Man of the Heroic Mold (An Anatomy of the Survivals of Slavery: a Damning Indictment of Racism)"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">43</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="otherlevel">
+                    <did>
+                        <unittitle>"National Issues Before Congress Now in Session" - ( 
+                            <title render="italic">The Spokesman</title>) By John Pierpont (aka John Pittman)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">44</container>
+                        <unitdate normal="1937/1937">1937</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="otherlevel">
+                    <did>
+                        <unittitle>"National Questions in the USA in the 1970s"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">45</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns (Clippings and Typescripts) Most by Robert Badger</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">46</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated , 1942-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns- 
+                            <title render="italic">The Daily Worker</title>(Clippings)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">47</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns (Typescripts)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">48</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated , 1946-1947</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns- 
+                            <title render="italic">The Daily Worker</title>(Clippings) "Of Things to Come"</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">49</container>
+                        <unitdate normal="1949/1953" type="inclusive">1949-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns (Typescripts and Clippings)</unittitle>
+                        <container type="Box">4</container>
+                        <container type="Folder">50</container>
+                        <unitdate normal="1970/1980" type="inclusive">1970-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns (Typescripts and Clippings)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="otherlevel">
+                    <did>
+                        <unittitle>Newspaper Columns (Typescripts and Clippings)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1982/1983" type="inclusive">1982-1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="otherlevel">
+                    <did>
+                        <unittitle>North Korea, Trip to</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1969/1969">1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="otherlevel">
+                    <did>
+                        <unittitle>Notebooks (14)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1921/1941" type="inclusive">ca.1931 , ca.1968-1970s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="otherlevel">
+                    <did>
+                        <unittitle>Notebooks: International Conference on the October Revolution and the Contemporary Scene</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="otherlevel">
+                    <did>
+                        <unittitle>Notebooks on Race (4)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="otherlevel">
+                    <did>
+                        <unittitle>"Oriental Labor in California" (Bibliography)</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="otherlevel">
+                    <did>
+                        <unittitle>"Party Theoretical Work: Basis of Political and Ideological Struggle"</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="otherlevel">
+                    <did>
+                        <unittitle>"Peaceful Coexistence" Book Review</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="otherlevel">
+                    <did>
+                        <unittitle>"Permanent Commissions of the Soviets"</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="otherlevel">
+                    <did>
+                        <unittitle>Pittman, Margrit, Writings re: Soviet Union</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1959/1962" type="inclusive">1959-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="otherlevel">
+                    <did>
+                        <unittitle>Playwriting, Notes on</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">12</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="otherlevel">
+                    <did>
+                        <unittitle>"Point Four - New Name for the Old Imperialism"</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">13</container>
+                        <unitdate normal="1950/1950">1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Political Affairs</title>- Articles (ts) 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">14</container>
+                        <unitdate normal="1973/1983" type="inclusive">1973 , 1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Political Affairs</title>- articles (photocopies) 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">14A</container>
+                        <unitdate normal="1958/1985" type="inclusive">1958-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Political Affairs</title>- Margrit Pittman articles (photocopies) 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">14B</container>
+                        <unitdate normal="1968/1987" type="inclusive">1968-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">15</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">16</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">17</container>
+                        <unitdate>Jan 1960-Jun 1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">18</container>
+                        <unitdate>Jul 1960-Dec 1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">19</container>
+                        <unitdate>Jan 1961-Jun 1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">20</container>
+                        <unitdate>Jul 1961-Dec 1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="otherlevel">
+                    <did>
+                        <unittitle>Press Telegrams from Moscow</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">21</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="otherlevel">
+                    <did>
+                        <unittitle>"Problem of the Subjective Lag"</unittitle>
+                        <container type="Box">5</container>
+                        <container type="Folder">22</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="otherlevel">
+                    <did>
+                        <unittitle>"Problems of an Unemployed American"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1951/1971" type="inclusive">ca.1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="otherlevel">
+                    <did>
+                        <unittitle>"Proletarian Internationalism and the Revolutionary Process"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref269" level="otherlevel">
+                    <did>
+                        <unittitle>"Race and the Pacific"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref270" level="otherlevel">
+                    <did>
+                        <unittitle>"Racism and War" (Parts I And II.)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="otherlevel">
+                    <did>
+                        <unittitle>"Racism, Class Roots of"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref272" level="otherlevel">
+                    <did>
+                        <unittitle>"Racism, Current Problems of the Struggle Against"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref273" level="otherlevel">
+                    <did>
+                        <unittitle>"Racism: The Death Sentence for/A Death Sentence for/Is Sentenced to Death"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref274" level="otherlevel">
+                    <did>
+                        <unittitle>Radio Broadcasts: KSAN (San Francisco)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref275" level="otherlevel">
+                    <did>
+                        <unittitle>Radio Broadcasts: KSAN (San Francisco)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">8A</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref276" level="otherlevel">
+                    <did>
+                        <unittitle>"Readings from the Marxist - Leninist Classics"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref277" level="otherlevel">
+                    <did>
+                        <unittitle>"Red Heels"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1925/1925">1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref278" level="otherlevel">
+                    <did>
+                        <unittitle>"A Report on the Soviet Theory and Practice of Peaceful Coexistence"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref279" level="otherlevel">
+                    <did>
+                        <unittitle>"Robeson and the Soviet People" ( 
+                            <title render="italic">New World Review</title>)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">12</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref280" level="otherlevel">
+                    <did>
+                        <unittitle>"The Rout of the Fascist Axis Bloc and the USA"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">13</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref281" level="otherlevel">
+                    <did>
+                        <unittitle>"Scientific and Technological Progress and the Position of the Working Class in Capitalist Countries"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">14</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref282" level="otherlevel">
+                    <did>
+                        <unittitle>"Similarities, Differences"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">15</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref283" level="otherlevel">
+                    <did>
+                        <unittitle>"Sixty Years of the Soviet Multinational State" ( 
+                            <title render="italic">The New World Review</title>)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">16</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref284" level="otherlevel">
+                    <did>
+                        <unittitle>"Smog - How Socialism Deals with it"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">17</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref285" level="otherlevel">
+                    <did>
+                        <unittitle>"Socialism and Communism - Theory and Practice"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">18</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref286" level="otherlevel">
+                    <did>
+                        <unittitle>"Socialist Integration"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">19</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref287" level="otherlevel">
+                    <did>
+                        <unittitle>"Socialist Poland's Heroic Example"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">20</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref288" level="otherlevel">
+                    <did>
+                        <unittitle>"Some Aspects of the Life and Work of Karl Marx of Particular Significance to the People of the USA"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">21</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref289" level="otherlevel">
+                    <did>
+                        <unittitle>"Some Features of the Present Stage of the General Crisis of Capitalism in the USA"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">22</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref290" level="otherlevel">
+                    <did>
+                        <unittitle>Soviet Agriculture, Corrections of Article on</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">23</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref291" level="otherlevel">
+                    <did>
+                        <unittitle>"Soviet Armenia and the Forbidden Truth"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">24</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref292" level="otherlevel">
+                    <did>
+                        <unittitle>"Soviet Foreign Policy"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">25</container>
+                        <unitdate normal="1941/1941">1941</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref293" level="otherlevel">
+                    <did>
+                        <unittitle>"Soviet Jazz: Another Challenge" ( 
+                            <title render="italic">Mainstream</title>)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">26</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref294" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Soviet Path to Peace</title></unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">27</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Soviet Path to Peace</title>- Two Reviews of (Hy Lumer and Irene Paull) 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">28</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref296" level="otherlevel">
+                    <did>
+                        <unittitle>"The Struggle for Military Détente"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">29</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref297" level="otherlevel">
+                    <did>
+                        <unittitle>"The Struggle in the USA for the Second Front"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">30</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref298" level="otherlevel">
+                    <did>
+                        <unittitle>"Third World Non-Socialist Countries Winning Political Independence and Statehood During and After World War II" (List)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">31</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref299" level="otherlevel">
+                    <did>
+                        <unittitle>"Three Levels of Peace Activity in the USA"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">32</container>
+                        <unitdate normal="1930/1939" type="inclusive">1930s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref300" level="otherlevel">
+                    <did>
+                        <unittitle>"Towards a United, Independent, Sovereign Ireland"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">33</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref301" level="otherlevel">
+                    <did>
+                        <unittitle>"Trilateralism, US Imperialism's New Scenario"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">34</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref302" level="otherlevel">
+                    <did>
+                        <unittitle>"Two Paths for America"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">35</container>
+                        <unitdate normal="1953/1953">1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref303" level="otherlevel">
+                    <did>
+                        <unittitle>"Two Systems Competition"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">36</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref304" level="otherlevel">
+                    <did>
+                        <unittitle>"The United Nations and the Struggle for Détente"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">37</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref305" level="otherlevel">
+                    <did>
+                        <unittitle>Unpublished Writings</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">38</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated , 1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref306" level="otherlevel">
+                    <did>
+                        <unittitle>Untitled Typescript - "The Going in France is Tough, but not so Tough as Goebbels…"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">39</container>
+                        <unitdate normal="1934/1955" type="inclusive">ca.1944-1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref307" level="otherlevel">
+                    <did>
+                        <unittitle>Untitled Typescript - "Hard, Bitter Fighting Awaits our European Invasion Armies…"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">40</container>
+                        <unitdate normal="1933/1954" type="inclusive">ca.1943-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref308" level="otherlevel">
+                    <did>
+                        <unittitle>Untitled Typescript - "We Live in an Epoch of World Revolution…"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">41</container>
+                        <unitdate normal="1930/1939" type="inclusive">ca.1930s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref309" level="otherlevel">
+                    <did>
+                        <unittitle>Untitled Writings</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">42</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref310" level="otherlevel">
+                    <did>
+                        <unittitle>"Upturn in US Labor's Internationalism"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">43</container>
+                        <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref311" level="otherlevel">
+                    <did>
+                        <unittitle>"US Communists in the Struggle Against Unemployment"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">44</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref312" level="otherlevel">
+                    <did>
+                        <unittitle>"US Constitution: A Record of Unfulfilled Promises"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">45</container>
+                        <unitdate normal="1977/1997" type="inclusive">ca.1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref313" level="otherlevel">
+                    <did>
+                        <unittitle>"USSR, An Introduction to Socialist Democracy in the"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">46</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref314" level="otherlevel">
+                    <did>
+                        <unittitle>"US Supreme Court and American Working Class Movement"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">47</container>
+                        <unitdate normal="1931/1931">1931</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref315" level="otherlevel">
+                    <did>
+                        <unittitle>"US Workers and Latin America"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">48</container>
+                        <unitdate normal="1980/1989" type="inclusive">1980s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref316" level="otherlevel">
+                    <did>
+                        <unittitle>"US Worker's Struggle"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">49</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref317" level="otherlevel">
+                    <did>
+                        <unittitle>"US Youth and the Nuclear War Threat"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">50</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref318" level="otherlevel">
+                    <did>
+                        <unittitle>"Victory and National Liberation"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">51</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref319" level="otherlevel">
+                    <did>
+                        <unittitle>"Victory and National Liberation: An Addendum" ( 
+                            <title render="italic">New World Review</title>)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">52</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref320" level="otherlevel">
+                    <did>
+                        <unittitle>"The Victory of Poland's Trade Unions"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">53</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="otherlevel">
+                    <did>
+                        <unittitle>"Victory the Hard Way"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">54</container>
+                        <unitdate normal="1942/1942">1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="otherlevel">
+                    <did>
+                        <unittitle>"The View from Soviet Estonia" ( 
+                            <title render="italic">Mainstream</title>)</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">55</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref323" level="otherlevel">
+                    <did>
+                        <unittitle>"Watergate and After"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">56</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref324" level="otherlevel">
+                    <did>
+                        <unittitle>"Watergate and Détente"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">57</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="otherlevel">
+                    <did>
+                        <unittitle>"What is America to Me?"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">58</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref326" level="otherlevel">
+                    <did>
+                        <unittitle>"What the CIA, FBI Exposés Disclose"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">59</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref327" level="otherlevel">
+                    <did>
+                        <unittitle>"Why New Economic and Information Orders?"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">60</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref328" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">World Marxist Review</title>/ Prague - Misc. Pittman Typescripts 
+                            <title render="italic"></title></unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">61</container>
+                        <unitdate normal="1975/1979" type="inclusive">1975-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref329" level="otherlevel">
+                    <did>
+                        <unittitle>"World Politics and Global Problems"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">62</container>
+                        <unitdate normal="1905/1987" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref330" level="otherlevel">
+                    <did>
+                        <unittitle>"The World This Week - GOP Platform, China's Celebration, South African Trends"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">63</container>
+                        <unitdate normal="1944/1944">1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="otherlevel">
+                    <did>
+                        <unittitle>"World War II" [re: National Question, Colonial Issues]</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">64</container>
+                        <unitdate normal="1932/1954" type="inclusive">ca.1942-1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref332" level="otherlevel">
+                    <did>
+                        <unittitle>"A Year Long Emergency for the CPUSA"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">65</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="otherlevel">
+                    <did>
+                        <unittitle>"Zionism, The True Face of"</unittitle>
+                        <container type="Box">6</container>
+                        <container type="Folder">66</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

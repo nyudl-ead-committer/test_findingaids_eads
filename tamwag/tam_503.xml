@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_503</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Tamiment Library Web Archive (Labor and the Left): Alternative Media and News
+                    <num>TAM.503</num>
+                </titleproper>
+                <author>Finding aid prepared by Nicole Greenhouse</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@library.nyu.edu</addressline>
+                </address>
+                <date>2/11/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-01-07T12:55-0500</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>
+                <extref ns2:actuate="none" ns2:show="embed" ns2:title="Tamiment Library Web Archive (Labor and the Left): Alternative Mass Media" ns2:href="http://webarchives.cdlib.org/a/AlternativeMassMedia">Tamiment Library Web Archive (Labor and the Left): Alternative Mass Media and News</extref></unittitle>
+            <unitid>TAM.503</unitid>
+            <repository>
+                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>92.0 websites</extent>
+                <extent>and 2.6 TB.</extent>
+            </physdesc>
+            <unitdate>2007-</unitdate>
+            <abstract id="ref8" label="Abstract">The Tamiment Library Web Archive (Labor and the Left): Alternative Mass Media, was created with the Web Archiving Service from the California Digital Library, which was made possible with support from the National Digital Information and Infrastructure Preservation Program (Library of Congress) and the University of California, as part of a project to preserve born-digital political communication. The Tamiment Library creates topically based archives of websites documenting labor and left activity, principally that based in the United States, with a particular focus on New York City. The collection contains periodically archived News Web sites of entities that create, gather and disseminate to the public news, research, personal opinion and other content that reflects a left/progressive viewpoint. Websites represented include those of periodicals, radio stations, blogs, and other news websties that publish such content, but that are irregularly, but typically frequently updated. NOTE: For technical, privacy and other reasons, archived websites may not be exact copies of the original website at the time of the web crawl. 
+                <emph render="bold">NOTE: if a link for an individual site does not work, click on the TITLE of the collection (in the "Description" section at the beginning of the finding aid) to access this web archive, then go to the site list and select the web site(s) you wish to view.</emph></abstract>
+            <langmaterial id="ref6" label="Language of Materials note">Materials are in primarily in English</langmaterial>
+            <origination label="creator">
+                <corpname source="naf">Tamiment Library.</corpname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents Note</head>
+            <p>Contains periodically archived News Web sites of entities that create, gather and disseminate to the public news, research, personal opinion and other content that reflects a left / progressive viewpoint. The content of these sites are primarily general interest or multi-issue; similar single issue sites are usually found in the other topically based web archives created by the Tamiment Library, NYU. Websites represented include those of periodicals, radio stations, blogs, and other news websites that publish such content, but that are irregularly, but typically frequently updated. NOTE: For technical, privacy and other reasons, archived websites may not be exact copies of the original website at the time of the web crawl.</p>
+            <p>
+                <emph render="bold">NOTE: if a link for an individual site does not work, click on the TITLE of the collection (in the Description" section at the beginning of the finding aid) to access this web archive, then go to the site list and select the web site(s) you wish to view.</emph></p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Historical/Biographical Note</head>
+            <p>The Tamiment Library Web Archive (Labor and the Left): Alternative Mass Media, was created with the Web Archiving Service from the California Digital Library. This service employs open source web archiving utilities developed by Internet Archive with the support of the The International Internet Preservation Consortium. The Web Archiving Service was made possible with support from the National Digital Information and Infrastructure Preservation Program (Library of Congress) and the University of California, as part of a project to preserve born-digital political communication. The role of the Tamiment Library during this project and thereafter was/is to create topically based archives of websites documenting contemporary and ongoing labor and left activity, principally that based in the United States, with a particular focus on New York City.</p>
+        </bioghist>
+        <relatedmaterial id="ref3">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+            <p>A list of related Tamiment Library web archives, whose ns2:titles all begin with the prefix "Tamiment Library Web Archive (Labor and the Left)," can be found at the web page 
+                <extref ns2:actuate="onLoad" ns2:show="embed" ns2:title="Web archives from New York University Libraries" ns2:href="http://webarchives.cdlib.org/institutions/NYUL">Web Archives from New York University Libraries</extref>.</p>
+        </relatedmaterial>
+        <accessrestrict id="ref4">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form, copying the required information from the metadata supplied at the top of the archived web page: 
+                <lb/>
+                <lb/>Title (of web page), Archival URL, Date/time captured; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <arrangement id="ref85">
+            <head>Arrangement</head>
+            <p>Websites arranged alphabetically.</p>
+        </arrangement>
+        <controlaccess>
+            <subject source="lcsh">Alternative mass media |z United States.</subject>
+            <subject source="lcsh">Alternative mass media.</subject>
+            <subject source="lcsh">Blogs |z United States.</subject>
+            <subject source="lcsh">Blogs.</subject>
+            <subject source="lcsh">Civil rights |v Periodicals.</subject>
+            <subject source="lcsh">Civil rights |z United States |v Periodicals.</subject>
+            <subject source="lcsh">Electronic journals |z United States.</subject>
+            <subject source="lcsh">Electronic journals.</subject>
+            <subject source="lcsh">Electronic newspapers |z United States.</subject>
+            <subject source="lcsh">Electronic newspapers.</subject>
+            <subject source="lcsh">News web sites |z United States.</subject>
+            <subject source="lcsh">News Web sites.</subject>
+            <geogname source="lcsh">United States |x Foreign relations |v Periodicals.</geogname>
+            <geogname source="lcsh">United States |x Politics and government |v Periodicals.</geogname>
+            <geogname source="lcsh">United States |x Social conditions |v Periodicals.</geogname>
+            <subject source="lcsh">World politics |v Periodicals.</subject>
+        </controlaccess>
+        <dsc>
+            <c id="ref9" level="series">
+                <did>
+                    <unittitle>Alternative Media Web and News Web Archive</unittitle>
+                    <unitdate>2007-</unitdate>
+                </did>
+                <c id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>A-Infos Radio Project</unittitle>
+                        <unitdate>Mar 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>Against the Grain</unittitle>
+                        <unitdate>Dec 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref33" level="otherlevel">
+                    <did>
+                        <unittitle>Alternative Press Center</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref59" level="otherlevel">
+                    <did>
+                        <unittitle>Alternative Radio</unittitle>
+                        <unitdate>Jun 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref10" level="otherlevel">
+                    <did>
+                        <unittitle>AlterNet</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>AltWeeklies.com</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>American Prospect</unittitle>
+                        <unitdate>Nov 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>Arts Engine</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref11" level="otherlevel">
+                    <did>
+                        <unittitle>Autonomedia</unittitle>
+                        <unitdate>Sep 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Axis of Logic</unittitle>
+                        <unitdate>Jul 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>Billboard Liberation Front</unittitle>
+                        <unitdate normal="2009/2010" type="inclusive">Aug 2009-Mar 2010</unitdate>
+                    </did>
+                </c>
+                <c id="ref99" level="otherlevel">
+                    <did>
+                        <unittitle>Black Agenda Report</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>Buzzflash</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref95" level="otherlevel">
+                    <did>
+                        <unittitle>Cafe Progressive</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref70" level="otherlevel">
+                    <did>
+                        <unittitle>Center for Media Justice</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref60" level="otherlevel">
+                    <did>
+                        <unittitle>Collapse Network</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>Color Lines</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref96" level="otherlevel">
+                    <did>
+                        <unittitle>Common Courage Press</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>Common Dreams</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>CounterPunch</unittitle>
+                        <unitdate>Jul 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref104" level="otherlevel">
+                    <did>
+                        <unittitle>Daily Kos</unittitle>
+                        <unitdate>Nov 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Deep Dish TV Network</unittitle>
+                        <unitdate>Jul 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>Deep Dish Waves of Change</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref12" level="otherlevel">
+                    <did>
+                        <unittitle>Democracy Now!</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>Democratic Underground</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref49" level="otherlevel">
+                    <did>
+                        <unittitle>DIRELAND: Politics and Media Analysis and Commentary from Veteran Political Journalist Doug Ireland</unittitle>
+                        <unitdate>Jul 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref100" level="otherlevel">
+                    <did>
+                        <unittitle>Dominion of New York</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>Fairness and Accuracy in Reporting</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref79" level="file">
+                    <did>
+                        <unittitle>Fighting Bob</unittitle>
+                        <unitdate>Jan 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref56" level="otherlevel">
+                    <did>
+                        <unittitle>First Voices Indigenous Radio (FVIR)</unittitle>
+                        <unitdate>May 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref81" level="otherlevel">
+                    <did>
+                        <unittitle>Free Press</unittitle>
+                        <unitdate>Feb 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref37" level="otherlevel">
+                    <did>
+                        <unittitle>Free Speech TV</unittitle>
+                        <unitdate>Aug 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>From the Wilderness' Peak Oil Blog</unittitle>
+                        <unitdate>Jul 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>From The Wilderness: Information on Peak Oil, Sustainability, and the events surrounding 9/11</unittitle>
+                        <unitdate normal="2009/2009">Jul 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>GlobalInfo.org</unittitle>
+                        <unitdate>Aug 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref75" level="otherlevel">
+                    <did>
+                        <unittitle>Global Revolution TV</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref83" level="otherlevel">
+                    <did>
+                        <unittitle>Global Voices</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref50" level="otherlevel">
+                    <did>
+                        <unittitle>Grand Rapids Institute for Information Democracy</unittitle>
+                        <unitdate>Jul 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Haymarket Books</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref78" level="otherlevel">
+                    <did>
+                        <unittitle>Hightower Lowdown</unittitle>
+                        <unitdate>Jan 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref47" level="otherlevel">
+                    <did>
+                        <unittitle>The Huffington Post</unittitle>
+                        <unitdate>Nov 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref86" level="otherlevel">
+                    <did>
+                        <unittitle>In These Times</unittitle>
+                        <unitdate>Dec 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>Independent Media Center</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref87" level="otherlevel">
+                    <did>
+                        <unittitle>Institute for War and Peace Reporting</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Interactivist Network</unittitle>
+                        <unitdate>Sep 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref61" level="otherlevel">
+                    <did>
+                        <unittitle>IPS North America</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref36" level="otherlevel">
+                    <did>
+                        <unittitle>KPFA 94.1 FM Berkeley</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref62" level="otherlevel">
+                    <did>
+                        <unittitle>KPFK 90.7 FM</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref63" level="otherlevel">
+                    <did>
+                        <unittitle>KPFT 90.1 FM</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>La Lutta New Media Collective</unittitle>
+                        <unitdate>May 2008-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref93" level="otherlevel">
+                    <did>
+                        <unittitle>Left Business Observer</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref101" level="otherlevel">
+                    <did>
+                        <unittitle>Left Eye on Books</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref84" level="otherlevel">
+                    <did>
+                        <unittitle>Media Action Grassroots Network</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref39" level="otherlevel">
+                    <did>
+                        <unittitle>Media Matters for America</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref57" level="otherlevel">
+                    <did>
+                        <unittitle>Media Mobilizing Project</unittitle>
+                        <unitdate>May 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref52" level="otherlevel">
+                    <did>
+                        <unittitle>MediaFilter</unittitle>
+                        <unitdate normal="2010/2011" type="inclusive">Mar 2010-Mar 2011</unitdate>
+                    </did>
+                </c>
+                <c id="ref64" level="otherlevel">
+                    <did>
+                        <unittitle>Michael Munk</unittitle>
+                        <unitdate normal="2011/2011">Jul 2011</unitdate>
+                    </did>
+                </c>
+                <c id="ref80" level="otherlevel">
+                    <did>
+                        <unittitle>Mother Jones</unittitle>
+                        <unitdate>Feb 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref94" level="otherlevel">
+                    <did>
+                        <unittitle>National Radio Project</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>New York City Independent Media Center</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref45" level="otherlevel">
+                    <did>
+                        <unittitle>Pacifica Radio Archives</unittitle>
+                        <unitdate>Aug 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref30" level="otherlevel">
+                    <did>
+                        <unittitle>PacificaFoundation.org</unittitle>
+                        <unitdate>Aug 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>Paper Tiger Television</unittitle>
+                        <unitdate>Mar 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref68" level="otherlevel">
+                    <did>
+                        <unittitle>People's Production House</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>PR Watch</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref34" level="otherlevel">
+                    <did>
+                        <unittitle>Progressive Radio Network</unittitle>
+                        <unitdate>Aug 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref102" level="otherlevel">
+                    <did>
+                        <unittitle>Project Censored</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref53" level="otherlevel">
+                    <did>
+                        <unittitle>Prometheus Radio Project</unittitle>
+                        <unitdate>Mar 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref103" level="otherlevel">
+                    <did>
+                        <unittitle>R. Paul Martin's Website and Back of the Book</unittitle>
+                        <unitdate>Jun 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref106" level="otherlevel">
+                    <did>
+                        <unittitle>Rachel Maddow</unittitle>
+                        <unitdate>Feb 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref69" level="otherlevel">
+                    <did>
+                        <unittitle>Radio Populares</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>Roar Magazine</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref72" level="otherlevel">
+                    <did>
+                        <unittitle>Rolling Stone: Politics</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref54" level="otherlevel">
+                    <did>
+                        <unittitle>Sanctuary for Independent Media</unittitle>
+                        <unitdate>Mar 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref98" level="otherlevel">
+                    <did>
+                        <unittitle>Seven Stories Press</unittitle>
+                        <unitdate>May 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref67" level="otherlevel">
+                    <did>
+                        <unittitle>SourceWatch</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>Take Back WBAI Radio</unittitle>
+                        <unitdate>May 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref40" level="otherlevel">
+                    <did>
+                        <unittitle>Talking Points Memo</unittitle>
+                        <unitdate>Apr 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref66" level="otherlevel">
+                    <did>
+                        <unittitle>Think Progress</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref92" level="otherlevel">
+                    <did>
+                        <unittitle>Thom Hartmann Program</unittitle>
+                        <unitdate>Apr 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref71" level="otherlevel">
+                    <did>
+                        <unittitle>TomDispatch</unittitle>
+                        <unitdate>Oct 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref107" level="otherlevel">
+                    <did>
+                        <unittitle>TomPaine.com</unittitle>
+                        <unitdate>Apr 2012-</unitdate>
+                    </did>
+                </c>
+                <c id="ref55" level="otherlevel">
+                    <did>
+                        <unittitle>Truthdig: Drilling Beneath the Headlines</unittitle>
+                        <unitdate>Apr 2010-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Truthout Originals</unittitle>
+                        <unitdate>Jul 2009-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref31" level="otherlevel">
+                    <did>
+                        <unittitle>WBAI Radio (New York, NY)</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>We the Blog</unittitle>
+                        <unitdate normal="2008/2008">Dec 2008-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref77" level="otherlevel">
+                    <did>
+                        <unittitle>We the People</unittitle>
+                        <unitdate>Jan 2012-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref65" level="otherlevel">
+                    <did>
+                        <unittitle>WPFW 89.3 FM</unittitle>
+                        <unitdate>Jul 2011-present</unitdate>
+                    </did>
+                </c>
+                <c id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Z Net</unittitle>
+                        <unitdate>Oct 2007-present</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

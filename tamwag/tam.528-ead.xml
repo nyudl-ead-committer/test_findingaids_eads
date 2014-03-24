@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Breif_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_528</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Manumit School Collection
+                    <num>TAM.528</num>
+                </titleproper>
+                <author>Finding aid prepared by Tamiment staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>5/3/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T19:56-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Manumit School Collection</unittitle>
+            <unitid>TAM.528</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid19343001" type="Box" label="Mixed materials">1</container>
+            <physdesc>
+                <extent>0.5 linear feet</extent>
+                <extent>(1box)</extent>
+            </physdesc>
+            <unitdate>1920s-2000s</unitdate>
+            <abstract id="ref3" label="Abstract">Manumit School was a Christian socialst school in Pawling, NY, 1924-1943, then in Bristol, PA, 1944-1958. The collection contains miscellaneous records, printed ephemera, writings of the School's director (1933-1958), William Mann Fincke, who was a son of the co-founders, Reverend William Mann Fincke (d. 1927) and Helen Harden Fincke; a CD containing material from the website "Manumit School" (http://manumitschool.com/) devoted to its history - also on the CD are sselected email exchanges, 2005-2009 between alumni; also included are copies of some materials at the NYPL. Additional donations from alumni are expected.</abstract>
+            <origination label="creator">
+                <persname source="local">Fincke, William Mann</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Historical/Biographical Note</head>
+            <p>Manumit School was a Christian socialst co-educational, elementary-level, non-denominational, boarding school in Pawling, NY, 1924-1943, then in Bristol, PA, 1944-1958. The collection contains miscellaneous records, printed ephemera, writings of the Director, 1933-1958, William Mann Fincke, who was a son of the co-founders, Reverend William Mann Fincke [d. 1927] and Helen Harden Fincke; a CD containing material from the website "Manumit School" (http://manumitschool.com/) devoted to its history - also on the CD are selected email exchanges, 2005-2009 between alumni; also included are copies of some materials at the NYPL. There is a "Brief Chronology," prepared in 2010. Additional donations from alumni are expected.</p>
+            <p>Manumit School: Brief Chronology</p>
+            <p>1924 -------- Rev. William Mann Fincke and his wife, Helen Hamlin, founded Manumit as an elementary level, co-educational, boarding school on a working farm in Pawling, NY. [It was closely associated with a number of NYC labor unions. A. J. Muste was Chair of Manumit Associates/Board for a number of years. See: “A New Community School,” The Survey, 10/15/24. Rev. W. M. Fincke, “Elsie Wins a Point and We Get a View of Manumit,” Labor Age, 11/1925.) “an alliance of progressive labor and progressive education.” (See: Scott Walter, “Labor's Demonstration School: The Manumit School for Workers' Children, 1924-1932,” 1998. typescript, 26 pp. ERIC: ED473025)]</p>
+            <p>1926 -------- Henry I. Lineman became interim Director upon illness of Rev. Fincke. [“The Manumit Yearbook: 1927,” 38 pp. Threescore: The Autobiography of Sarah N. Cleghorn, 1936, 310 pp. She taught at Manumit for a number of years.]</p>
+            <p>1927 -------- Rev. Fincke died. [See: “GALLANT SPIRIT passed from us…” The Nation, 6/15/1927. NY Times, 6/1/1927.] 1927/28 --- Nellie M. Seeds became Director. See: Nellie Seeds, “Democracy in the Making at Manumit School,” The Nation, 6/1/1927; Seeds, “Labor’s Laboratory School,” The Survey, 6/15/1927, Seeds, “Manumit’s Contribution to Social Reconstruction,” Progressive Education (5/1931).</p>
+            <p>1927/28 --- Annual Conferences of the Manumit Associates: ”Learning Through Doing;” (1928), “Creative Education,” (1929), “Educational Groundwork for a Changing Social Order,” (1931). Seed resigned in 1933; joined NY State Education Department. Died, 1946.</p>
+            <p>1933 -------- William Mann Fincke [son of WMF &amp; Hamlin] assumed Co-Directorship, with wife, Mildred Gignoux – both experienced with “experimental/progressive” education in NYC. [“By 1933 the school was debt-ridden…and only a half dozen pupils remained....” “Sometimes the children’s welfare seemed subordinated to indoctrination of pet political and social ideas favored by directors or staff members…” (See: William L. Stephenson, “A Brief Note on Manumit School,” 1943. Web site). On his background re progressive education see: W. M. Fincke, “History” in “Manuscript,” 1949. Web site.]</p>
+            <p>1938/39 --- Progressive Schools' Committee for Refugee Children formed under leadership of Mildred and William Fincke. [At least 23 Jewish refugee children attended Manumit. (Time Magazine, 3/27/39). (See also: records of German-Jewish Children's Aid, YIVO Institute for Jewish Research, NYC.) Manumit “... contacts with European underground and resistance groups, and with Jewish groups, both dating back to 1935, later contacts with British groups (during the blitz of 1940) greatly enriched the enrollment with interesting evacuee children.” (WMF fund-raising document, c. 1945-46. Web site)]</p>
+            <p>1942 -------- First two years of high school added to the elementary school. [“Broad Meadows” campus]</p>
+            <p>1943 -------- William I. Stephenson became Director. [W. M. Fincke attended Yale Univ. to pursue doctorate.]</p>
+            <p>1943 -------- Fire destroyed major school building, the “Mill.” [Fire: 10/25/1943. Most school records destroyed.]</p>
+            <p>1944 -------- William M. Fincke (“Billy”) resumed directorship with wife, Amelia. [W. M. Fincke, “A Philosophy of Discipline” (1941) &amp; W. M. Fincke, “Memorandum on Manumit School” (n.d. probably late 1940’s), Web site] [In mid-1960’s Amelia was Superintendent of Eastern Star Home for the Aged in NJ. Died, December 1972.]</p>
+            <p>1944 -------- School moved to Bristol, Bensalem Township, Bucks County, PA. [On move: Barbara Dutton Dretzin e-mail, 5/5/06 Web site. W. M. Fincke: “The staff is as cosmopolitan as the student body. It … has included Chinese, Nisei, American Negro, American Indian, English, Czechoslovakian, Scandinavian…. German and Austrian anti-nazis [sic.] along with many members of the so-called old American group… Judaism, Catholicism, Quakerism and Ethical Agnosticism as well as Protestantism are stimulatingly included in the backgrounds…” (W. M. Fincke fund-raising document, c. 1945-46. Web site).]</p>
+            <p>1947 -------- Benjamin (“Ben”) C. G. Fincke [son of founders], with wife, Magda, became Co-Director.</p>
+            <p>1949 -------- Final two years of High School created. [School to 1949: WMF, “History,” in “Manuscript,” 1949, Web site.]</p>
+            <p>1950 -------- School adopts “work project” experiment. [See: report by W. M. Fincke to Board of Directors of School, 11/27/1950, Web site. &amp; Dixon Addison Bush, “An Experimental Study of Techniques for Instituting Cooperative Work Programs with Adolescent Students," Education Doctoral Dissertation, New York University, 1951. 313 pages.]</p>
+            <p>1951 -------- First full High School graduation. [1950-57--approx. 43-50 graduates: of 42 on a list, 29 attended college, 3 art schools, 1 technical school. (See: graduates list, “Manumit Closes,” 1957-58, Web site.) Note: one student graduated in 1950.]</p>
+            <p>1954 -------- Benjamin Fincke resigned. [Later: Co-Director then Director of Buxton School, Williamstown, MA.]</p>
+            <p>1954 -------- John A. Lindlof, teacher and former student, became Co-Director. [In 1961 he became Professor of Education at the University of Maine at Orono, where there is now a “John A. Lindlof Learning Center.”]</p>
+            <p>mid-‘50’s – “Manumit … growth toward its interracial ideal was no mere token thing…” [“Negro children had reached 14%;” children of Asian descent had reached 8%.] "The complete respect for human beings as human beings and for their backgrounds as important parts of their personalities, the lack of prejudice of racial nature…are so taken for granted that the administrator whose job it is to maintain this enriching heterogeneity is often the only person who continues conscious of it.” (WM Fincke, fundraising document, c. 1945-46).</p>
+            <p>1956 -------- Overt external attacks on school began. [Fire hazard inspections: “Local political manipulations are suspected because housing projects have recently surrounded the school and certain residents may object to the interracial status of the school, or local promoters may see the value of the school property…” (See: telegram to President Eisenhower, 9/26/1956, Web site.)]</p>
+            <p>1957 /58 -- School closed following denial of license renewal for 1958 by the State Board of Private Academic Schools, PA Department of Public Instruction. [Subsequently, school records were destroyed.] [The Board inspector ”has singled this school out for complaint over a long period of time, and there is every reason to believe that she is prejudiced against an integrated school, and against its director…” (See: “Respondent’s Brief” &amp; testimony by William M. Fincke, 12/1957, Web Site.) See: Mike Speer (c. 2006 email) linking of attacks to Brown v. Bd. of Ed, backlash, “Manumit Ends,” Web site.]</p>
+            <p>[NOTE: William Mann Fincke died on 1/4/1968 in Stonington CT, where he had been teaching remedial reading. (Fincke, W. M., "The Effect of Asking Questions to Develop Purposes for Reading on the Attainment of Higher Levels of Comprehension in a Population of Third Grade Readers." Education Doctoral Dissertation, Temple University, 1968. 140 pages. Completed in 1967.) John A. Lindlof died in 1981 in Maine. Benjamin C. G. Fincke died in Williamstown, MA, 2/18/2003 (See: NY Times, 6/1, 2003).]</p>
+            <p/>
+            <p/>
+            <p>[Prepared by: Michael Speer – 4/2010; rev. 5/2010]</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The collection contains miscellaneous records, printed ephemera, three issues of 
+                <emph render="italic">The Manuscript</emph>, writings of co-founder Reverend Willam Mann Finke, including a long poem "Selections from the Theory of Knowledge, and writings of his son, William Mann Finke, Director of the School (1933-1958); letters to Benjamin and Magda Fincke; a chronology and several histories / memoirs; a CD containing material from the website "Manumit School" (http://manumitschool.com/) devoted to its history - also on the CD are selected email exchanges, 2005-2009 between alumni; also included are copies of some materials at the NYPL. Separated from the collection and transferred to the Library's non-print holdings were a box containing over 100 photographs relating to the School.</p>
+        </scopecontent>
+        <relatedmaterial id="ref5">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+            <p>Manumit School Photographs (TAM 282)</p>
+            <p>
+                <extref ns2:actuate="onRequest" ns2:show="embed" ns2:title="Printed Ephemera Collections (PE 036)" ns2:href="http://dlib.nyu.edu/findingaids/html/tamwag/pe_org.html">Printed Ephemera Collection on Organizations (PE 036)</extref> contains a file on the Manumit School</p>
+        </relatedmaterial>
+        <controlaccess>
+            <persname source="local">Fincke, Benjamin</persname>
+            <persname source="local">Fincke, William Mann, Reverend</persname>
+            <persname source="local">Fincke, William Mann</persname>
+            <corpname source="local">Manumit School (Bristol, Pa.).</corpname>
+            <corpname source="local">Manumit School (Pawling, N.Y.).</corpname>
+            <persname source="local">Speer, R. Michael</persname>
+            <subject source="lcsh">Alternative education |z New York (State)</subject>
+            <subject source="lcsh">Alternative education |z Pennsylvania.</subject>
+            <subject source="lcsh">Christian socialism |z New York (State)</subject>
+            <subject source="lcsh">Christian socialism |z Pennsylvania.</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <genreform source="aat">Histories.</genreform>
+            <genreform source="aat">Manuscripts (document genre)</genreform>
+            <genreform source="aat">Poems.</genreform>
+            <subject source="lcsh">Socialism and education |z New York (State)</subject>
+            <subject source="lcsh">Socialism and education |z Pennsylvania.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

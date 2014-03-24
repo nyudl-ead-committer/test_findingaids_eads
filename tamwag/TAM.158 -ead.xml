@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Inventory_FolderLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_158 </eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Myra Tanner Weiss Papers
+                    <num>TAM.158 </num>
+                </titleproper>
+                <author>Finding aid prepared by Tamiment staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>9/29/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T18:41-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Myra Tanner Weiss Papers</unittitle>
+            <unitid>TAM.158 </unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.5 linear feet</extent>
+                <extent>(5 boxes)</extent>
+            </physdesc>
+            <unitdate>1933-1997; Bulk: 1952-1963</unitdate>
+            <abstract id="ref5" label="Abstract">Myra Tanner Weiss (1916-1997) was a socialist, feminist, and the Socialist Workers Party's vice-presidential candidate in 1952, 1956, and 1960. Together with her husband Murry she organized the School for Marxist Education in New York. The papers contain correspondence, speeches and writings and Socialist Workers Party internal documents.</abstract>
+            <langmaterial id="ref8" label="Language of Materials note">Materials are in English</langmaterial>
+            <origination label="creator">
+                <persname source="naf">Weiss, Myra Tanner</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Historical/Biographical Note</head>
+            <p>Myra Tanner Weiss (May 17, 1916 - September 13, 1997) joined the Socialist Workers Party in 1935 while attending the University of Utah. She moved to Los Angeles in the 1940s, at which time she organized agricultural and cannery workers. She also helped establish the SWP in Los Angeles where she met another party organizer, Murry Weiss (September 9, 1915 - December 26, 1981) whom she later married. Tanner Weiss ran for mayor of Los Angeles in 1945 and 1949. The Weisses moved to New York City in 1953 where Murry Weiss edited the Socialist Workers Party’s newspaper The Militant. Running with Presidential candidate Farrell Dobbs, Myra Tanner Weiss was the Socialist Workers Party’s Vice Presidential candidate in 1952, 1956, and 1960. Together with her husband she organized the School for Marxist Education in New York. Tanner Weiss left the SWP in the early 1960's because she thought the party had undergone a "gross bureaucratization." According to records of the New York local branch of the SWP Myra Tanner Weiss would no longer be considered a member of the Party as of October 1966. She did however remain politically active and became involved with the New York Socialist Feminists and the Committee for a Revolutionary Socialist Party (CRSP). Tanner Weiss received a masters degree in political science from New York University in 1972, and subsequently worked as a proof reader.</p>
+        </bioghist>
+        <arrangement id="ref4">
+            <head>Arrangement</head>
+            <p>Organized into five series: Series I: Biography, Series II: Correspondence, Series III: Socialist Workers Party, Series IV: Committee for a Revolutionary Socialist Party (CRSP), and Series V: Speeches and Writings.</p>
+        </arrangement>
+        <userestrict id="ref7">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>The collection consists primarily of correspondence and Socialist Workers Party (SWP) internal documents. There is also the correspondence of Myra Tanner Weiss' husband, Murry Weiss, much of which concerns his tenure as editor of the SWP newspaper, 
+                <emph render="italic">The Militant</emph>. Tanner Weiss’ letters and correspondence concern her speaking tours and political campaigns as SWP Vice Presidential candidate in 1952, 1956, and 1960, as well as personal correspondence with her husband and family. SWP internal documents chronicle the Cochranite split, discussions and debates concerning Pabloism (Michael Pablo, Michael Raptis: head of the International Secretariat), the Party’s response to the 20th Congress of the Soviet Communist Party and its effect on the CPUSA, and consideration of the 1956 uprisings in Poland and Hungary. SWP policy and activity is also chronicled concerning the “regroupment campaign” of 1956-1958, as well as the Party’s relationship to the Young Socialist League (YSL), the Young People’s Socialist League (YPSL), the Young Socialist Alliance (YSA) and the Workers World Party. In addition, there is material and correspondence concerning the opposition group the Revolutionary Tendency (TR) and the expulsion from the SWP of Lynne Harper, Laurence Ireland, Shane Mage, James Robertson, and Geoffrey White in 1963. The collection also contains internal papers and correspondence which document Murry and Myra Tanner Weiss’ involvement with the Committee for a Revolutionary Socialist Party (CRSP). Correspondents include: Shane Mage, Tim Wohlforth, James Cannon, Sam Marcy, Natalie [Natalia] Sedova-Trotsky (Leon Trotsky's widow), Bert Deck, Farrell Dobbs, William Warde, George Breitman, George Clarke, Arne Swabeck, Harry Braverman, Clara Fraser, James Robertson. Important in the collection is the letter to Tanner Weiss from Natalie Sedova-Trotsky concerning a purported meeting between Leon Trotsky and Jack Soble in Turkey in 1931-1932.</p>
+            <p>CONTAINER LIST</p>
+            <p>BOX 1</p>
+            <p>SERIES I: Biography</p>
+            <p>1 Biography</p>
+            <p>SERIES II: Correspondence</p>
+            <p>2 Weiss Family Letters 1959</p>
+            <p>3 Murry Weiss / Myra Tanner Weiss Correspondence 1948-1958</p>
+            <p>4 Murry Weiss / Myra Tanner Weiss Correspondence 1960-1980</p>
+            <p>5 Murry Weiss - Letters 1933-1939</p>
+            <p>6 Murry Weiss - Letters 1942</p>
+            <p>7 Murry Weiss - Letters 1944</p>
+            <p>8 Murry Weiss - Letters 1945</p>
+            <p>9 Murry Weiss - Letters 1947</p>
+            <p>10 Correspondence: Murry Weiss/California Third Party Movement 1947</p>
+            <p>11 Murry Weiss - Letters 1948</p>
+            <p>12 Murry Weiss - Letters 1949</p>
+            <p>13 Murry Weiss/Trotsky School Spring Mountain Camp - Correspondence 1950</p>
+            <p>14 Murry Weiss - Letters 1951</p>
+            <p>15 Murry Weiss - Letters 1952</p>
+            <p>16 Murry Weiss - Letters 1953</p>
+            <p>17 Murry Weiss - Letters 1954</p>
+            <p>18 Murry Weiss - Letters 1955</p>
+            <p>19 Murry Weiss - Letters 1956 Jan-June</p>
+            <p>20 Murry Weiss - Letters 1956 July-Dec</p>
+            <p>21 Murry Weiss - Letters 1957 Jan-May</p>
+            <p>22 Murry Weiss - Letters 1957 June-Dec</p>
+            <p>23 Murry Weiss - Letters 1958</p>
+            <p>24 Murry Weiss - Letters 1959</p>
+            <p>25 Murry Weiss - Letters 1960</p>
+            <p>26 Murry Weiss - Letters 1962</p>
+            <p>27 Murry Weiss - Letters 1963-1964</p>
+            <p>28 Murry Weiss - Letters/Socialist Workers Party Membership 1966</p>
+            <p>29 Murry Weiss - Letters 1976 -1978</p>
+            <p>BOX 2</p>
+            <p>1 Myra Tanner Weiss - Letters 1946-1949</p>
+            <p>2 Myra Tanner Weiss - Letters 1951</p>
+            <p>3 Myra Tanner Weiss - Letters 1952</p>
+            <p>4 Myra Tanner Weiss - Letters 1953</p>
+            <p>5 Myra Tanner Weiss - Letters 1954-1955</p>
+            <p>6 Myra Tanner Weiss - Letters 1956 Jan-June</p>
+            <p>7 Myra Tanner Weiss - Letters 1956 July-Dec</p>
+            <p>8 Myra Tanner Weiss - Letters 1957</p>
+            <p>9 Correspondence: Myra Tanner Weiss/Natalie Sedova-Trotsky 1957</p>
+            <p>10 Myra Tanner Weiss - Letters 1958 -1959</p>
+            <p>11 Myra Tanner Weiss - Letters 1960-1966</p>
+            <p>12 Myra Tanner Weiss - Letters/Socialist Workers Party Membership 1966</p>
+            <p>13 Myra Tanner Weiss - Letters 1969-1975</p>
+            <p>14 Myra Tanner Weiss - Letters 1977-1980</p>
+            <p>15 Myra Tanner Weiss - Letters: An Open Letter to the Socialist Workers Party 1980</p>
+            <p>16 Myra Tanner Weiss - Letters 1981</p>
+            <p>17 Myra Tanner Weiss - Letters 1982</p>
+            <p>18 Myra Tanner Weiss - Letters 1983-1985</p>
+            <p>19 Myra Tanner Weiss - Letters 1986-1987</p>
+            <p>20 Letters: individuals 1939-1953</p>
+            <p>21 Letters: individuals 1955</p>
+            <p>22 Letters: individuals 1956-1985</p>
+            <p>23 Letters n.d.</p>
+            <p>BOX 3</p>
+            <p>SERIES III: Socialist Workers Party</p>
+            <p>1 Martin (Cannon): Comments on the Selection of the National Committee 1944</p>
+            <p>2 Felix Morrow: Where I Stand 1945</p>
+            <p>2a Myra Tanner Weiss v Los Angeles Broadcasting, Inc... 1946</p>
+            <p>3 Socialist Workers Party Internal Documents 1949</p>
+            <p>4 Natalia Trotsky: letter re break with Fourth International and Socialist Workers Party 1951</p>
+            <p>5 “Johnson-Forest”: What We Are Leaving Behind 1951</p>
+            <p>6 M. Pablo: The Building of the Revolutionary Party 1952</p>
+            <p>7 Internal Documents 1953</p>
+            <p>8 Internal Documents 1954</p>
+            <p>9 Club Executive Minutes 1954</p>
+            <p>10 Internal Documents 1955</p>
+            <p>11 Peng: Pabloism Reviewed 1955</p>
+            <p>12 Draft Resolutions: The Soviet Union Today [sect iv]; The Third Chinese Revolution and Its Aftermath [sect ii]; The Rise of the Colonial Bourgeoise [sect iii]; includes correspondence 1955</p>
+            <p>13 Digest of 1949 U.S. White Paper on China 1955</p>
+            <p>14 Club Executive Minutes 1955</p>
+            <p>15 Internal Documents 1956</p>
+            <p>16 Communications to National Committee Members 1956</p>
+            <p>17 On the CPUSA 1956</p>
+            <p>18 Joseph Hansen: Report on the Trotsky School 1956</p>
+            <p>19 Draft Resolution: The World Today 1956</p>
+            <p>20 Draft Resolution on Stalinism 1956</p>
+            <p>21 Draft Resolution: The Crisis of Stalinism 1956</p>
+            <p>22 Draft Resolution on Middle East 1956</p>
+            <p>23 re slogan ‘Federal Troops to Mississippi’ 1956</p>
+            <p>24 Internal Documents 1957</p>
+            <p>25 Tentative Outline for Political Report to Convention 1957</p>
+            <p>26 Young Socialist League (YSL): correspondence and reports 1957</p>
+            <p>27 Draft Resolution: Towards a Revolutionary Party in Britain; Suez and its Aftermath 1957</p>
+            <p>28 Club Executive Minutes 1957</p>
+            <p>BOX 4</p>
+            <p>1 Internal Documents 1958</p>
+            <p>2 Internal Documents 1959</p>
+            <p>3 Club Executive Minutes 1959</p>
+            <p>4 Revised Draft Political Resolution - regroupment 1959</p>
+            <p>5 Internal Documents 1960</p>
+            <p>6 James Cannon: letter with 1945 ‘On The Party Press’ 1960</p>
+            <p>7 Raj Narain Arya: statements 1960</p>
+            <p>8 Political Committee Minutes 1960</p>
+            <p>9 Draft: Tasks and Perspectives Resolution; Tasks and Perspectives Resolution 1960</p>
+            <p>10 Murry Weiss: Memorandum on the Principled Groundwork of Our Tactics and Slogans in the Struggle Against Imperialist War 1960</p>
+            <p>11 Concerning Cuba 1960</p>
+            <p>12 Internal Documents 1961</p>
+            <p>13 Political Committee Minutes 1961</p>
+            <p>14 Pre Convention and 19th National Convention Minutes 1961</p>
+            <p>15 National Executive Committee Minutes (with attached correspondence) 1961</p>
+            <p>16 Monroe Defense Movement 1961</p>
+            <p>17 Internal Documents 1962</p>
+            <p>18 Political Committee Draft: Problems of the Fourth International — And the Next Steps 1962</p>
+            <p>19 Draft Resolution: The Chinese Revolution — Its Character and Development 1962</p>
+            <p>20 Political Committee Minutes 1962</p>
+            <p>21 Internal Documents 1963</p>
+            <p>22 Political Committee Minutes 1963</p>
+            <p>23 National Committee Plenum 1963</p>
+            <p>24 Myra Tanner Weiss: Plenum Speech 1963</p>
+            <p>BOX 5</p>
+            <p>1 Draft of Convention Resolution: Freedom Now 1963</p>
+            <p>2 Draft Resolution on the Organizational Character of the SWP 1963</p>
+            <p>3 Suspension of Robertson-Mage-White Minority Tendency: statements and correspondence 1963</p>
+            <p>4 Statement of the Reorganized Minority Tendency: The Decline of American Imperialism and the Tasks of the SWP 1963</p>
+            <p>5 Draft Resolution: Preparing for the Next Wave of Radicalism in the United States 1963</p>
+            <p>6 Draft Resolution: The SWP Position on China (May); The SWP Position on China with Wohlforth amendment (June) 1963</p>
+            <p>7 Draft Resolution: The Sino-Soviet Dispute; Marxist Policy in the Sino-Soviet Dispute 1963</p>
+            <p>8 Internal Documents 1964</p>
+            <p>9 Political Committee Minutes 1964</p>
+            <p>10 National Executive Committee Minutes 1964</p>
+            <p>11 21st National Convention Minutes 1965</p>
+            <p>12 Internal Documents 1966 13 Internal Documents c.1967</p>
+            <p>14 Hildegarde Swabeck: resignation letter c.1967</p>
+            <p>15 Internal Documents 1982-1983</p>
+            <p>16 Internal Documents n.d.</p>
+            <p>SERIES IV: Committee for a Revolutionary Socialist Party (CRSP)</p>
+            <p>17 Internal Documents 1978</p>
+            <p>18 Internal Documents 1979</p>
+            <p>19 Internal Documents 1980-1981</p>
+            <p>SERIES V: Speeches and Writings</p>
+            <p>20 Murry Weiss 1955-1978</p>
+            <p>21 Myra Tanner Weiss n.d.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="naf">Breitman, George</persname>
+            <persname source="naf">Cannon, James P. (James Patrick), 1890-1974.</persname>
+            <persname source="naf">Dobbs, Farrell</persname>
+            <corpname source="naf">Socialist Workers Party.</corpname>
+            <persname source="naf">Swabeck, Arne.</persname>
+            <persname source="naf">Trotskaia, Nataliia Ivanovna, 1882-1962.</persname>
+            <persname source="local">Weiss, Murry</persname>
+            <persname source="naf">Weiss, Myra Tanner</persname>
+            <persname source="naf">Weiss, Myra Tanner</persname>
+            <corpname source="naf">Young People's Socialist League.</corpname>
+            <corpname source="naf">Young Socialist Alliance (U.S.).</corpname>
+            <subject source="local">Trotskyism |z United States.</subject>
+            <subject source="local">Trotskyists |z United States.</subject>
+            <subject source="lcsh">Women and socialism |z United States.</subject>
+            <subject source="lcsh">Women socialists |z United States.</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Unprocessed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">early_cwa</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Preliminary Inventory to the Steve Early Communications Workers of America Research Files
+                    <num>TAM 603</num>
+                </titleproper>
+                <author>Finding aid prepared by Peter Filardo and Nicole Greenhouse</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2/6/2012</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Preliminary Inventory, Box level</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-02-22T10:46-0500</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Steve Early Communications Workers of America Research Files</unittitle>
+            <unitid>TAM 603</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid21546001" type="Box" label="Mixed materials">1-9</container>
+            <physdesc>
+                <extent>7.75 linear feet</extent>
+                <extent>(9  boxes)</extent>
+            </physdesc>
+            <unitdate normal="1987/2007" type="inclusive">1987-2007</unitdate>
+            <abstract id="ref21" label="Abstract">Steve Early has been an organizer, strike strategist, labor educator, and lawyer, and a national staff member of the Communications Workers of America. He is the author of 
+                <emph render="italic">Embedded With Organized Labor</emph> (2009) and his articles, reviews, and op-ed pieces have appeared in labor, progressive and mainstream periodicals and newspapers. This collection documents the struggles of the Communications Workers of America in New York and New England with the NYNEX telephone company, and includes contract campaigns, strike, and organizing materials from New York and New England. Included are meeting notes, memos, newsletters, circulars, fliers, clippings, injunction-related legal materials, and several posters.</abstract>
+            <langmaterial id="ref24" label="Language of Materials note">Materials are in English</langmaterial>
+            <origination label="creator">
+                <persname source="naf">Early, Steve</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>This collection contains files collected, and in some instnances created by Steve Early in his roles as a Communications Workers of America official and as a writer on labor topics, The collection documents the struggles of the CWA in New York and New England with the NYNEX telephone company and other major telecommunications employers, such as Verizon and the Southern New England Telephone Company, including contract negotions and strikes. Included are materials from New York and New England CWA locals and CWA District 1, which covers the combined area. Among the materials are meeeting agendas and notes, internal union memos, strike strategy memos and training materials, injunction-related lagal papers, flyersm clippings, circulars and other printed ephemera, and several oversized posters.</p>
+        </scopecontent>
+        <bioghist id="ref20">
+            <head>Historical/Biographical Note</head>
+            <p>Steve Early has been an organizer, strike strategist, labor educator, lawyer, and a national staff member of the Communications Workers of America (CWA). CWA-represented telephone workers in the Northeast participated in national, regional or statewide strikes in 1983, 1986, 1989, 1998, 2000, 2004, and 2011. Druing these struggles the CWA cooperated with the International Brotherhood of Electriccal Workers, which also represented some telecommunications workers. As many as 60,000 workers in New York and New England were involved in the anti-concession strikes during this period at NYNEX and other major telecommuniccations employers. The four month NYNEX strike in 1989 defeated health care cost shifting. The CWA also struggled against employers' give-back demands, including the demand for forced overtime, and struggled to defended defined benefit pensions and retiree health coverage. The CWA aalso fought for card check unionization, and for employer neutrality during organizing campaigns, especially at Verizon Wireless, the company's fast-growing and almost entirely non-union cellular subsidiary.</p>
+            <p>As a CWA representative in this region and telecommunications industry strike coordinator, Early was involved in local contract negotiations, helping to publicize strike issues, organize mass rallies and marches, pressure company and public officials for favorable settlements, and generate grassroots community-labor support. Early is also the author of 
+                <emph render="italic">Embedded With Organized Labor</emph> (2009) and his articles, reviews, and op-ed pieces have appeared in labor, progressive and mainstream periodicals and newspapers.</p>
+        </bioghist>
+        <accessrestrict id="ref22">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref23">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <acqinfo id="ref25">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of Steve Early, 2011.</p>
+        </acqinfo>
+        <controlaccess>
+            <corpname source="naf">Communications Workers of America. District 1.</corpname>
+            <corpname source="naf">Communications Workers of America.</corpname>
+            <persname source="naf">Early, Steve</persname>
+            <corpname source="naf">International Brotherhood of Electrical Workers.</corpname>
+            <corpname source="naf">NYNEX Corporation.</corpname>
+            <corpname source="naf">Southern New England Telephone Company.</corpname>
+            <corpname source="naf">Verizon.</corpname>
+            <subject source="lcsh">Strikes and lockouts |x Telephone companies |z New England</subject>
+            <subject source="lcsh">Strikes and lockouts |x Telephone companies |z New York (State)</subject>
+            <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z New England.</subject>
+            <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z New York (State)</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref2" level="otherlevel">
+                <did>
+                    <unittitle>Box 1</unittitle>
+                    <container id="cid21522001" type="Box" label="Mixed materials">1</container>
+                    <unitdate normal="1987/2005" type="inclusive">1987-2005</unitdate>
+                </did>
+                <odd id="ref9">
+                    <head>General note</head>
+                    <p>1980-2000 CWA organizing materials (NJ state workers, Western Electric, AT&amp;T, NYEX customer service reps, and other campaigns; CWA District 1 newsletters and mobilization bulletins, 1987-2005.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>Early Steve, Writings on CWA/NYNEX and other Labor Issues; Business Office Originals; Cellular One-Dues Deduction Cards; Circulars; Communication Workers of America (CWA) District Newsletters; "Conducting a Successful Strike" and Strike Strategy; CWA Misc.; Lit Files (Originals), Campaign in Residence; Mass. Picketing Cases; New England CWA Organizing Lit Samples; New England Residence Office campaign (including Nov. 1994 National Labor Review Board [NLRB] election victory); NJ SWOC Campaigns, SWOC Anniversary Events; NLRB Stuff and Business Offices; OFS Whistle Blowing Case; Residence Contact and Office Closing Campaign</p>
+                </odd>
+            </c01>
+            <c01 id="ref3" level="otherlevel">
+                <did>
+                    <unittitle>Box 2</unittitle>
+                    <container id="cid21522002" type="Box" label="Mixed materials">2</container>
+                    <unitdate normal="1989/1989">1989</unitdate>
+                </did>
+                <odd id="ref10">
+                    <head>General note</head>
+                    <p>1989 NYNEX strike news-clips, flyers, posters, memos and other materials from IBEW and CWA strikers and strike organizers.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>CWA Mobilization Reports; Internal Sabotage; NYNEX Strike Bulletins (two folders); NYNEX Strike Post-Mordem (six folders); Paul O'Brien Rally; Press Chron File; Ray Flynn (two folders); Strike Kit</p>
+                </odd>
+            </c01>
+            <c01 id="ref4" level="otherlevel">
+                <did>
+                    <unittitle>Box 3</unittitle>
+                    <container id="cid21522003" type="Box" label="Mixed materials">3</container>
+                    <unitdate normal="1989/1998" type="inclusive">1989-1998</unitdate>
+                </did>
+                <odd id="ref11">
+                    <head>General note</head>
+                    <p>1989 NYNEX strike news-clips, flyers, posters, memos and other materials from IBEW and CWA strikers and strike organizers;</p>
+                    <p>1998 SNET/SBC strike by CWA Local 1298 in Connecticut—news-clips, flyers, meeting agendas,strike strategy and training materials, final settlement documents, injunction-related legal papers, photographs.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>Bell Atlantic (BA) Strike; Cobra Suit; Healthcare Day; Medicare "reform," Retiree Health Coverage; SBC/SNET; SBC Retirees; SBC Strike; Photographs-Al Gore at SNET Rally; Photographs-Hartford Rally; Photographs-Members and Kids; Photographs-Miglio's House; Photographs-Mobile Picketing; Photographs-New Haven Rally; Photographs-Pilot Pen; Photographs-SNET Strike</p>
+                </odd>
+            </c01>
+            <c01 id="ref5" level="otherlevel">
+                <did>
+                    <unittitle>Box 4</unittitle>
+                    <container id="cid21522004" type="Box" label="Mixed materials">4</container>
+                    <unitdate normal="1998/1998">1998</unitdate>
+                </did>
+                <odd id="ref12">
+                    <head>General note</head>
+                    <p>1998 Southern New Eengland Telephone (SNET)/Southern Bell Company strike by CWA Local 1298 in Connecticut—news-clips, flyers, meeting agendas, strike strategy and training materials, final settlement documents, injunction-related legal papers.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>Bargaining; Bargaining Notes-Mediators; Camp Operators; Carrier Switch; Clippings (four folders); Diary; Mediated Talks Bargaining Proposals; Milford Rally; Post Strike Bulletins; Post Strike Press; SNET Random Info; SNET Strike Bulletins and Fliers; SNET Strikes; US West Strikes</p>
+                </odd>
+            </c01>
+            <c01 id="ref6" level="otherlevel">
+                <did>
+                    <unittitle>Box 5</unittitle>
+                    <container id="cid21522005" type="Box" label="Mixed materials">5</container>
+                    <unitdate normal="2000/2000">2000</unitdate>
+                </did>
+                <odd id="ref13">
+                    <head>General note</head>
+                    <p>2000 Verizon strike (12 state walk-out by 75,000 CWA-IBEW members)—newsclips, flyers, strike planning documents, internal memos, research reports on strike issues, strike bulletins.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>Agenda Book; Bell Atlantic Verizon (V2)-Campaign Materials, Strikes; CWA Agreement with Verizon New England; Mobilization Files and Time-Table; Mobilization Report; Press Clips and List; Slides; Strike Buttons</p>
+                </odd>
+            </c01>
+            <c01 id="ref7" level="otherlevel">
+                <did>
+                    <unittitle>Box 6</unittitle>
+                    <container id="cid21522006" type="Box" label="Mixed materials">6</container>
+                    <unitdate normal="2000/2003" type="inclusive">2000-2003</unitdate>
+                </did>
+                <odd id="ref14">
+                    <head>General note</head>
+                    <p>2000 Verizon strike (12 state walk-out by 75,000 CWA-IBEW members)—newsclips, flyers, strike planning documents, internal memos, research reports on strike issues, strike bulletins;</p>
+                    <p>2003 Verizon contract campaign—newsclips, flyers, posters, strategy memos, etc.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>August 13 Healthcare Meeting; Greater Southeastern Mass Labor Council CDS; IBEW-CWA Solidarity Appeal; July 31 Rally; Labor Community Support; Local 1400 Deborah Yandow; Local 1400 Move Lists; Local 1400 Strike Prep Meeting Minutes; Move Meeting with D and Steve; North Carolina Strike Solidarity; Op Ed; Phone Cards; Political Outreach; Service Quality (two folders); TV Pitch; Verizon; Verizon Ads; Verizon Bargaining Council Agenda; Verizon Strike Preparation Plan Documents; Wyeth Connection</p>
+                </odd>
+            </c01>
+            <c01 id="ref8" level="otherlevel">
+                <did>
+                    <unittitle>Box 7</unittitle>
+                    <container id="cid21522007" type="Box" label="Mixed materials">7</container>
+                    <unitdate normal="2003/2007" type="inclusive">2003-2007</unitdate>
+                </did>
+                <odd id="ref15">
+                    <head>General note</head>
+                    <p>2003 Verizon contract campaign—newsclips, flyers, posters, strategy memos, etc.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>Billionaires for Bush Materials-Allies; Carrier Switch; Circuit City; Debbie's Cost Sharing Stuff; December Store Actions; Fight for our Future; Frontline Forum; Gay Semel's Legal Memo; General Move Plan; Healthcare Issues; Jobs with Justice-Allies; Jobs with Justice (JWJ) meeting; July 25 Board of Directors Action; Labor Day Events; JWJ V2W Plan; Lay off Decisions; Mannheim and CWA Response; Move Coordinators, Verizon Mergers; Move Lit; Movement of Work Issue; Move Training Materials; Press Coverage, Barq Issues; Retirees-Allies; Saiger Demonstration July 12 Flier; SAWSJ/JWJ-USAS Support; Strike Fundraising; Strike Strategy; Strike Op Eds; Super's flier; "Tear Down the Wall at Verizon" Packet; Upstate NY Stop the V2 Sale; V2W (Verizon Wireless) Call Center Problems; V2W Fact Sheet; V2W-National Campaign Budget and Plans; V2W Organizational Lit; V2W Training; Verizon Campaigns 2003-2007 (JWJ, V2W); Verizon Mobilization; Verizon Op Ed; Verizon Wireless (two folders); Verizon Wireless Store (two folders); VT Dean Event</p>
+                </odd>
+            </c01>
+            <c01 id="ref16" level="otherlevel">
+                <did>
+                    <unittitle>Box 8</unittitle>
+                    <container id="cid21526001" type="Box" label="Mixed materials">8</container>
+                    <unitdate normal="2003/2007" type="inclusive">2003-2007</unitdate>
+                </did>
+                <odd id="ref18">
+                    <head>General note</head>
+                    <p>2003 Verizon contract campaign—newsclips, flyers, posters, strategy memos, etc.</p>
+                    <p>2003-7 Verizon Wireless and Verizon Business organizing and public outreach campaign materials and files.</p>
+                    <p>Includes these titled folders:</p>
+                    <p>April 4 Meeting with IBEW; Cambridge Team; Canisius Called Letter Draft; Consumer Outreach; CWA Local 1122 (two folders); IBEW-V2W; June 27/28 Stirgl Rally; V2W Protests; Verizon Consumer Issues; Verizon Meeting with IBEW; Verizon Stuff; Verizon Wireless; Wallingford</p>
+                </odd>
+            </c01>
+            <c01 id="ref17" level="otherlevel">
+                <did>
+                    <unittitle>Box 9</unittitle>
+                    <container id="cid21546002" type="Box" label="Mixed materials">9</container>
+                    <unitdate>undated</unitdate>
+                </did>
+                <odd id="ref19">
+                    <head>General note</head>
+                    <p>Posters from different strikes (oversized flat box)</p>
+                </odd>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="us" mainagencycode="us-NNU-TL">np22_liberation</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Liberation News Service Photographs
+                    <num>PHOTOS 022</num>
+                </titleproper>
+                <author>Finding aid prepared by Mary Allison Farley, 1988, Erika Gottfried, 2003.</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from NP22-LNS-FINAL Final Draft.doc</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2009-06-30T16:22-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Liberation News Service Photographs</unittitle>
+            <unitid>PHOTOS 022</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.5 Linear feet</extent>
+            </physdesc>
+            <unitdate normal="1970/1979" type="bulk">Bulk, 1970-1979</unitdate>
+            <unitdate normal="1965/1981" type="inclusive">1965-1981, (Bulk 1970s)</unitdate>
+            <abstract id="ref3" label="Abstract">The Liberation News Service (LNS) (1967-1981), a left-wing news agency, offered its subscribers, mostly college and underground newspapers, news packets, including photographs, twice a week. Journalists and photographers from the United States and around the world supplied the LNS with stories and images documenting the progressive movements and counterculture of the 1960s and 1970s. Half the collection covers the United States, with emphasis on anti-war (Vietnam) protest, the civil rights and women’s liberation movements, and youth culture. International coverage focuses on national liberation movements, with emphasis on Vietnam and China. Because most of the photographs are individually copyrighted, they are available only for research purposes.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">ca. 7200 photographs: b&amp;w; 8x10 in.</physdesc>
+            <origination label="creator">
+                <corpname source="ingest">Liberation News Service</corpname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>Acquired by purchase.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>The Liberation News Service was established by Marshall Bloom and Raymond Mungo in 1967, after they had been fired from the staff of the U.S. Student Press Association (located in Washington, DC), for their radical political views. In 1968 the LNS moved to New York City, and absorbed the Student Communications Network (founded by the University Christian Movement). The LNS had several hundred subscribers, most college, underground and progressive community newspapers, to which it supplied twice-weekly packets containing current news, features, opinion pieces, poetry, photographs, cartoons and artwork that documented the progressive movements and counterculture of the 1960s and 1970s. The LNS print shop made its facilities available to other left-wing organizations. The LNS went out of business in 1981.</p>
+            <p>Sources:</p>
+            <p>
+                <list>
+                    <item>Young, Allen, "Liberation News Service," 
+                        <title render="italic">Encyclopedia of the American Left</title>(Chicago: University of Illinois Press, 1992), 422-424.</item>
+                </list></p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The collection of about 7,200 8x10 black and white glossy photographs consists of images of both national and international political and social events, issues, and organizations. They were shot by more than 300 freelance photographers or photographers for other news agencies, many from outside the United States, including more than two dozen Vietnamese photographers. Additional information can be found in the 
+                <archref>
+                    <extref ns2:href="http://www.nyu.edu/library/bobst/research/tam/liberation.html">appendix, LNS Photographers</extref> </archref>, that is linked to this guide. This consists of lists of those credited—drawn from the credit stamps or inscriptions on the backs of the photographs themselves. From these lists, researchers can locate photographs in the collection that are credited to individual photographers, news or photograph agencies.</p>
+            <p>Series 1, "International," covers principally national liberation movements and events in Asia, Africa, and Latin America, with the greatest coverage going to Vietnam, China, Cuba (includes the Venceremos Brigade), and South Africa. Series 2, "United States," focuses on protest against the war in Vietnam, the civil rights and women’s liberation movements and other movements and populations, including gay liberation, Chicanos, environmental activism, the labor movement, G.I. movement, Puerto Rican community activism, and political prisoners. There are several folders containing images of individuals, principally leftists, government officials, and celebrities, including the Rolling Stones. Organizations represented include the Black Panther Party, the Young Lords, Vietnam Veterans Against the War, and the Weathermen (aka Weather Underground). Notable images include a small, but significant group of photographs of the later-famous Women’s Liberation demonstration at the 1968 Miss America pageant (in the "Women—Sexism" folder). Disappointingly, one folder labeled "Demonstrations--Kent State" does not contain images of the images Kent State University anti-Vietnam War demonstration of 1970 (in which National Guardsmen fired upon students), but instead date from a 1977 commemoration of the original event.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>Folders are arranged alphabetically by region and country within Series I, and alphabetically by subject within Series II.</p>
+            <p>The files are grouped into 2 series:</p>
+            <list type="ordered">
+                <item>I, International</item>
+                <item>II, United States</item>
+            </list>
+        </arrangement>
+        <relatedmaterial id="ref234">
+            <head>Related Material</head>
+            <p>Liberation News Service Records (Temple University Library Contemporary Culture Collection. Philadelphia, PA); Marshall Bloom Alternative Press Collection, Amherst College Library, Massachusetts (collection includes copies of approximately 25,000 alternative "underground" newspapers, most originally compiled by LNS as record copies from its subscribers); finding aid available at: 
+                <archref>
+                    <extref ns2:href="http://www.amherst.edu/library/archives/findingaids/bloom">Marshall Bloom Alternative Press Collection.</extref> </archref></p>
+        </relatedmaterial>
+        <separatedmaterial id="ref235">
+            <head>Separated Material</head>
+            <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+        </separatedmaterial>
+        <userestrict id="ref236">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: erika.gottfried@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref237">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname source="ingest">Black Panther Party--Pictorial works.</corpname>
+            <persname source="ingest">Bloom, Marshall, 1944-1969.</persname>
+            <corpname source="ingest">Miss America Pageant--Pictorial works.</corpname>
+            <persname source="ingest">Mungo, Raymond, 1946-</persname>
+            <corpname source="ingest">National Venceremos Brigade--Pictorial works.</corpname>
+            <corpname source="ingest">Rolling Stones--Portraits.</corpname>
+            <corpname source="naf">Vietnam Veterans Against the War--Pictorial works.</corpname>
+            <corpname source="ingest">Weather Underground Organization--Pictorial works.</corpname>
+            <corpname source="ingest">Young Lords Party--Pictorial works.</corpname>
+            <subject source="lcsh">African Americans--Civil rights--Pictorial works.</subject>
+            <subject source="lcsh">African Americans--Pictorial works.</subject>
+            <geogname source="lcsh">China--Pictorial works.</geogname>
+            <geogname source="lcsh">Cuba--Pictorial works.</geogname>
+            <genreform source="aat">Photographs.</genreform>
+            <geogname source="lcsh">South Africa--Pictorial works.</geogname>
+            <subject source="lcsh">Vietnam War, 1961-1975--Pictorial works.</subject>
+            <subject source="lcsh">Vietnam War, 1961-1975--Protest Movements--United States--Pictorial works.</subject>
+            <geogname source="lcsh">Vietnam--Pictorial works.</geogname>
+            <subject source="lcsh">Women--United States--Pictorial works.</subject>
+            <geogname source="lcsh">Wounded Knee (S.D.)--History--Indian occupation, 1973--Pictorial works.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Series I: International</unittitle>
+                </did>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>Un-numbered folders</unittitle>
+                        <container type="Folder"></container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Africa – General</unittitle>
+                        <container type="Folder">1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>Angola</unittitle>
+                        <container type="Folder">2</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Appalachia – (see mining)</unittitle>
+                        <container type="Folder">3</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="otherlevel">
+                    <did>
+                        <unittitle>Argentina</unittitle>
+                        <container type="Folder">4</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="otherlevel">
+                    <did>
+                        <unittitle>Biafra</unittitle>
+                        <container type="Folder">5</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>Bolivia</unittitle>
+                        <container type="Folder">6</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>Burma</unittitle>
+                        <container type="Folder">7</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Cambodia</unittitle>
+                        <container type="Folder">8</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>Cambodia</unittitle>
+                        <container type="Folder">9</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container type="Folder">10</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>Chile</unittitle>
+                        <container type="Folder">11</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Chile</unittitle>
+                        <container type="Folder">12</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>Chile</unittitle>
+                        <container type="Folder">12.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Culture (art, theatre, literary)</unittitle>
+                        <container type="Folder">13</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>China Features</unittitle>
+                        <container type="Folder">14</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Economy</unittitle>
+                        <container type="Folder">15</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Education</unittitle>
+                        <container type="Folder">16</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Environment, Cities</unittitle>
+                        <container type="Folder">17</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Housing</unittitle>
+                        <container type="Folder">18</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Industry</unittitle>
+                        <container type="Folder">19</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Medical, Health Care</unittitle>
+                        <container type="Folder">20</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Military, Police, Politics, Anti-War</unittitle>
+                        <container type="Folder">21</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Sports</unittitle>
+                        <container type="Folder">22</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Women</unittitle>
+                        <container type="Folder">23</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="otherlevel">
+                    <did>
+                        <unittitle>China Features : Workers, Peasants</unittitle>
+                        <container type="Folder">24</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="otherlevel">
+                    <did>
+                        <unittitle>China</unittitle>
+                        <container type="Folder">24.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="otherlevel">
+                    <did>
+                        <unittitle>Chine</unittitle>
+                        <container type="Folder">24.2</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="otherlevel">
+                    <did>
+                        <unittitle>China</unittitle>
+                        <container type="Folder">24.3</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="otherlevel">
+                    <did>
+                        <unittitle>China</unittitle>
+                        <container type="Folder">24.4</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="otherlevel">
+                    <did>
+                        <unittitle>Congo Brazzaville</unittitle>
+                        <container type="Folder">25</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="otherlevel">
+                    <did>
+                        <unittitle>Cuba : El Grito</unittitle>
+                        <container type="Folder">26</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="otherlevel">
+                    <did>
+                        <unittitle>Cuba : Prensa Catina</unittitle>
+                        <container type="Folder">27</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="otherlevel">
+                    <did>
+                        <unittitle>Cuba : Venceremos Brigade, Folder 1 of 2</unittitle>
+                        <container type="Folder">28</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="otherlevel">
+                    <did>
+                        <unittitle>Cuba : Venceremos Brigade, Folder 2 of 2</unittitle>
+                        <container type="Folder">29</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="otherlevel">
+                    <did>
+                        <unittitle>Cuba, Folder 1 of 2</unittitle>
+                        <container type="Folder">30</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="otherlevel">
+                    <did>
+                        <unittitle>Cuba, Folder 2 of 2</unittitle>
+                        <container type="Folder">31</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>Denmark</unittitle>
+                        <container type="Folder">32</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="otherlevel">
+                    <did>
+                        <unittitle>Dominican Republic</unittitle>
+                        <container type="Folder">33</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="otherlevel">
+                    <did>
+                        <unittitle>England</unittitle>
+                        <container type="Folder">34</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="otherlevel">
+                    <did>
+                        <unittitle>Eritrea/Ethiopia</unittitle>
+                        <container type="Folder">35</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="otherlevel">
+                    <did>
+                        <unittitle>Ecuador</unittitle>
+                        <container type="Folder">36</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="otherlevel">
+                    <did>
+                        <unittitle>France, Folder 1 of 3</unittitle>
+                        <container type="Folder">37</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="otherlevel">
+                    <did>
+                        <unittitle>France, Folder 2 of 3</unittitle>
+                        <container type="Folder">38</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>France, Folder 3 of 3</unittitle>
+                        <container type="Folder">39</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="otherlevel">
+                    <did>
+                        <unittitle>Germany</unittitle>
+                        <container type="Folder">40</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="otherlevel">
+                    <did>
+                        <unittitle>Guam</unittitle>
+                        <container type="Folder">41</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="otherlevel">
+                    <did>
+                        <unittitle>Guinea Bissau</unittitle>
+                        <container type="Folder">42</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="otherlevel">
+                    <did>
+                        <unittitle>Holland</unittitle>
+                        <container type="Folder">43</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="otherlevel">
+                    <did>
+                        <unittitle>Iran, Folder 1 of 2</unittitle>
+                        <container type="Folder">44</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="otherlevel">
+                    <did>
+                        <unittitle>Iran, Folder 2 of 2</unittitle>
+                        <container type="Folder">45</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="otherlevel">
+                    <did>
+                        <unittitle>Ireland, Folder 1 of 2</unittitle>
+                        <container type="Folder">46</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="otherlevel">
+                    <did>
+                        <unittitle>Ireland, Folder 2 of 2</unittitle>
+                        <container type="Folder">47</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="otherlevel">
+                    <did>
+                        <unittitle>Israel</unittitle>
+                        <container type="Folder">49</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="otherlevel">
+                    <did>
+                        <unittitle>Italy</unittitle>
+                        <container type="Folder">50</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="otherlevel">
+                    <did>
+                        <unittitle>Indian Subcontinent/Pakistan</unittitle>
+                        <container type="Folder">51</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="otherlevel">
+                    <did>
+                        <unittitle>Japan</unittitle>
+                        <container type="Folder">52</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="otherlevel">
+                    <did>
+                        <unittitle>Korea, Democratic Peoples Republic of (North Korea)</unittitle>
+                        <container type="Folder">53</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="otherlevel">
+                    <did>
+                        <unittitle>Korea, Republic of (South Korea)</unittitle>
+                        <container type="Folder">54</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>Latin America, Folder 1 of 2</unittitle>
+                        <container type="Folder">55</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>Latin America, Folder 2 of 2</unittitle>
+                        <container type="Folder">56</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="otherlevel">
+                    <did>
+                        <unittitle>Latin America : El Salvador</unittitle>
+                        <container type="Folder">57</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>Latin America : maps and miscellaneous</unittitle>
+                        <container type="Folder">58</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="otherlevel">
+                    <did>
+                        <unittitle>Laos, Folder 1 of 3</unittitle>
+                        <container type="Folder">59</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="otherlevel">
+                    <did>
+                        <unittitle>Laos, Folder 2of 3</unittitle>
+                        <container type="Folder">60</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="otherlevel">
+                    <did>
+                        <unittitle>Laos, Folder 3 of 3</unittitle>
+                        <container type="Folder">61</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="otherlevel">
+                    <did>
+                        <unittitle>Middle East</unittitle>
+                        <container type="Folder">62</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="otherlevel">
+                    <did>
+                        <unittitle>Morocco</unittitle>
+                        <container type="Folder">62.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>Mozambique</unittitle>
+                        <container type="Folder">63</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="otherlevel">
+                    <did>
+                        <unittitle>Palestinians</unittitle>
+                        <container type="Folder">64</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="otherlevel">
+                    <did>
+                        <unittitle>Peru</unittitle>
+                        <container type="Folder">65</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>Philippines</unittitle>
+                        <container type="Folder">66</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="otherlevel">
+                    <did>
+                        <unittitle>Portugal</unittitle>
+                        <container type="Folder">67</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="otherlevel">
+                    <did>
+                        <unittitle>Sahara</unittitle>
+                        <container type="Folder">68</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>South Africa, Folder 1 of 2</unittitle>
+                        <container type="Folder">69</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>South Africa, Folder 2 of 2</unittitle>
+                        <container type="Folder">69.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>South East Asia</unittitle>
+                        <container type="Folder">70</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>Soviet Union</unittitle>
+                        <container type="Folder">71</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="otherlevel">
+                    <did>
+                        <unittitle>Spain</unittitle>
+                        <container type="Folder">72</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="otherlevel">
+                    <did>
+                        <unittitle>Sweden</unittitle>
+                        <container type="Folder">72.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="otherlevel">
+                    <did>
+                        <unittitle>Taiwan</unittitle>
+                        <container type="Folder">73</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="otherlevel">
+                    <did>
+                        <unittitle>Thailand</unittitle>
+                        <container type="Folder">74</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="otherlevel">
+                    <did>
+                        <unittitle>Turkey</unittitle>
+                        <container type="Folder">75</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Uruguay</unittitle>
+                        <container type="Folder">76</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="otherlevel">
+                    <did>
+                        <unittitle>Virgin Islands</unittitle>
+                        <container type="Folder">77</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam</unittitle>
+                        <container type="Folder">78</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam</unittitle>
+                        <container type="Folder">79</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam</unittitle>
+                        <container type="Folder">80</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , American Presence</unittitle>
+                        <container type="Folder">83</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Atrocities</unittitle>
+                        <container type="Folder">84</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Atrocities</unittitle>
+                        <container type="Folder">85</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Combat</unittitle>
+                        <container type="Folder">86</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Combat</unittitle>
+                        <container type="Folder">87</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Hanoi</unittitle>
+                        <container type="Folder">88</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Ho Chi Minh</unittitle>
+                        <container type="Folder">89</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , North, Folder 1 of 2</unittitle>
+                        <container type="Folder">90</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam, North, Folder 2 of 2</unittitle>
+                        <container type="Folder">91</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , North – Anne Dockery’s trip</unittitle>
+                        <container type="Folder">92</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , North Defensive</unittitle>
+                        <container type="Folder">93</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , North – Education &amp; Culture</unittitle>
+                        <container type="Folder">94</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , North &amp; South, Early 1970s. Folder 1 of 2.</unittitle>
+                        <container type="Folder">95</container>
+                        <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , North &amp; South, Early 1970s. Folder 2 of 2.</unittitle>
+                        <container type="Folder">96</container>
+                        <unitdate normal="1970/1979" type="inclusive">1970s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Postcards</unittitle>
+                        <container type="Folder">97</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam, PRG Territory</unittitle>
+                        <container type="Folder">98</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnamese people</unittitle>
+                        <container type="Folder">99</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Post Liberation</unittitle>
+                        <container type="Folder">100</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Prisoners in South</unittitle>
+                        <container type="Folder">101</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , South cities</unittitle>
+                        <container type="Folder">102</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="otherlevel">
+                    <did>
+                        <unittitle>Vietnam , Thieu government</unittitle>
+                        <container type="Folder">103</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="otherlevel">
+                    <did>
+                        <unittitle>Zimbabwe</unittitle>
+                        <container type="Folder">104</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref124" level="series">
+                <did>
+                    <unittitle>Series II: United States</unittitle>
+                </did>
+                <c02 id="ref125" level="otherlevel">
+                    <did>
+                        <unittitle>Aged, Folder 1 of 2</unittitle>
+                        <container type="Folder">105</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="otherlevel">
+                    <did>
+                        <unittitle>Aged, Folder 2 of 2</unittitle>
+                        <container type="Folder">106</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="otherlevel">
+                    <did>
+                        <unittitle>Agri business</unittitle>
+                        <container type="Folder">107</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="otherlevel">
+                    <did>
+                        <unittitle>Alternative Lifestyles</unittitle>
+                        <container type="Folder">108</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="otherlevel">
+                    <did>
+                        <unittitle>Alternative Lifestyles, Religious sects</unittitle>
+                        <container type="Folder">109</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-Imperialist demonstrations – U.S.</unittitle>
+                        <container type="Folder">110</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Demonstrations</unittitle>
+                        <container type="Folder">111</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Demonstrations</unittitle>
+                        <container type="Folder">112</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Demonstrations – Boston/Cambridge</unittitle>
+                        <container type="Folder">113</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Demonstrations - California</unittitle>
+                        <container type="Folder">114</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Demonstrations – Cornell</unittitle>
+                        <container type="Folder">115</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Movement – Columbia University</unittitle>
+                        <container type="Folder">116</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Movement – Misc. Demos.</unittitle>
+                        <container type="Folder">117</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Movement – New York</unittitle>
+                        <container type="Folder">118</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War Movement – Wash. D.C., Mayday</unittitle>
+                        <container type="Folder">119</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="otherlevel">
+                    <did>
+                        <unittitle>Anti-War – Santa Barbara</unittitle>
+                        <container type="Folder">120</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref141" level="otherlevel">
+                    <did>
+                        <unittitle>Art</unittitle>
+                        <container type="Folder">121</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref142" level="otherlevel">
+                    <did>
+                        <unittitle>Asian Americans</unittitle>
+                        <container type="Folder">122</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="otherlevel">
+                    <did>
+                        <unittitle>Black Americans, Folder 1 of 3</unittitle>
+                        <container type="Folder">123</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="otherlevel">
+                    <did>
+                        <unittitle>Black Americans, Folder 2 of 3</unittitle>
+                        <container type="Folder">124</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="otherlevel">
+                    <did>
+                        <unittitle>Black Americans, Folder 3 of 3</unittitle>
+                        <container type="Folder">125</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="otherlevel">
+                    <did>
+                        <unittitle>Black Panthers – General</unittitle>
+                        <container type="Folder">126</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="otherlevel">
+                    <did>
+                        <unittitle>Black Panthers – Individuals</unittitle>
+                        <container type="Folder">127</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="otherlevel">
+                    <did>
+                        <unittitle>Blacks : Southern U.S.</unittitle>
+                        <container type="Folder">128</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="otherlevel">
+                    <did>
+                        <unittitle>Blacks : Southern U.S. (Fayette Co., Tenn.)</unittitle>
+                        <container type="Folder">129</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="otherlevel">
+                    <did>
+                        <unittitle>Blacks : Southern U.S. (cotton picking, Fayette Co., Tenn.)</unittitle>
+                        <container type="Folder">130</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="otherlevel">
+                    <did>
+                        <unittitle>Blacks : Southern U.S. (Mississippi), Folder 1 of 2</unittitle>
+                        <container type="Folder">131</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="otherlevel">
+                    <did>
+                        <unittitle>Blacks : Southern U.S. (Mississippi), Folder 2 of 2</unittitle>
+                        <container type="Folder">132</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="otherlevel">
+                    <did>
+                        <unittitle>Blacks : Southern U.S. (Woodcutters, Mississippi)</unittitle>
+                        <container type="Folder">133</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="otherlevel">
+                    <did>
+                        <unittitle>Chicano, Folder 1 of 2</unittitle>
+                        <container type="Folder">134</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="otherlevel">
+                    <did>
+                        <unittitle>Chicano, Folder 2 of 2</unittitle>
+                        <container type="Folder">135</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="otherlevel">
+                    <did>
+                        <unittitle>Children/Youth, Folder 1 of 2</unittitle>
+                        <container type="Folder">136</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="otherlevel">
+                    <did>
+                        <unittitle>Children/Youth, Folder 2 of 2</unittitle>
+                        <container type="Folder">137</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="otherlevel">
+                    <did>
+                        <unittitle>Cities</unittitle>
+                        <container type="Folder">137.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="otherlevel">
+                    <did>
+                        <unittitle>Civil Rights Movement, Poor People’s Campaign</unittitle>
+                        <container type="Folder">138</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="otherlevel">
+                    <did>
+                        <unittitle>Consumerism – Advertising</unittitle>
+                        <container type="Folder">139</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="otherlevel">
+                    <did>
+                        <unittitle>Corporations – Industry</unittitle>
+                        <container type="Folder">140</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="otherlevel">
+                    <did>
+                        <unittitle>Cultural Events I – Music (non-celebrity)</unittitle>
+                        <container type="Folder">141</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="otherlevel">
+                    <did>
+                        <unittitle>Cultural Events II – Theatre, Guerilla theatre (non-celebrity)</unittitle>
+                        <container type="Folder">142</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="otherlevel">
+                    <did>
+                        <unittitle>Cultural Events III – Misc. (non-music, theatre)</unittitle>
+                        <container type="Folder">143</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="otherlevel">
+                    <did>
+                        <unittitle>Day Care</unittitle>
+                        <container type="Folder">144</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="otherlevel">
+                    <did>
+                        <unittitle>Demonstrations : Anti-War, Poor Peoples march</unittitle>
+                        <container type="Folder">145</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="otherlevel">
+                    <did>
+                        <unittitle>Demonstrations : Kent State</unittitle>
+                        <container type="Folder">146</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="otherlevel">
+                    <did>
+                        <unittitle>Demonstrations : Misc., Folder 1 of 2</unittitle>
+                        <container type="Folder">147</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="otherlevel">
+                    <did>
+                        <unittitle>Demonstrations : Misc., Folder 2 of 2</unittitle>
+                        <container type="Folder">148</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="otherlevel">
+                    <did>
+                        <unittitle>Economy – Cutbacks, unemployment, welfare</unittitle>
+                        <container type="Folder">149</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="otherlevel">
+                    <did>
+                        <unittitle>Education, Folder 1 of 3</unittitle>
+                        <container type="Folder">150</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="otherlevel">
+                    <did>
+                        <unittitle>Education, Folder 2 of 3</unittitle>
+                        <container type="Folder">151</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="otherlevel">
+                    <did>
+                        <unittitle>Education, Folder 3 of 3</unittitle>
+                        <container type="Folder">152</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="otherlevel">
+                    <did>
+                        <unittitle>Environment</unittitle>
+                        <container type="Folder">154</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="otherlevel">
+                    <did>
+                        <unittitle>Energy – US</unittitle>
+                        <container type="Folder">155</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="otherlevel">
+                    <did>
+                        <unittitle>Farmworkers/United Farmworkers</unittitle>
+                        <container type="Folder">156</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="otherlevel">
+                    <did>
+                        <unittitle>Food</unittitle>
+                        <container type="Folder">157</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref178" level="otherlevel">
+                    <did>
+                        <unittitle>Gay, Folder 1of 3</unittitle>
+                        <container type="Folder">158</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref179" level="otherlevel">
+                    <did>
+                        <unittitle>Gay, Folder 2 of 3</unittitle>
+                        <container type="Folder">159</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref180" level="otherlevel">
+                    <did>
+                        <unittitle>Gay, Folder 3 of 3</unittitle>
+                        <container type="Folder">160</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref181" level="otherlevel">
+                    <did>
+                        <unittitle>G.I. Movement</unittitle>
+                        <container type="Folder">161</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref182" level="otherlevel">
+                    <did>
+                        <unittitle>Health</unittitle>
+                        <container type="Folder">162</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref183" level="otherlevel">
+                    <did>
+                        <unittitle>Health – Sydenham Hospital</unittitle>
+                        <container type="Folder">163</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref184" level="otherlevel">
+                    <did>
+                        <unittitle>Housing – Tenants, Folder 1 of 2</unittitle>
+                        <container type="Folder">164</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref185" level="otherlevel">
+                    <did>
+                        <unittitle>Housing – Tenants , Folder 2 of 2</unittitle>
+                        <container type="Folder">164.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref186" level="otherlevel">
+                    <did>
+                        <unittitle>Housing – Struggles</unittitle>
+                        <container type="Folder">165</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref187" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals</unittitle>
+                        <container type="Folder">165.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref188" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals I – the Left (US), Folder 1 of 3</unittitle>
+                        <container type="Folder">166</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref189" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals I – the Left (US), Folder 2 of 3</unittitle>
+                        <container type="Folder">167</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref190" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals I – the Left (US), Folder 3 of 3</unittitle>
+                        <container type="Folder">168</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref191" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals II – Government (US), Folder 1 of 2</unittitle>
+                        <container type="Folder">169</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref192" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals II – Government (US), Folder 2 of 2</unittitle>
+                        <container type="Folder">170</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref193" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals III – International, Left &amp; Government 4</unittitle>
+                        <container type="Folder">171</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals IV – Celebrities, Music, Media, Etc.</unittitle>
+                        <container type="Folder">172</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals IV – Celebrities, Music, Media, Etc.</unittitle>
+                        <container type="Folder">173</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="otherlevel">
+                    <did>
+                        <unittitle>Individuals IV – Celebrities, The Rolling Stones</unittitle>
+                        <container type="Folder">174</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="otherlevel">
+                    <did>
+                        <unittitle>Klan/Anti-Klan</unittitle>
+                        <container type="Folder">175</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="otherlevel">
+                    <did>
+                        <unittitle>Media: TV, Film, Printed, Radio, Non-Celebrity</unittitle>
+                        <container type="Folder">176</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="otherlevel">
+                    <did>
+                        <unittitle>Military</unittitle>
+                        <container type="Folder">177</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref200" level="otherlevel">
+                    <did>
+                        <unittitle>Mining</unittitle>
+                        <container type="Folder">178</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref201" level="otherlevel">
+                    <did>
+                        <unittitle>Native Americans</unittitle>
+                        <container type="Folder">179</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref202" level="otherlevel">
+                    <did>
+                        <unittitle>Native Americans : Wounded Knee: Other Demos</unittitle>
+                        <container type="Folder">180</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref203" level="otherlevel">
+                    <did>
+                        <unittitle>New York City/Government</unittitle>
+                        <container type="Folder">181</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="otherlevel">
+                    <did>
+                        <unittitle>Nuclear + Demos.</unittitle>
+                        <container type="Folder">181.1</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref205" level="otherlevel">
+                    <did>
+                        <unittitle>Occupational Health &amp; Safety</unittitle>
+                        <container type="Folder">182</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref206" level="otherlevel">
+                    <did>
+                        <unittitle>Organized Crime</unittitle>
+                        <container type="Folder">183</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="otherlevel">
+                    <did>
+                        <unittitle>People – Misc., Crowds</unittitle>
+                        <container type="Folder">184</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="otherlevel">
+                    <did>
+                        <unittitle>Police</unittitle>
+                        <container type="Folder">185</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="otherlevel">
+                    <did>
+                        <unittitle>Police Intelligence/Agents</unittitle>
+                        <container type="Folder">186</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="otherlevel">
+                    <did>
+                        <unittitle>Political Prisoners – Individuals &amp; Support Demos</unittitle>
+                        <container type="Folder">187</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="otherlevel">
+                    <did>
+                        <unittitle>Prisons</unittitle>
+                        <container type="Folder">188</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="otherlevel">
+                    <did>
+                        <unittitle>Puerto Rico</unittitle>
+                        <container type="Folder">189</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="otherlevel">
+                    <did>
+                        <unittitle>Puerto Ricans in U.S.</unittitle>
+                        <container type="Folder">190</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="otherlevel">
+                    <did>
+                        <unittitle>Puerto Ricans in U.S./Young Lords Party</unittitle>
+                        <container type="Folder">191</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="otherlevel">
+                    <did>
+                        <unittitle>Rural America</unittitle>
+                        <container type="Folder">192</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="otherlevel">
+                    <did>
+                        <unittitle>Technology</unittitle>
+                        <container type="Folder">193</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="otherlevel">
+                    <did>
+                        <unittitle>Transportation</unittitle>
+                        <container type="Folder">194</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="otherlevel">
+                    <did>
+                        <unittitle>U.S. Government 1980 Election/Convention &amp; Demos</unittitle>
+                        <container type="Folder">195</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="otherlevel">
+                    <did>
+                        <unittitle>U.S. Government Political Events – Miami Convention</unittitle>
+                        <container type="Folder">196</container>
+                        <unitdate normal="1972/1972">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="otherlevel">
+                    <did>
+                        <unittitle>U.S. Government Political Events</unittitle>
+                        <container type="Folder">197</container>
+                        <unitdate normal="1973/1973">1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="otherlevel">
+                    <did>
+                        <unittitle>Underground/Weather includes Weathermen, SLA</unittitle>
+                        <container type="Folder">198</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="otherlevel">
+                    <did>
+                        <unittitle>Unemployment – Welfare</unittitle>
+                        <container type="Folder">199</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="otherlevel">
+                    <did>
+                        <unittitle>Veterans/Vietnam Veterans Against the War – Winter Soldier Organization</unittitle>
+                        <container type="Folder">200</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="otherlevel">
+                    <did>
+                        <unittitle>Weathermen</unittitle>
+                        <container type="Folder">201</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="otherlevel">
+                    <did>
+                        <unittitle>Women – General</unittitle>
+                        <container type="Folder">202</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="otherlevel">
+                    <did>
+                        <unittitle>Women – Sexism</unittitle>
+                        <container type="Folder">203</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="otherlevel">
+                    <did>
+                        <unittitle>Women – Working</unittitle>
+                        <container type="Folder">204</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="otherlevel">
+                    <did>
+                        <unittitle>Workers (See Also Farm Workers, Health &amp; Women) , Folder 1 of 2</unittitle>
+                        <container type="Folder">205</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="otherlevel">
+                    <did>
+                        <unittitle>Workers (See Also Farm Workers, Health &amp; Women) , Folder 2 of 2</unittitle>
+                        <container type="Folder">206</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="otherlevel">
+                    <did>
+                        <unittitle>Workers – Auto</unittitle>
+                        <container type="Folder">207</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="otherlevel">
+                    <did>
+                        <unittitle>Workers – Labor Movement, Folder 1 of 2</unittitle>
+                        <container type="Folder">208</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="otherlevel">
+                    <did>
+                        <unittitle>Workers – Labor Movement, Folder 2 of 2</unittitle>
+                        <container type="Folder">209</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="otherlevel">
+                    <did>
+                        <unittitle>Workers – Steel Industry</unittitle>
+                        <container type="Folder">210</container>
+                        <unitdate normal="1965/1981" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
