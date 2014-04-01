@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
         <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/photos_213">photos_213</eadid>
         <filedesc>
             <titlestmt>
@@ -22,7 +23,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-03-27T13:51-0400</date>
+                <date>2014-04-01T09:46-0400</date>
             </creation>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
@@ -9235,6 +9236,17 @@
                         <extent>1.0 folder</extent>
                     </physdesc>
                     <unitdate normal="1969/1972" type="inclusive">1969-1972</unitdate>
+                </did>
+            </c>
+            <c id="ref2649" level="file">
+                <did>
+                    <unittitle>Cedric Belfrage Memorial</unittitle>
+                    <container id="cid23096001" type="Box" label="Mixed materials">19</container>
+                    <container parent="cid23096001" type="Folder">69</container>
+                    <physdesc>
+                        <extent>1.0 folder</extent>
+                    </physdesc>
+                    <unitdate normal="1990/1990">Nov. 12, 1990</unitdate>
                 </did>
             </c>
             <c id="ref1662" level="file">
