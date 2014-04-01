@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Breif_EAD" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">wag_067</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>International Alliance of Theatrical Stage Employees, Local 644, International Photographers of Motion Pictures and Television
+                    <num>WAG.067</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T20:58-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>International Alliance of Theatrical Stage Employees, Local 644, International Photographers of Motion Pictures and Television Records</unittitle>
+            <unitid>WAG.067</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>23.0 linear feet</extent>
+                <extent>(23 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1926/1981" type="inclusive">1926-1981</unitdate>
+            <origination label="creator">
+                <corpname source="local">International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada. Local 644 (International Photographers of Motion Pictures and Television).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref34">
+            <head>Historical/Biographical Note</head>
+            <p>International Photographers of the Motion Picture Industry Local 644 was chartered by the International Alliance of Theatrical Stage Employees on November 15, 1926. It conducted its meetings in the rooms of the United Scenic Artists and benefitted from the organization of studio mechanics in 1924. Chartering members were Eastern seaboard theatrical and newsreel cameramen dissatisfied with their working conditions characterized by long hours at the whim of producers. Activists who served as the interim president and first president of the local were Bill Miller, brother of playwright Arthur Miller later producer of the early television show, "Sergeant Bilko," and Billy Bitzer, cameraman for D.W. Griffith.</p>
+            <p>The original charter gave Local 644 jurisdiction over all cameramen in the U.S. In 1928 a sister local (659) was formed in California and in 1929 a third local (666) was established in Chicago, following the migration of the industry westward. Canadian jurisdiction was ceded to Toronto-based Local 667 in 1981.</p>
+            <p>In the twenties and thirties, the craft represented fewer than 100 people, and included both members of 2-men camera crews of the day: the director of photography and assistant camera operator. New York employers in the newsreel sector included Pathe (RKO, later Warner), Universal, Paramount, Fox Movie Tone, and MGM News of the Day (Hearst Metro Tone). Theatrical employers included the Astoria, Metropolitan, First National (Vitaphone), Fox (54th Street), Edison, and Biograph (Bronx) studios. Few of the studios survived the Depression and the loss of feature work to the West Coast.</p>
+            <p>During World War II Local 644 supplied combat cameramen and Army Signal Corpsmen. The Astoria Studios housed the Army Signal Corps between 1942 and 1972. As television networks grew, Local 644's newsreel cameramen found employment filming television news, a mainstay of the Local until the mid-1970s. Local 644 members also found work doing industrials and commercials. In the early 1950s and 1960s about 85 per cent of television commercials were produced in New York as well as situation comedies and other programming. Much of this work also migrated to Hollywood and in the 1970s and 1980s, increasingly work has moved "offshore" to Canada and the "diaspora" seeking more studio space and lower pay scales. As electronic news gathering replaced filmed network news in the mid-1970s, other unions secured jurisdiction at CBS, ABC and NBC. In the words of one network executive Local 644's film newsreel cameramen were "dinosaurs" in a changing industry. They were forced to join NABET or the IBEW, or retire.</p>
+            <p>Through the 1980s, feature film work in New York City and on the East Coast increased dramatically, offsetting the loss of commercial work and newsreel jurisdiction. In 1990 NABET Local 15 merged with IATSE, increasing Local 644's membership from 700 to 1,200 members. The Motion Picture Screen Cartoonists Local 841 merged with Local 644 in 1988. The recent revival in computer animation and graphics has led the Local to organize in these fields. In 1990, Local 644 signed the first-ever "below the line" pact with Mexico, Argentina and Brazil. This resulted in the first joint Mexican-American strike in the Mayan jungles against an Italian producer. Local 644 was also the first local to inaugurate marketing ventures with New York City and New York State in the European market bringing over $10 million in new business to date. With Local 644's leadership, IATSE gave the East Coast Council jurisdiction over all feature films on the East Coast with budgets under $6 million (low-budget films). The 1991-2 boycott of New York by major producers stressed the importance of low-budget productions to the industry and resulted in modifications of work rules. As of 1994, the Council managed over $100 million worth of low-budget contracts.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Minutes from 1926-1983 are on microfilm R-7446.</p>
+        </scopecontent>
+        <dsc>
+            <c01 id="ref35" level="series">
+                <did>
+                    <unittitle>Inventory</unittitle>
+                </did>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Correspondence A-C</unittitle>
+                        <container id="cid19486044" type="Box" label="Mixed materials">1</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="file">
+                    <did>
+                        <unittitle>Correspondence C-H</unittitle>
+                        <container id="cid19486045" type="Box" label="Mixed materials">2</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="file">
+                    <did>
+                        <unittitle>Correspondence I-M</unittitle>
+                        <container id="cid19486046" type="Box" label="Mixed materials">3</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Correspondence M-N</unittitle>
+                        <container id="cid19486047" type="Box" label="Mixed materials">4</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Correspondence N-S</unittitle>
+                        <container id="cid19486048" type="Box" label="Mixed materials">5</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Correspondence S-V</unittitle>
+                        <container id="cid19486049" type="Box" label="Mixed materials">6</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Correspondence V-W</unittitle>
+                        <container id="cid19486050" type="Box" label="Mixed materials">7</container>
+                        <unitdate normal="1927/1974" type="inclusive">1927-1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>General Files A-C</unittitle>
+                        <container id="cid19486051" type="Box" label="Mixed materials">7</container>
+                        <unitdate normal="1947/1978" type="inclusive">1947-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>General Files C-M</unittitle>
+                        <container id="cid19486052" type="Box" label="Mixed materials">8</container>
+                        <unitdate normal="1947/1978" type="inclusive">1947-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>General Files M-P</unittitle>
+                        <container id="cid19486053" type="Box" label="Mixed materials">9</container>
+                        <unitdate normal="1947/1978" type="inclusive">1947-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>General Files P-W</unittitle>
+                        <container id="cid19486054" type="Box" label="Mixed materials">10</container>
+                        <unitdate normal="1947/1978" type="inclusive">1947-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>IATSE Legal Files C-L</unittitle>
+                        <container id="cid19486055" type="Box" label="Mixed materials">11</container>
+                        <unitdate normal="1956/1977" type="inclusive">1956-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>IATSE Legal Files M-N</unittitle>
+                        <container id="cid19486056" type="Box" label="Mixed materials">12</container>
+                        <unitdate normal="1956/1977" type="inclusive">1956-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>IATSE Legal Files N-U</unittitle>
+                        <container id="cid19486057" type="Box" label="Mixed materials">13</container>
+                        <unitdate normal="1956/1977" type="inclusive">1956-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>IATSE Legal Files V-W</unittitle>
+                        <container id="cid19486058" type="Box" label="Mixed materials">14</container>
+                        <unitdate normal="1956/1977" type="inclusive">1956-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>IATSE Legal Files W</unittitle>
+                        <container id="cid19486059" type="Box" label="Mixed materials">15</container>
+                        <unitdate normal="1956/1977" type="inclusive">1956-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Old Contracts A-C</unittitle>
+                        <container id="cid19486060" type="Box" label="Mixed materials">15</container>
+                        <unitdate normal="1936/1976" type="inclusive">1936-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Old Contracts C-H</unittitle>
+                        <container id="cid19486061" type="Box" label="Mixed materials">16</container>
+                        <unitdate normal="1936/1976" type="inclusive">1936-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Old Contracts I-M</unittitle>
+                        <container id="cid19486062" type="Box" label="Mixed materials">17</container>
+                        <unitdate normal="1936/1976" type="inclusive">1936-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>Old Contracts M-N</unittitle>
+                        <container id="cid19486063" type="Box" label="Mixed materials">18</container>
+                        <unitdate normal="1936/1976" type="inclusive">1936-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Old Contracts P-W</unittitle>
+                        <container id="cid19486064" type="Box" label="Mixed materials">19</container>
+                        <unitdate normal="1936/1976" type="inclusive">1936-1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>Old Feature and Commercial Files H-M</unittitle>
+                        <container id="cid19486065" type="Box" label="Mixed materials">20</container>
+                        <unitdate normal="1958/1977" type="inclusive">1958-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Old Feature and Commercial Files M-Q</unittitle>
+                        <container id="cid19486066" type="Box" label="Mixed materials">21</container>
+                        <unitdate normal="1958/1977" type="inclusive">1958-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Old Membership Applications A-E</unittitle>
+                        <container id="cid19486067" type="Box" label="Mixed materials">22</container>
+                        <unitdate normal="1926/1981" type="inclusive">1926-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Old Membership Applications F-W</unittitle>
+                        <container id="cid19486068" type="Box" label="Mixed materials">23</container>
+                        <unitdate normal="1926/1981" type="inclusive">1926-1981</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

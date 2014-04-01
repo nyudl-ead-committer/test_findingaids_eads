@@ -1,0 +1,1828 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">firefighters</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the United Women Firefighters Records
+                    <num>WAG 057</num>
+                </titleproper>
+                <author>Finding aid prepared by Laurie B. Green, 1987, and Jennifer Steenshorne, 2006</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from United Women Firefighters Wag 57 replacement.doc</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Finding Aid</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-09-15T11:55-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>United Women Firefighters Records</unittitle>
+            <unitid>WAG 057</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>11.0 linear feet</extent>
+                <extent>(11 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1979/1993" type="bulk">Bulk, 1979-1993</unitdate>
+            <unitdate normal="1957/2005" type="inclusive">1957-2005</unitdate>
+            <abstract id="ref3" label="Abstract">The United Women Firefighters (UWF) was founded in 1982 as a support organization for women firefighters in the New York City Fire Department. The New York City Fire Department began accepting applications from women for the position of firefighter in 1977, but did not hire any women until after Brenda Berkman successfully sued the City of New York on behalf of herself and other women who had passed the written examination, questioning the validity of the physical exam. The UWF was founded to deal with the occupational and sexual discrimination and the sexual harassment women firefighters faced. These records cover Brenda Berkman's career, legal cases (Brenda Berkman et al. v. City of New York et al.; Brenda Berkman et al. v. City of New York et al., Appeal; and Brenda Berkman v. City of New York, Carlos Rivera, &amp; Selig Ginsberg), and the founding and development of the United Women Firefighters of New York City and the related national support group, Women in Fire Service (WFS, alternately known as Women in Fire Suppression). The collection contains scrapbook material, personal correspondence, legal documents, organizational files, subject files, clippings and memorabilia.</abstract>
+            <origination label="creator">
+                <persname source="naf">Berkman, Brenda</persname>
+            </origination>
+            <origination label="creator">
+                <corpname source="local">United Women Firefighters.</corpname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>The original donation of material to the Wagner Labor Archives was made by Brenda Berkman and the United Women Firefighters in 1987. A subsequent donation of four boxes was made by Brenda Berkman in 2002, and additional materials were added by Berkman in 2005 and 2011.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>The New York City Fire Department (NYCFD, also known as the FDNY by the department) began accepting applications from women for the position of firefighter in 1977, but did not hire any women until after Brenda Berkman successfully sued the City of New York on behalf of herself and other women who had passed the written examination. Berkman, a law student at New York University at the time of her application, sued the City under the 1964 Civil Rights Act, questioning the validity of the physical exam. In 1982, Judge Charles Sifton ruled that the City had indeed discriminated against women through its physical exam, known as the 3040 exam, which included tests that were biased against women and unrelated to a firefighter's future performance on the job. The suit and Sifton's ruling sparked intense controversy in the Fire Department and the media. Litigation related to this original ruling continued until 1988.</p>
+            <p>The United Women Firefighters (UWF) was founded in 1982 by the first group of New York City women firefighters, in order to deal with the occupational and sexual discrimination, and the sexual harassment, encountered in the Department. Modeled on groups like the Vulcan Society (representing African-American firefighters), the UWF assists women firefighters who have encountered a wide range of problems on the job, from ill-fitting equipment to unjust probation and sexual assault. They have lobbied for training for all officers and firefighters on issues related to women on the job. Representatives of the organization have developed ties with other women firefighters' organizations, including the national coalition, Women in Fire Service. The United Women Firefighters publishes a monthly newsletter, the 
+                <title render="italic">Voice Alarm</title>.</p>
+            <p>Brenda Berkman was born in 1951, and became interested in firefighting as a young girl. When she accepted the Susan B. Anthony Award from the National Organization of Women in 1984, she declared that she had become a feminist at age seven, when she was not allowed to play in boys-only Little League. She earned her B.A. from St. Olaf College in Minnesota, an M.A. in History at Indiana University, a J.D. from New York University Law School, and an M.S. in Fire Protection Management from the City University of New York. At the time of her application to the New York Fire Department she was a law student at New York University. Berkman is a founding member and former president of the United Women Firefighters (1982-1986) and served as trustee of the Women in Fire Service (1983-1992). She taught at the FDNY fire academy and the United States National Fire Academy. Her many awards and honors include the Susan B. Anthony award from the National Organization for Women (1984), a Revson Fellowship on the Future of the City of New York from Columbia University (1987-1988), the distinguished alumni award from St. Olaf College, and the National Organization for Women's Women of Courage Award (2002). For her support of labor history and labor archives, she was honored by the New York Labor History Association in 2005. Berkman was a featured participant in the PBS program, "Sex, Power, and the Workplace" (1992) and was the subject of the Off-Broadway play, "Firework" (2002). Her story and that of her fellow women firefighters is the focus of the documentary, "Taking the Heat: The First Women Firefighters of New York City" (2006). She was promoted to Captain in 2002, only the third woman to achieve that rank.</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>
+                <emph render="bold">Series I: Brenda Berkman Papers, 1977-2005</emph>, includes biographical material on Brenda Berkman, clippings related to her career, correspondence from her legal practice, and materials from her scrapbooks, primarily dealing with the case, Berkman v. City of New York.</p>
+            <p>
+                <emph render="bold">Series II: Legal Files, 1979-1993</emph>, is divided into three sub-series: Brenda Berkman et al. v. City of New York et al. (Case No. 79, C 1813), Class Action Suit (Berkman v. City of New York), 1977-1990; Brenda Berkman et al. v. City of New York et al. (Case no. 82-7654), Appeal, 1982 (Berkman v. City of New York, Appeal); and Brenda Berkman v. New York City Fire Department, Carlos Rivera, and Selig Ginsberg (Case no. E-92-0575), 1991-1993 (Berkman v. NYCFD). 
+                <emph render="bold">Sub-series A, Berkman v. City of New York</emph>, is arranged in two sections: legal documents (defendants' papers, exhibits, plaintiff's papers, and testimony), arranged chronologically and by suit, and subject files (clippings, correspondence, notes and research). This material covers not only the original case, but seven subsequent suits related to the dismissal and reinstatement with back-pay of firefighters Brenda Berkman and Zaida Gonzalez in 1983, the harassment cases of firefighters Katrina Cannon and Ella McNair, and the revised physical exam, 1162. 
+                <emph render="bold">Sub-series B, Berkman v. City of New York, Appeal</emph>, consists of legal documents related to the unsuccessful appeal by the City of New York of Judge Sifton's 1982 ruling. 
+                <emph render="bold">Sub-series C, Berkman v. NYCFD</emph>, consists of subject files, arranged alphabetically, and includes correspondence, clippings, court papers, medical records, and press conference materials concerning Berkman's 1992 sexual harassment suit against the New York City Fire Department, Fire Commissioner Carlos Rivera, and departmental physician, Dr. Selig Ginsberg.</p>
+            <p>
+                <emph render="bold">Series III: Organizational Files, 1977-2002</emph>, is divided into two sub-series, arranged alphabetically: The United Women Firefighters (UWF), 1977-2002 and Women in Fire Service (WFS, alternately known as Women in Fire Suppression), 1983-1995. 
+                <emph render="bold">Sub-series A, United Women Firefighters</emph>, is arranged alphabetically by subject and chronologically within subject, when appropriate. This series includes materials related to the founding and operation of the UWF, such as clippings, correspondence, organizational materials, press conferences, the physical exam, membership, the FDNY's Special Advisory Committee on Women, and materials related to the training course at John Jay College of Criminal Justice-CUNY. 
+                <emph render="bold">Sub-series B, Women in Fire Service</emph>, is arranged alphabetically by subject and chronologically within subject, when appropriate. The WFS is a national organization of women in firefighting, founded in 1982 by firefighters Terese Floren and Linda Willing. Brenda Berkman served as a trustee of the WFS from 1983 to 1992. The WFS publishes a newsletter, 
+                <title render="italic">Firework</title>. The series includes correspondence, materials related to the regional and national conferences on women in firefighting sponsored by the WFS, transcriptions of interviews with Brenda Berkman from a 1987-1988 oral history project, membership, and organizational materials.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>Arranged alphabetically within each series.</p>
+            <p>Organized into 3 series:</p>
+            <list type="ordered">
+                <item>I, Brenda Berkman Papers</item>
+                <item>II, Legal Files</item>
+                <item>III, Organizational Files</item>
+                <item>IV, Unprocessed Materials</item>
+            </list>
+        </arrangement>
+        <userestrict id="ref226">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref227">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="naf">Berkman, Brenda</persname>
+            <corpname source="naf">New York (N.Y.). Fire Dept.</corpname>
+            <corpname source="local">United Women Firefighters.</corpname>
+            <corpname source="naf">Women in Fire Suppression (Organization).</corpname>
+            <corpname source="naf">Women in the Fire Service (Organization).</corpname>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <genreform source="aat">Correspondence.</genreform>
+            <subject source="lcsh">Fire fighters--Labor unions--New York (State)--New York.</subject>
+            <genreform source="aat">Legal documents.</genreform>
+            <genreform source="aat">Manuscripts (document genre)</genreform>
+            <genreform source="aat">Minutes.</genreform>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+            <subject source="lcsh">Sex discrimination against women |z New York (State) |z New York.</subject>
+            <subject source="lcsh">Sex discrimination in employment |z New York (State) |z New York.</subject>
+            <subject source="lcsh">Women fire fighters--New York (State)--New York.</subject>
+            <subject source="lcsh">Women in the civil service |z New York (State) |z New York.</subject>
+            <subject source="lcsh">Women's rights--New York (State)--New York.</subject>
+            <subject source="lcsh">Women--New York (State)--New York--Societies, etc.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Series I: Brenda Berkman Papers</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                </did>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Biographical</unittitle>
+                        <container id="cid63406" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63406" type="Folder">1</container>
+                        <unitdate normal="1984/2000" type="inclusive">1984-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>Clippings</unittitle>
+                        <container id="cid63405" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63405" type="Folder">2</container>
+                        <unitdate normal="1979/2005" type="inclusive">1979-2005</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>Correspondence, Children</unittitle>
+                        <container id="cid63404" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63404" type="Folder">3</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Correspondence, Legal Practice</unittitle>
+                        <container id="cid63403" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63403" type="Folder">4</container>
+                        <unitdate normal="1978/1982" type="inclusive">1978-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63402" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63402" type="Folder">5</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63401" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63401" type="Folder">6</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63400" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63400" type="Folder">7</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63399" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63399" type="Folder">8</container>
+                        <unitdate normal="1980/1980">1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63398" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63398" type="Folder">9</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63397" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63397" type="Folder">10</container>
+                        <unitdate normal="1982/1982">1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63396" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63396" type="Folder">11</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63395" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63395" type="Folder">12</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Scrapbooks</unittitle>
+                        <container id="cid63394" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid63394" type="Folder">13</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref27" level="series">
+                <did>
+                    <unittitle>Series II: Legal Files</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                </did>
+                <c02 id="ref28" level="subseries">
+                    <did>
+                        <unittitle>Subseries II:A: Brenda Berkman et al. v. City of New York et al. (Case No. 79, C 1813), Class Action Suit</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                    </did>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Complaint, Class Action Suit (decided Mar 4, 1982</unittitle>
+                            <container id="cid63393" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63393" type="Folder">14</container>
+                            <unitdate normal="1979/1979">1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Depositions, Berkman (decided Mar 4, 1982)</unittitle>
+                            <container id="cid63392" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63392" type="Folder">15</container>
+                            <unitdate normal="1979/1979">1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Mar 4, 1982) I</unittitle>
+                            <container id="cid63391" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63391" type="Folder">16</container>
+                            <unitdate normal="1980/1980">1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Mar 4, 1982) II</unittitle>
+                            <container id="cid63390" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63390" type="Folder">17</container>
+                            <unitdate normal="1980/1980">1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Mar 4, 1982) I</unittitle>
+                            <container id="cid63389" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63389" type="Folder">18</container>
+                            <unitdate normal="1981/1981">1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Mar 4, 1982) II</unittitle>
+                            <container id="cid63388" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63388" type="Folder">19</container>
+                            <unitdate normal="1981/1981">1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Memorandum, Decision, &amp; Order (decided Mar 4, 1982)</unittitle>
+                            <container id="cid63387" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63387" type="Folder">20</container>
+                            <unitdate normal="1982/1982">1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Dec 8, 1983) I</unittitle>
+                            <container id="cid63386" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63386" type="Folder">21</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Dec 8, 1983) II</unittitle>
+                            <container id="cid63385" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63385" type="Folder">22</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Dec 8, 1983) III</unittitle>
+                            <container id="cid63384" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63384" type="Folder">23</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Dec 8, 1983) IV</unittitle>
+                            <container id="cid63383" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63383" type="Folder">24</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Memorandum and Order (decided Dec 8, 1983)</unittitle>
+                            <container id="cid63382" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63382" type="Folder">25</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983)</unittitle>
+                            <container id="cid63381" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid63381" type="Folder">26</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) I</unittitle>
+                            <container id="cid63380" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63380" type="Folder">1</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) II</unittitle>
+                            <container id="cid63379" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63379" type="Folder">2</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) III</unittitle>
+                            <container id="cid63378" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63378" type="Folder">3</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) IV</unittitle>
+                            <container id="cid63377" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63377" type="Folder">4</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) V</unittitle>
+                            <container id="cid63376" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63376" type="Folder">5</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) VI</unittitle>
+                            <container id="cid63375" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63375" type="Folder">6</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) VII</unittitle>
+                            <container id="cid63374" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63374" type="Folder">7</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) VIII</unittitle>
+                            <container id="cid63373" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63373" type="Folder">8</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Dec 8, 1983) IX</unittitle>
+                            <container id="cid63372" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63372" type="Folder">9</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) I</unittitle>
+                            <container id="cid63371" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63371" type="Folder">10</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) II</unittitle>
+                            <container id="cid63370" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63370" type="Folder">11</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) III</unittitle>
+                            <container id="cid63369" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63369" type="Folder">12</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) IV</unittitle>
+                            <container id="cid63368" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63368" type="Folder">13</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) V</unittitle>
+                            <container id="cid63367" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63367" type="Folder">14</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) VI</unittitle>
+                            <container id="cid63366" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63366" type="Folder">15</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Dec 8, 1983) VII</unittitle>
+                            <container id="cid63365" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63365" type="Folder">16</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided May 13, 1986) I</unittitle>
+                            <container id="cid63364" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid63364" type="Folder">17</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided May 13, 1986)</unittitle>
+                            <container id="cid63363" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63363" type="Folder">1</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Nov 6, 1986)</unittitle>
+                            <container id="cid63362" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63362" type="Folder">2</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Oct 24, 1986) I</unittitle>
+                            <container id="cid63361" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63361" type="Folder">3</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Oct 24, 1986) II</unittitle>
+                            <container id="cid63360" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63360" type="Folder">4</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Oct 8, 1985) I</unittitle>
+                            <container id="cid63359" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63359" type="Folder">5</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Oct 8, 1985) II</unittitle>
+                            <container id="cid63358" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63358" type="Folder">6</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Oct 8, 1985) III</unittitle>
+                            <container id="cid63357" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63357" type="Folder">7</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided May 13, 1986) I</unittitle>
+                            <container id="cid63356" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63356" type="Folder">8</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided May 13, 1986) II</unittitle>
+                            <container id="cid63355" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63355" type="Folder">9</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Oct 8, 1985) I</unittitle>
+                            <container id="cid63354" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63354" type="Folder">10</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Oct 8, 1985) II</unittitle>
+                            <container id="cid63353" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63353" type="Folder">11</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Oct 8, 1985) III</unittitle>
+                            <container id="cid63352" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63352" type="Folder">12</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Oct 8, 1985) IV</unittitle>
+                            <container id="cid63351" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63351" type="Folder">13</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Testimony (decided Oct 8, 1985) V</unittitle>
+                            <container id="cid63350" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63350" type="Folder">14</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Feb 17, 1987)</unittitle>
+                            <container id="cid63349" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63349" type="Folder">15</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided May 13, 1986)</unittitle>
+                            <container id="cid63348" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63348" type="Folder">16</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Feb 17, 1987) I</unittitle>
+                            <container id="cid63347" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63347" type="Folder">17</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Feb 17, 1987) II</unittitle>
+                            <container id="cid63346" type="Box" label="Mixed materials">3</container>
+                            <container parent="cid63346" type="Folder">18</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Defendant's Papers (decided Feb 17, 1987)</unittitle>
+                            <container id="cid63345" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63345" type="Folder">1</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Order (decided Feb 17, 1987)</unittitle>
+                            <container id="cid63344" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63344" type="Folder">2</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Feb 17, 1987) I</unittitle>
+                            <container id="cid63343" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63343" type="Folder">3</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Feb 17, 1987) II</unittitle>
+                            <container id="cid63342" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63342" type="Folder">4</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Plaintiff's Papers (decided Feb 17, 1987) III</unittitle>
+                            <container id="cid63341" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63341" type="Folder">5</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref82" level="subseries">
+                    <did>
+                        <unittitle>Subseries II:B: Brenda Berkman et al. v. City of New York et al. (Case No. 79, C 1813), Class Action Suit, Subject Files</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                    </did>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Cannon, Katrina (I)</unittitle>
+                            <container id="cid63340" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63340" type="Folder">6</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Cannon, Katrina (II)</unittitle>
+                            <container id="cid63339" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63339" type="Folder">7</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Cannon, Katrina (III)</unittitle>
+                            <container id="cid63338" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63338" type="Folder">8</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63337" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63337" type="Folder">9</container>
+                            <unitdate normal="1982/1982">1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63336" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63336" type="Folder">10</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63335" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63335" type="Folder">11</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63334" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63334" type="Folder">12</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63333" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63333" type="Folder">13</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63332" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63332" type="Folder">14</container>
+                            <unitdate normal="1987/1987">1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63331" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63331" type="Folder">15</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Correspondence</unittitle>
+                            <container id="cid63330" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63330" type="Folder">16</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, McNair, Ella</unittitle>
+                            <container id="cid63329" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63329" type="Folder">17</container>
+                            <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Notes and Research</unittitle>
+                            <container id="cid63328" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63328" type="Folder">18</container>
+                            <unitdate normal="1979/1987" type="inclusive">[1979-1987]</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref96" level="subseries">
+                    <did>
+                        <unittitle>Subseries II:C: Brenda Berkman et al. v. City of New York et al. (Case no. 82-7654), Appeal</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                    </did>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Appeal</unittitle>
+                            <container id="cid63327" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63327" type="Folder">19</container>
+                            <unitdate normal="1982/1982">1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Berkman v. New York, Appeal, Exhibits: Transcriptions of Tapes</unittitle>
+                            <container id="cid63326" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63326" type="Folder">20</container>
+                            <unitdate normal="1982/1982">1982</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref99" level="subseries">
+                    <did>
+                        <unittitle>Subseries II:D: Brenda Berkman v. New York City Fire Department, Carlos Rivera, and Selig Ginsberg, (Case no. E-92-0575)</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                    </did>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Chronology</unittitle>
+                            <container id="cid63325" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63325" type="Folder">21</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Clippings</unittitle>
+                            <container id="cid63324" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63324" type="Folder">22</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Correspondence</unittitle>
+                            <container id="cid63323" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63323" type="Folder">23</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Correspondence</unittitle>
+                            <container id="cid63322" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63322" type="Folder">24</container>
+                            <unitdate>Jan 1992-Mar 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Correspondence</unittitle>
+                            <container id="cid63321" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63321" type="Folder">25</container>
+                            <unitdate>Apr 1992-Jun 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Correspondence</unittitle>
+                            <container id="cid63320" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63320" type="Folder">26</container>
+                            <unitdate>Jul 1992-Sep 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Correspondence</unittitle>
+                            <container id="cid63319" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63319" type="Folder">27</container>
+                            <unitdate>Oct 1992-Dec 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Correspondence</unittitle>
+                            <container id="cid63318" type="Box" label="Mixed materials">4</container>
+                            <container parent="cid63318" type="Folder">28</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Demonstration, Women's Action Coalition, City Hall</unittitle>
+                            <container id="cid63317" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63317" type="Folder">1</container>
+                            <unitdate>Sep 10, 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., FDNY Policies</unittitle>
+                            <container id="cid63316" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63316" type="Folder">2</container>
+                            <unitdate normal="1987/1991" type="inclusive">1987-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Legal Papers</unittitle>
+                            <container id="cid63315" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63315" type="Folder">3</container>
+                            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Medical</unittitle>
+                            <container id="cid63314" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63314" type="Folder">4</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Notes and Research</unittitle>
+                            <container id="cid63313" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63313" type="Folder">5</container>
+                            <unitdate normal="1992/1993" type="inclusive">1992-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Press Conference, City Council, City Hall</unittitle>
+                            <container id="cid63312" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63312" type="Folder">6</container>
+                            <unitdate>Apr 23, 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Press Conference, National Organization of Women (NOW)</unittitle>
+                            <container id="cid63311" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63311" type="Folder">7</container>
+                            <unitdate>May 29, 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Press Conference, City Council, City Hall</unittitle>
+                            <container id="cid63310" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63310" type="Folder">8</container>
+                            <unitdate>Jul 19, 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Berkman v. NYCFD, et al., Press Releases</unittitle>
+                            <container id="cid63309" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63309" type="Folder">9</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref117" level="series">
+                <did>
+                    <unittitle>Series III: Organizational Files</unittitle>
+                    <langmaterial>
+                        <language langcode="eng"/>
+                    </langmaterial>
+                </did>
+                <c02 id="ref118" level="subseries">
+                    <did>
+                        <unittitle>Subseries III:A: United Women Firefighters</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                    </did>
+                    <c03 id="ref119" level="file">
+                        <did>
+                            <unittitle>Center for Women in Government, Women in Uniformed Services</unittitle>
+                            <container id="cid63308" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63308" type="Folder">10</container>
+                            <unitdate normal="1983/1985" type="inclusive">1983-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63307" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63307" type="Folder">11</container>
+                            <unitdate normal="1977/1977">1977</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63306" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63306" type="Folder">12</container>
+                            <unitdate normal="1978/1978">1978</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63305" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63305" type="Folder">13</container>
+                            <unitdate normal="1979/1979">1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63304" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63304" type="Folder">14</container>
+                            <unitdate normal="1980/1980">1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63303" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63303" type="Folder">15</container>
+                            <unitdate normal="1981/1981">1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63302" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63302" type="Folder">16</container>
+                            <unitdate normal="1982/1982">1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63301" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63301" type="Folder">17</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63300" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63300" type="Folder">18</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63299" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63299" type="Folder">19</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63298" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63298" type="Folder">20</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63297" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63297" type="Folder">21</container>
+                            <unitdate normal="1987/1987">1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63296" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63296" type="Folder">22</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63295" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63295" type="Folder">23</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63294" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63294" type="Folder">24</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63293" type="Box" label="Mixed materials">5</container>
+                            <container parent="cid63293" type="Folder">25</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63292" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63292" type="Folder">1</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63291" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63291" type="Folder">2</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63290" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63290" type="Folder">3</container>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63289" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63289" type="Folder">4</container>
+                            <unitdate normal="1999/1999">1999</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63288" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63288" type="Folder">5</container>
+                            <unitdate normal="2000/2000">2000</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63287" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63287" type="Folder">6</container>
+                            <unitdate normal="2002/2002">2002</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="file">
+                        <did>
+                            <unittitle>Columbia University: Survey, "Women in the FDNY" and Report, "Gender Integration in the Fire Department of the City of New York"</unittitle>
+                            <container id="cid63286" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63286" type="Folder">7</container>
+                            <unitdate normal="1988/1989" type="inclusive">1988-1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>Conference, "Women Tell the Truth"</unittitle>
+                            <container id="cid63285" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63285" type="Folder">8</container>
+                            <unitdate>Apr 25, 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>Congress, Committee on Education and Labor Hearings</unittitle>
+                            <container id="cid63284" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63284" type="Folder">9</container>
+                            <unitdate>Mar 5, 1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Constitution and By-Laws</unittitle>
+                            <container id="cid63283" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63283" type="Folder">10</container>
+                            <unitdate normal="1977/2005" type="inclusive">undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63282" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63282" type="Folder">11</container>
+                            <unitdate normal="1982/1982">1982</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63281" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63281" type="Folder">12</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63280" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63280" type="Folder">13</container>
+                            <unitdate>Jan 1984-Jun 1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63279" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63279" type="Folder">14</container>
+                            <unitdate>Jul 1984-Dec 1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63278" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63278" type="Folder">15</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63277" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63277" type="Folder">16</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63276" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63276" type="Folder">17</container>
+                            <unitdate>Jan 1987-Jun 1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63275" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63275" type="Folder">18</container>
+                            <unitdate>Jul 1987-Dec 1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63274" type="Box" label="Mixed materials">6</container>
+                            <container parent="cid63274" type="Folder">19</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63273" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63273" type="Folder">1</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63272" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63272" type="Folder">2</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63271" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63271" type="Folder">3</container>
+                            <unitdate>Jan 1991-Jun 1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63270" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63270" type="Folder">4</container>
+                            <unitdate>Jul 1991-Dec 1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63269" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63269" type="Folder">5</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63268" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63268" type="Folder">6</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63267" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63267" type="Folder">7</container>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63266" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63266" type="Folder">8</container>
+                            <unitdate normal="1995/1995">1995</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63265" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63265" type="Folder">9</container>
+                            <unitdate normal="1996/1996">1996</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63264" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63264" type="Folder">10</container>
+                            <unitdate normal="1997/1997">1997</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63263" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63263" type="Folder">11</container>
+                            <unitdate normal="1998/1998">1998</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63262" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63262" type="Folder">12</container>
+                            <unitdate normal="1999/1999">1999</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63261" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63261" type="Folder">13</container>
+                            <unitdate normal="2000/2000">2000</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63260" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63260" type="Folder">14</container>
+                            <unitdate normal="2001/2001">2001</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63259" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63259" type="Folder">15</container>
+                            <unitdate normal="2002/2002">2002</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>Council of the City of New York, Committee on Women</unittitle>
+                            <container id="cid63258" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63258" type="Folder">16</container>
+                            <unitdate normal="1986/1993" type="inclusive">1986-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>FDNY, Physical Exam, Landy-Jacobs Contract</unittitle>
+                            <container id="cid63257" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63257" type="Folder">17</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>FDNY, Physical Exam, Research</unittitle>
+                            <container id="cid63256" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63256" type="Folder">18</container>
+                            <unitdate normal="1983/1984" type="inclusive">1983-1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>FDNY, Recruitment and Training Program</unittitle>
+                            <container id="cid63255" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63255" type="Folder">19</container>
+                            <unitdate normal="1994/2000" type="inclusive">1994-2000</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>FDNY, Recruitment and Training Program, Exam Prep Materials</unittitle>
+                            <container id="cid63254" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63254" type="Folder">20</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>FDNY, Sexual Harrassment, Training and Regulations</unittitle>
+                            <container id="cid63253" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63253" type="Folder">21</container>
+                            <unitdate normal="1984/1984">1984</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>FDNY, Sexual Harrassment, Training and Regulations</unittitle>
+                            <container id="cid63252" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63252" type="Folder">22</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>FDNY, Sexual Harrassment, Training and Regulations</unittitle>
+                            <container id="cid63251" type="Box" label="Mixed materials">7</container>
+                            <container parent="cid63251" type="Folder">23</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>FDNY, Special Advisory Committee on Women</unittitle>
+                            <container id="cid63250" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63250" type="Folder">1</container>
+                            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>FDNY, Special Advisory Committee on Women</unittitle>
+                            <container id="cid63249" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63249" type="Folder">2</container>
+                            <unitdate normal="1993/1999" type="inclusive">1993-1999</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="file">
+                        <did>
+                            <unittitle>History</unittitle>
+                            <container id="cid63248" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63248" type="Folder">3</container>
+                            <unitdate normal="1989/1993" type="inclusive">1989-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Membership</unittitle>
+                            <container id="cid63247" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63247" type="Folder">4</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Newsletter, photocopy of handwritten original, signed Patricia Fitzgerald</unittitle>
+                            <container id="cid63246" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63246" type="Folder">5</container>
+                            <unitdate normal="1983/1983">[1983]</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>New York Fire Museum, Exhibit, "Fireworks: a Celebration of FDNY Civilian and Uniformed Women, 1865-1991," May 22-Sep 25, 1993</unittitle>
+                            <container id="cid63245" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63245" type="Folder">6</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>Organizations: Police and Fire Departments</unittitle>
+                            <container id="cid63244" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63244" type="Folder">7</container>
+                            <unitdate normal="1982/1985" type="inclusive">1982-1985</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref184" level="subseries">
+                    <did>
+                        <unittitle>Subseries III:B: Women in Fire Suppression/Fire Service</unittitle>
+                        <langmaterial>
+                            <language langcode="eng"/>
+                        </langmaterial>
+                    </did>
+                    <c03 id="ref185" level="file">
+                        <did>
+                            <unittitle>Articles of Incorporation</unittitle>
+                            <container id="cid63243" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63243" type="Folder">8</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>By-Laws</unittitle>
+                            <container id="cid63242" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63242" type="Folder">9</container>
+                            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>Clippings</unittitle>
+                            <container id="cid63241" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63241" type="Folder">10</container>
+                            <unitdate normal="1986/1999" type="inclusive">1986-1999</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>Committees</unittitle>
+                            <container id="cid63240" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63240" type="Folder">11</container>
+                            <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="file">
+                        <did>
+                            <unittitle>Conferences, Regional, Madison WI</unittitle>
+                            <container id="cid63239" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63239" type="Folder">12</container>
+                            <unitdate normal="1986/1986">1986</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>Conferences, First National, Boulder, CO</unittitle>
+                            <container id="cid63238" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63238" type="Folder">13</container>
+                            <unitdate normal="1985/1985">1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>Conferences, Second National, Seattle, WA</unittitle>
+                            <container id="cid63237" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63237" type="Folder">14</container>
+                            <unitdate normal="1987/1987">1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="file">
+                        <did>
+                            <unittitle>Conferences, Third National, Asheville, NC</unittitle>
+                            <container id="cid63236" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63236" type="Folder">15</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="file">
+                        <did>
+                            <unittitle>Conferences, Fourth National, San Diego, CA</unittitle>
+                            <container id="cid63235" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63235" type="Folder">16</container>
+                            <unitdate normal="1991/1991">1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="file">
+                        <did>
+                            <unittitle>Conferences, Fifth National, Rockford, IL</unittitle>
+                            <container id="cid63234" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63234" type="Folder">17</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="file">
+                        <did>
+                            <unittitle>Conferences, Other Organizations</unittitle>
+                            <container id="cid63233" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63233" type="Folder">18</container>
+                            <unitdate normal="1988/1991" type="inclusive">1988-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63232" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63232" type="Folder">19</container>
+                            <unitdate normal="1983/1983">1983</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63231" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63231" type="Folder">20</container>
+                            <unitdate normal="1987/1987">1987</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63230" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63230" type="Folder">21</container>
+                            <unitdate normal="1988/1988">1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63229" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63229" type="Folder">22</container>
+                            <unitdate normal="1989/1989">1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63228" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63228" type="Folder">23</container>
+                            <unitdate normal="1990/1990">1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63227" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63227" type="Folder">24</container>
+                            <unitdate>Jan 1991-Jun 1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63226" type="Box" label="Mixed materials">8</container>
+                            <container parent="cid63226" type="Folder">25</container>
+                            <unitdate>Jul 1991-Dec 1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63225" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63225" type="Folder">1</container>
+                            <unitdate>Jan 1992-Jun 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63224" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63224" type="Folder">2</container>
+                            <unitdate>Jul 1992-Dec 1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63223" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63223" type="Folder">3</container>
+                            <unitdate>Jan 1993-Jun 1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63222" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63222" type="Folder">4</container>
+                            <unitdate>Jul 1993-Dec 1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63221" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63221" type="Folder">5</container>
+                            <unitdate normal="1994/1994">1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63220" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63220" type="Folder">6</container>
+                            <unitdate normal="1995/1995">1995</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63219" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63219" type="Folder">7</container>
+                            <unitdate normal="1996/1996">1996</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63218" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63218" type="Folder">8</container>
+                            <unitdate normal="1998/1998">1998</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="file">
+                        <did>
+                            <unittitle>Correspondence</unittitle>
+                            <container id="cid63217" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63217" type="Folder">9</container>
+                            <unitdate normal="1999/1999">1999</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="file">
+                        <did>
+                            <unittitle>Financial</unittitle>
+                            <container id="cid63216" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63216" type="Folder">10</container>
+                            <unitdate normal="1989/1994" type="inclusive">1989-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="file">
+                        <did>
+                            <unittitle>History</unittitle>
+                            <container id="cid63215" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63215" type="Folder">11</container>
+                            <unitdate normal="1980/1991" type="inclusive">1980-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="file">
+                        <did>
+                            <unittitle>Membership</unittitle>
+                            <container id="cid63214" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63214" type="Folder">12</container>
+                            <unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="file">
+                        <did>
+                            <unittitle>Minutes, Trustees Meetings</unittitle>
+                            <container id="cid63213" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63213" type="Folder">13</container>
+                            <unitdate normal="1989/1995" type="inclusive">1989-1995</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="file">
+                        <did>
+                            <unittitle>Oral History Project: Interviews with Brenda Berkman (2) and Terese Floren</unittitle>
+                            <container id="cid63212" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63212" type="Folder">14</container>
+                            <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="file">
+                        <did>
+                            <unittitle>Policies</unittitle>
+                            <container id="cid63211" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63211" type="Folder">15</container>
+                            <unitdate normal="1984/1991" type="inclusive">1984-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="file">
+                        <did>
+                            <unittitle>Publications, Handbook on Women in Fire Fighting</unittitle>
+                            <container id="cid63210" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63210" type="Folder">16</container>
+                            <unitdate normal="1992/1992">1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="file">
+                        <did>
+                            <unittitle>Survey of Women Firefighters</unittitle>
+                            <container id="cid63209" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63209" type="Folder">17</container>
+                            <unitdate normal="1977/2005" type="inclusive">undated</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="file">
+                        <did>
+                            <unittitle>Trustees</unittitle>
+                            <container id="cid63208" type="Box" label="Mixed materials">9</container>
+                            <container parent="cid63208" type="Folder">18</container>
+                            <unitdate normal="1983/1995" type="inclusive">1983-1995</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref223" level="series">
+                <did>
+                    <unittitle>Series IV: Unprocessed Materials</unittitle>
+                </did>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>September 11, 2001 attacks, FDNY recruitment, and the closing of Engine 204</unittitle>
+                        <container id="cid21093001" type="Box" label="Mixed materials">10</container>
+                        <unitdate normal="1998/2003" type="inclusive">circa 1998-2003</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="file">
+                    <did>
+                        <unittitle>Brenda Berkman's Promotion to Lieutenant, 1996-1997 White House Fellow, and the Candidate Physical Abilities Test (CPAT)</unittitle>
+                        <container id="cid21093002" type="Box" label="Mixed materials">11</container>
+                        <unitdate normal="1957/2003" type="inclusive">circa 1957-2003</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

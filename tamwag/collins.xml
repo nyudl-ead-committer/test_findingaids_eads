@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">collins</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Papers of Eleanore Collins
+                    <num>WAG 089</num>
+                </titleproper>
+                <author>Finding aid prepared by Cara Brick</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from collins.xml</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Finding Aid</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-01-24T16:44-0500</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Eleanore Collins Papers</unittitle>
+            <unitid>WAG 089</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.5 linear feet</extent>
+                <extent>(3 boxes)</extent>
+            </physdesc>
+            <unitdate>1951-1992</unitdate>
+            <abstract id="ref3" label="Abstract">Eleanore Collins had a passionate concern for labor education, women's rights, and white-collar organizing. Born in New York City, she graduated from Mount St. Vincent College and earned a Master's in industrial labor relations from Pace University. As a clerk with the American Telephone and Telegraph Co., she joined the Communications Workers of America, Local 1150 and by the early 1950s she became a steward. In the Union, she was active in organizing, upgrading clerical titles, boosting the status and pay for a female workers, and was elected to the Local's Executive Board. She remained active in telecommunications labor activities as a union board member, convention delegate, education director and finally president of the CWA, Local 1153, 1981-1984. She died in 1994. The collection includes correspondence, election materials, minutes, arbitration awards, clippings and reports reflecting both Collins' duties as a CWA Local officer and her personal political and community interests. 
+                <emph render="bold">NOTE: This collection is stored offsite, and advance notice is required for use.</emph></abstract>
+            <origination label="creator">
+                <persname source="ingest">Collins, Eleanore.</persname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>Eleanore Collins donated one linear foot of her papers to the Robert F. Wagner Labor Archives in 1993. After her death in 1994, several additional boxes of material were donated by Mr. and Mrs. James Kennedy (Eleanore Collins's niece and her husband).</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions. 
+                <emph render="bold">NOTE: This collection is stored offsite, and advance notice is required for use.</emph></p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>Eleanore Collins was born in the Bronx and raised in Elmsford, NY. She graduated from Mount St. Vincent College and later earned a Master's degree in industrial labor relations from Pace University. After working briefly for Reader's Digest and then as a social worker, she took a job as a clerk for the American Telephone and Telegraph Co. in Manhattan on the eve of World War II. In the early 1950s she joined the Communications Workers of America, Local 1150. In 1954 her clerical job was transferred to White Plains, NY. There she became a steward and was active in organizing and upgrading clerical titles. Thanks in large part to her efforts the new title of Engineering Associate, representing a substantial boost in status and pay for a female-dominated classification, was created within ATT.</p>
+            <p>She was elected to the Local's Executive Board and soon became known for her passionate concern with labor education, women's rights, and white-collar organizing. On two occasions, during a bitterly contested Local election in 1958-1959 and during the equally rancorous telephone strike of 1971, she came into conflict with members of her own and other CWA locals. Both disputes resulted in disciplinary proceedings; in each case, penalties against her were later set aside.</p>
+            <p>In 1975 she joined with a group of White Plains members who broke away to form a new CWA local, Local 1153. She went on to serve that Local as a Board member, convention delegate, education director and finally president, 1981-1984. She died in St. Louis, MO in June 1994.</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The collection, arranged in one series alphabetically by subject or organization name, includes correspondence, election materials, minutes, arbitration awards, clippings and reports reflecting both Collins' duties as a CWA Local officer and her personal political and community interests. Ranging from the political to the personal, these papers offer an alternative insight into union activities; an insight which is not offered in the official documentation of the Communications Workers of America.</p>
+            <p>As Collins' career with ATT progressed, her union activities with CWA Local 1150, and later Local 1153, document important work-related issues as well as broader issues of social policy. In her role as steward, Collins served as a counselor and mediator in cases of gender and racial discrimination, as well as sexual harassment. Within this collection, the cases of co-workers for whom Collins served as a steward highlight these issues. In addition, the papers record in detail shifts in the nature of the female work-force in the telephone industry that experienced a post-War "boom" built on technological advances and structural changes associated with World War II.</p>
+            <p>A significant amount of material found in this collection deals with the impact of ATT's divestiture during the mid-1980s. Documents concerning divestiture represent the efforts and positions of the CWA at the international as well as the local level. Several files offer statistical analysis on the impact of divestiture in terms of job loss and other issues of concern to the union.</p>
+            <p>A major aspect of Collins' work was her involvement with labor education. Teaching at local community colleges as well as in union-sponsored seminars, Collins created an extensive record of teaching expertise. Course descriptions, syllabi, lecture notes, stewards' training materials and lesson plans are included in this collection.</p>
+            <p>In addition to her educational activities, Collins was an active participant in many of the Local's elections. Information concerning Collins' campaigns as well as those of her opponents is well represented in the collection. Types of election election materials included are: handbills, flyers, biographies of the candidates, opposing literature, petitions, vote tallies and special election editions of newsletters. The bulk of this material dates from the years 1978-1988.</p>
+            <p>Controversy over disputed election results in CWA Local 1150's 1958-1959 election occasioned a disciplinary hearing against Eleanore Collins in 1960. Included in the documentation of the debate is the trial transcript. Background material detailing the charges brought against Collins and the disputed electoral results constitute one folder. The 1971 national strike by CWA against ATT led to further controversy and disciplinary hearings for Collins. In 1971, Collins supported a move by fellow co-workers to return to work at a time when the validity of the picket lines was in question. Other Local members accused Collins of defying union directives, and once again charges were brought against her. During the ensuing trial, the debate over local versus national authority with regard to the picket lines intensified. Collins' handwritten notes during the trial as well as the other materials used for her defense highlight the controversy. The charges against Collins were later dismissed. In an undated file marked "Writings" are typescript essays written by Collins on subjects such as women's employment in the White Plains unit of ATT, job losses in White Plains, and the telephone strike of 1971 in the New York area.</p>
+            <p>In the later years of her career, Collins' concern with union activities and efforts to aid in worker security inclined toward securing pensions and health benefits for employees and retirees. This concern extended to all those in need of health care, with an emphasis on senior citizens. Her interest in these areas is reflected in her involvement with the Bronx Community Board 12's Health and Hospital Committee and the Westchester Health Action Committee. Another significant committee on which Collins served was the White House Conference on Balanced National Growth and Economic Development in 1978.</p>
+            <p>
+                <emph render="bold">NOTE: This collection is stored offsite, and advance notice is required for use.</emph></p>
+            <p></p>
+            <p></p>
+            <p></p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The files are grouped into 1 series</p>
+            <p>Folders are arranged alphabetically.</p>
+        </arrangement>
+        <relatedmaterial id="ref123">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+            <p>
+                <list>
+                    <item>Records of CWA Local 1150;</item>
+                    <item>Records of CWA Local 1153;</item>
+                    <item>
+                        <title render="italic">CWA News</title>and newsletters of CWA Locals 1150 and 1153;</item>
+                    <item>a two-part oral history interview with Eleanore Collins conducted in 1991.</item>
+                </list></p>
+        </relatedmaterial>
+        <separatedmaterial id="ref124">
+            <head>Separated Material</head>
+            <p>Some photographs accompanied the Eleanore Collins papers and have been transferred to the Wagner Labor Archives Non-Print Collection. There are also numerous examples of photographic images within the collection itself in the form of press clippings and election materials.</p>
+            <p>
+                <emph render="bold">Sample of the separated photographs</emph></p>
+            <p>Newman Club Alumni Association, 1954 
+                <extref ns2:href="http://www.nyu.edu/library/bobst/collections/findingaids/tamwag/html/images/collins2.jpg">
+                    <archref>Digital photograph available</archref> </extref></p>
+            <p>Eleanore Collins and Mario Cuomo, 1990 or 1991 
+                <extref ns2:href="http://www.nyu.edu/library/bobst/collections/findingaids/tamwag/html/images/collins1.jpg">
+                    <archref>Digital photograph available</archref> </extref></p>
+        </separatedmaterial>
+        <userestrict id="ref125">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref126">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname source="local">Communications Workers of America. Local 1153.</corpname>
+            <corpname source="naf">Reader's Digest Association.</corpname>
+            <subject source="lcsh">American Telephone and Telegraph Company.</subject>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <subject source="lcsh">Collective bargaining--New York (State)</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <subject source="lcsh">Labor leaders--New York (State)</subject>
+            <subject source="lcsh">Labor unions--Telecommunication--New York (State)--New York.</subject>
+            <genreform source="aat">Minutes.</genreform>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+            <genreform source="aat">Reports.</genreform>
+            <subject source="lcsh">Social workers |z New York (State) |z New York.</subject>
+            <subject source="lcsh">Strikes and lockouts--Telephone companies--New York (State)</subject>
+            <genreform source="aat">Typescripts.</genreform>
+            <subject source="lcsh">Women labor leaders |z New York (State)</subject>
+            <subject source="lcsh">Women's rights |z United States</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series I</unittitle>
+                </did>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Address Lists</unittitle>
+                        <container id="cid41728" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41728" type="Folder">1</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="file">
+                    <did>
+                        <unittitle>Adult Education</unittitle>
+                        <container id="cid41727" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41727" type="Folder">2</container>
+                        <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>ATT Benefits</unittitle>
+                        <container id="cid41726" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41726" type="Folder">3</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="file">
+                    <did>
+                        <unittitle>ATTCOM Bargaining</unittitle>
+                        <container id="cid41725" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41725" type="Folder">4</container>
+                        <unitdate normal="1985/1989" type="inclusive">1985-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="file">
+                    <did>
+                        <unittitle>ATT Job Briefs</unittitle>
+                        <container id="cid41724" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41724" type="Folder">5</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>ATT Job Descriptions</unittitle>
+                        <container id="cid41723" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41723" type="Folder">6</container>
+                        <unitdate normal="1986/1989" type="inclusive">1986-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>ATT Managed Health Care</unittitle>
+                        <container id="cid41722" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41722" type="Folder">7</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>ATT Retirees Benefits</unittitle>
+                        <container id="cid41721" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41721" type="Folder">8</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>ATT Telephone Concession Service</unittitle>
+                        <container id="cid41720" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41720" type="Folder">9</container>
+                        <unitdate normal="1983/1986" type="inclusive">1983-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Bell System: Training Material</unittitle>
+                        <container id="cid41719" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41719" type="Folder">10</container>
+                        <unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>CWA Arbitration</unittitle>
+                        <container id="cid41718" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41718" type="Folder">11</container>
+                        <unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>CWA Arbitration</unittitle>
+                        <container id="cid41717" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41717" type="Folder">12</container>
+                        <unitdate normal="1972/1972">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>CWA Arbitration</unittitle>
+                        <container id="cid41716" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41716" type="Folder">13</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>CWA Bargaining</unittitle>
+                        <container id="cid41715" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41715" type="Folder">14</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>CWA Bargaining</unittitle>
+                        <container id="cid41714" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41714" type="Folder">15</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>CWA: Long Lines Bargaining Unit</unittitle>
+                        <container id="cid41713" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41713" type="Folder">16</container>
+                        <unitdate normal="1970/1970">1962-1964 1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>CWA Military Leave of Absence</unittitle>
+                        <container id="cid41712" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41712" type="Folder">17</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>CWA Racial Discrimination Case</unittitle>
+                        <container id="cid41711" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41711" type="Folder">18</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>CWA Sales Specialist: Job Classification</unittitle>
+                        <container id="cid41710" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41710" type="Folder">19</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>CWA Sales Specialist: Job Classification</unittitle>
+                        <container id="cid41709" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41709" type="Folder">20</container>
+                        <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>CWA Sexual Discrimination Case</unittitle>
+                        <container id="cid41708" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41708" type="Folder">21</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>CWA 1971 Strike</unittitle>
+                        <container id="cid41707" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41707" type="Folder">22</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Arbitration</unittitle>
+                        <container id="cid41706" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41706" type="Folder">23</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Arbitration</unittitle>
+                        <container id="cid41705" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41705" type="Folder">24</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Clerical Salary Treatment: Affirmative Action</unittitle>
+                        <container id="cid41704" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41704" type="Folder">25</container>
+                        <unitdate normal="1972/1972">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Correspondence</unittitle>
+                        <container id="cid41703" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41703" type="Folder">26</container>
+                        <unitdate normal="1953/1970" type="inclusive">1953-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Election</unittitle>
+                        <container id="cid41702" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41702" type="Folder">27</container>
+                        <unitdate normal="1958/1961" type="inclusive">1958-1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Election</unittitle>
+                        <container id="cid41701" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41701" type="Folder">28</container>
+                        <unitdate normal="1952/1962" type="inclusive">[1962]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Election</unittitle>
+                        <container id="cid41700" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41700" type="Folder">29</container>
+                        <unitdate normal="1972/1972">1972</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Election</unittitle>
+                        <container id="cid41699" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41699" type="Folder">30</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Engineering Associates: History of Title</unittitle>
+                        <container id="cid41698" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41698" type="Folder">31</container>
+                        <unitdate normal="1952/1952">1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Engineering Associates: Job Description</unittitle>
+                        <container id="cid41697" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41697" type="Folder">32</container>
+                        <unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Engineering Associates: Job Description</unittitle>
+                        <container id="cid41696" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41696" type="Folder">33</container>
+                        <unitdate normal="1965/1973" type="inclusive">1965-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Engineering Associates: Job Titles and Bargaining Unit</unittitle>
+                        <container id="cid41695" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41695" type="Folder">34</container>
+                        <unitdate normal="1962/1965" type="inclusive">1962-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Grievances</unittitle>
+                        <container id="cid41694" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41694" type="Folder">35</container>
+                        <unitdate normal="1958/1977" type="inclusive">1958-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Job Upgrades</unittitle>
+                        <container id="cid41693" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41693" type="Folder">36</container>
+                        <unitdate normal="1944/1966" type="inclusive">1944 1952 1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Leaflets</unittitle>
+                        <container id="cid41692" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41692" type="Folder">37</container>
+                        <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Proposed By-Laws</unittitle>
+                        <container id="cid41691" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41691" type="Folder">38</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Trial Boards</unittitle>
+                        <container id="cid41690" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41690" type="Folder">39</container>
+                        <unitdate normal="1971/1971">1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Trial Transcript 1st Session</unittitle>
+                        <container id="cid41689" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41689" type="Folder">40</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Trial Transcript 2nd Session</unittitle>
+                        <container id="cid41688" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41688" type="Folder">41</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>CWA Local 1150 Trial Background material</unittitle>
+                        <container id="cid41687" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid41687" type="Folder">42</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Arbitration</unittitle>
+                        <container id="cid41686" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41686" type="Folder">1</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Bargaining</unittitle>
+                        <container id="cid41685" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41685" type="Folder">2</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Correspondence</unittitle>
+                        <container id="cid41684" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41684" type="Folder">3</container>
+                        <unitdate>1979-1981 1985-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Election</unittitle>
+                        <container id="cid41683" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41683" type="Folder">4</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Election</unittitle>
+                        <container id="cid41682" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41682" type="Folder">5</container>
+                        <unitdate normal="1981/1981">1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Election</unittitle>
+                        <container id="cid41681" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41681" type="Folder">6</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Election</unittitle>
+                        <container id="cid41680" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41680" type="Folder">7</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Election</unittitle>
+                        <container id="cid41679" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41679" type="Folder">8</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Election</unittitle>
+                        <container id="cid41678" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41678" type="Folder">9</container>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Finances</unittitle>
+                        <container id="cid41677" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41677" type="Folder">10</container>
+                        <unitdate normal="1980/1981" type="inclusive">1980-1981</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Financial and Advisory Ethics Committee</unittitle>
+                        <container id="cid41676" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41676" type="Folder">11</container>
+                        <unitdate normal="1976/1980" type="inclusive">1976-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 General</unittitle>
+                        <container id="cid41675" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41675" type="Folder">12</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Grievances</unittitle>
+                        <container id="cid41674" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41674" type="Folder">13</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41673" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41673" type="Folder">14</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41672" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41672" type="Folder">15</container>
+                        <unitdate normal="1979/1979">1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41671" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41671" type="Folder">16</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41670" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41670" type="Folder">17</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41669" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41669" type="Folder">18</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41668" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41668" type="Folder">19</container>
+                        <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41667" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41667" type="Folder">20</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Job Losses</unittitle>
+                        <container id="cid41666" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41666" type="Folder">21</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Legislative: Human Rights</unittitle>
+                        <container id="cid41665" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41665" type="Folder">22</container>
+                        <unitdate normal="1978/1978">1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Pensions</unittitle>
+                        <container id="cid41664" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41664" type="Folder">23</container>
+                        <unitdate normal="1981/1985" type="inclusive">1981-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Picnic (Police Dispute)</unittitle>
+                        <container id="cid41663" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41663" type="Folder">24</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>CWA Local 1153 Workers Compensation Seminar</unittitle>
+                        <container id="cid41662" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41662" type="Folder">25</container>
+                        <unitdate normal="1987/1987">1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="file">
+                    <did>
+                        <unittitle>Counseling</unittitle>
+                        <container id="cid41661" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41661" type="Folder">26</container>
+                        <unitdate normal="1985/1987" type="inclusive">1985-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="file">
+                    <did>
+                        <unittitle>Engineering Associates</unittitle>
+                        <container id="cid41660" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41660" type="Folder">27</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="file">
+                    <did>
+                        <unittitle>Engineering Associates</unittitle>
+                        <container id="cid41659" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41659" type="Folder">28</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="file">
+                    <did>
+                        <unittitle>Escorts Arbitration Award</unittitle>
+                        <container id="cid41658" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41658" type="Folder">29</container>
+                        <unitdate normal="1967/1985" type="inclusive">1967-1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="file">
+                    <did>
+                        <unittitle>Engineering Associates: Downsizing</unittitle>
+                        <container id="cid41657" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41657" type="Folder">30</container>
+                        <unitdate normal="1984/1988" type="inclusive">1984 1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Folk Art</unittitle>
+                        <container id="cid41656" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41656" type="Folder">31</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="file">
+                    <did>
+                        <unittitle>
+                            <title render="italic">The Future of Labor and Employment Law</title>
+                            <persname>Paul Weiler</persname></unittitle>
+                        <container id="cid41655" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41655" type="Folder">32</container>
+                        <unitdate normal="1978/1998" type="inclusive">[1988]</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Grievances 
+                            <persname>Collins, Eleanore</persname></unittitle>
+                        <container id="cid41654" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41654" type="Folder">33</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Grievance 
+                            <persname>Foster, Betty</persname></unittitle>
+                        <container id="cid41653" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41653" type="Folder">34</container>
+                        <unitdate normal="1989/1992" type="inclusive">1989-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Health and Hospitals Committee-Bronx Community Board 12</unittitle>
+                        <container id="cid41652" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41652" type="Folder">35</container>
+                        <unitdate normal="1991/1991">1986-1987 1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="file">
+                    <did>
+                        <unittitle>Health and Hospital Committee Report</unittitle>
+                        <container id="cid41651" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41651" type="Folder">36</container>
+                        <unitdate normal="1991/1991">1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Health Coalition Action Group</unittitle>
+                        <container id="cid41650" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41650" type="Folder">37</container>
+                        <unitdate normal="1989/1989">1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="file">
+                    <did>
+                        <unittitle>International Workers of Long Lines</unittitle>
+                        <container id="cid41649" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41649" type="Folder">38</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="file">
+                    <did>
+                        <unittitle>"Justice" Button-National Labor Relations Board</unittitle>
+                        <container id="cid41648" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41648" type="Folder">39</container>
+                        <unitdate normal="1986/1986">1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="file">
+                    <did>
+                        <unittitle>Labor Education General</unittitle>
+                        <container id="cid41647" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41647" type="Folder">40</container>
+                        <unitdate normal="1971/1975" type="inclusive">1971-1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Labor Education Lecture Notes</unittitle>
+                        <container id="cid41646" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41646" type="Folder">41</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="file">
+                    <did>
+                        <unittitle>Legislative General</unittitle>
+                        <container id="cid41645" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41645" type="Folder">42</container>
+                        <unitdate normal="1992/1992">1975-1976 1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="file">
+                    <did>
+                        <unittitle>
+                            <persname>Mayer, Henry</persname>(CWA Dissidents)</unittitle>
+                        <container id="cid41644" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41644" type="Folder">43</container>
+                        <unitdate normal="1958/1958">1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="file">
+                    <did>
+                        <unittitle>Merit Grievances</unittitle>
+                        <container id="cid41643" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41643" type="Folder">44</container>
+                        <unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Merit System Study</unittitle>
+                        <container id="cid41642" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41642" type="Folder">45</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="file">
+                    <did>
+                        <unittitle>Mobilization</unittitle>
+                        <container id="cid41641" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41641" type="Folder">46</container>
+                        <unitdate normal="1988/1988">1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="file">
+                    <did>
+                        <unittitle>
+                            <persname>Myerscough, George T.</persname></unittitle>
+                        <container id="cid41640" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41640" type="Folder">47</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="file">
+                    <did>
+                        <unittitle>Newman Club</unittitle>
+                        <container id="cid41639" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41639" type="Folder">48</container>
+                        <unitdate normal="1957/1957">1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>New York State Democratic Committee Women's Division</unittitle>
+                        <container id="cid41638" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41638" type="Folder">49</container>
+                        <unitdate normal="1985/1990" type="inclusive">1985-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="file">
+                    <did>
+                        <unittitle>New York Downstate CWA Council</unittitle>
+                        <container id="cid41637" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41637" type="Folder">50</container>
+                        <unitdate normal="1965/1965">1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Personal 
+                            <persname>Collins, Eleanore</persname></unittitle>
+                        <container id="cid41636" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41636" type="Folder">51</container>
+                        <unitdate>undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Pioneers</unittitle>
+                        <container id="cid41635" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41635" type="Folder">52</container>
+                        <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Press Clippings</unittitle>
+                        <container id="cid41634" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41634" type="Folder">53</container>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Quality of Work Life</unittitle>
+                        <container id="cid41633" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41633" type="Folder">54</container>
+                        <unitdate normal="1982/1986" type="inclusive">1982-1986</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Senior Contract Specialist: Job Description</unittitle>
+                        <container id="cid41632" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41632" type="Folder">55</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Sexual Discrimination</unittitle>
+                        <container id="cid41631" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41631" type="Folder">56</container>
+                        <unitdate normal="1983/1983">1983</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="file">
+                    <did>
+                        <unittitle>Sexual Harassment</unittitle>
+                        <container id="cid41630" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41630" type="Folder">57</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Speeches</unittitle>
+                        <container id="cid41629" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41629" type="Folder">58</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Steward Training Class</unittitle>
+                        <container id="cid41628" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid41628" type="Folder">59</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Unfair Dismissal Case: 
+                            <persname>Wansi, Emmanuel</persname></unittitle>
+                        <container id="cid41627" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41627" type="Folder">1</container>
+                        <unitdate normal="1991/1993" type="inclusive">1991-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Steward Training Class</unittitle>
+                        <container id="cid41626" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41626" type="Folder">2</container>
+                        <unitdate normal="1984/1988" type="inclusive">1984 1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Steward Training Class Manual</unittitle>
+                        <container id="cid41625" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41625" type="Folder">3</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>United Way</unittitle>
+                        <container id="cid41624" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41624" type="Folder">4</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="file">
+                    <did>
+                        <unittitle>Westchester Health Action Committee</unittitle>
+                        <container id="cid41623" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41623" type="Folder">5</container>
+                        <unitdate normal="1992/1992">1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>White House Conference on Balanced National Growth and Economic Development</unittitle>
+                        <container id="cid41622" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41622" type="Folder">6</container>
+                        <unitdate normal="1977/1978" type="inclusive">1977-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>White Plains, 440 Hamilton Avenue</unittitle>
+                        <container id="cid41621" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41621" type="Folder">7</container>
+                        <unitdate normal="1985/1985">1985</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>White Plains Organizing Committee</unittitle>
+                        <container id="cid41620" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41620" type="Folder">8</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref121" level="file">
+                    <did>
+                        <unittitle>Women in Unions</unittitle>
+                        <container id="cid41619" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41619" type="Folder">9</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="file">
+                    <did>
+                        <unittitle>Writings</unittitle>
+                        <container id="cid41618" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid41618" type="Folder">10</container>
+                        <unitdate normal="1951/1992" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

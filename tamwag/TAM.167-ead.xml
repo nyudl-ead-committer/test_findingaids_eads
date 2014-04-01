@@ -1,0 +1,1501 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_167</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Annette T. Rubinstein Papers
+                    <num>TAM.167</num>
+                </titleproper>
+                <author>Finding aid prepared by Robert Battaly, December 2001</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from Rubenstein Guide.wpd</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T18:42-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Annette T. Rubinstein Papers</unittitle>
+            <unitid>TAM.167</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 linear feet</extent>
+                <extent>(5 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1946/1975" type="bulk">Bulk, 1946-1975</unitdate>
+            <unitdate normal="1937/1994" type="inclusive">1937-1994, (Bulk 1946-1975)</unitdate>
+            <abstract id="ref3" label="Abstract">Annette T. (Teta) Rubinstein was a Marxist educator, editor, writer, literary critic and political activist born in New York in 1910. Among her numerous endeavors, she briefly taught philosophy at New York University, was Vice-Chairman for New York in the American Labor Party, was a teacher, owner and principal of the Robert Lewis Stevenson School, served as the Executive Secretary of the Committee for the Care of Young Children in Wartime, and was professor of English and American Literature at the Beijing Foreign Studies University. The collection includes biographical materials, correspondence and documentation of her educational and political activities.</abstract>
+            <origination label="creator">
+                <persname source="naf">Rubinstein, Annette T. (Annette Teta), 1910-2007.</persname>
+            </origination>
+        </did>
+        <custodhist id="ref4">
+            <head>Provenance</head>
+            <p>Gift of Annette T. Rubinstein, 1994.</p>
+        </custodhist>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <bioghist id="ref8">
+            <head>Historical/Biographical Note</head>
+            <p>Annette T. (Teta) Rubinstein, Marxist educator, editor, writer, literary critic and political activist, was born to socialist parents in New York on April 12, 1910 in an apartment on the top floor of the Manhattan School, a private school founded by her father to educate underprivileged immigrants. She taught philosophy at New York University while she completed her graduate studies in philosophy at Columbia with her 1934 dissertation, 
+                <title render="italic">Realistic Ethics</title>.</p>
+            <p>Although often critical of the its positions, Rubinstein was a member of the Communist Party from the 1930s into the 1950s. She was active in the American Labor Party and later became its Vice-Chairman for New York. In 1934 she began a long relationship with the Robert Louis Stevenson School, first as a teacher and later as owner and principal until her forced resignation in 1952. From 1941-1946 Rubinstein served as the Executive Secretary of the Committee for the Care of Young Children in Wartime. In the late 1940s she also served as the President of the West Side Child Care Council.</p>
+            <p>In the Spring of 1949, following the sudden death of the congressman for New York's 20th Congressional District, the ALP selected Rubinstein as its candidate in the subsequent special election. Also in 1949, the Robert Louis Stevenson School opened a Veterans Division to take advantage of the educational provisions of the GI Bill of Rights. The Veteran's Administration and New York Board of Education apparently responded to her political affiliations by invoking a series of technicalities to stop reimbursing the school. In 1952 Rubinstein severed her connection to Stevenson School and testified before the U.S. Senate and the House of Representatives' Un-American Activities Committee.</p>
+            <p>Following her unsuccessful pursuit of publishing employment Rubinstein focused on writing. 
+                <title render="italic">The Great Tradition in English Literature: From Shakespeare to Shaw</title>(1953) concentrated on the relationship of political and social movements to major literary works. To commemorate the late Congressman Vito Marcantonio, for whom Rubinstein had served as an aide, she edited 
+                <title render="italic">I Vote My Conscience: Debates, Speeches and Writings of Vito Marcantonio, 1935-1950</title>(1956). Rubinstein also generated a continuous stream of book reviews, literary criticism and articles, and worked as an editor on the Marxist periodicals 
+                <title render="italic">Mainstream</title>and 
+                <title render="italic">Science and Society</title>.</p>
+            <p>In 1958 Rubinstein ran for Lt. Governor of New York on the the Independent Socialist Party line (a coalition of socialists, Communists and Trotskyists). In 1960 ATR was instrumental in the creation of the Charter Group for a Pledge of Conscience which focused on the issues of class discrimination and racism in the schools and in the courts and published several ATR pamphlets, including 
+                <title render="italic">Attica 1971-1975</title>(1975), 
+                <title render="italic">The Black Panther Party and the Case of the New York 21</title>(n.d.), and 
+                <title render="italic">Suicides in Prision: A Cry for Help on Rikers Island</title>(n.d.). She also edited 
+                <title render="italic">Schools against Children: The Case for Community Control</title>(Monthly Review Press, 1970).</p>
+            <p>In the late 1950s and 1960's Rubinstein lectured across the United States, Canada and Eastern Europe, and held visiting appointments at several Eastern European universities, including Karl Marx University in Leipzig. She visited the People's Republic of China in 1972, and returned in 1982-83 and 1987-88 as a professor of English and American Literature at the Beijing Foreign Studies University. While in China she created the textbook 
+                <title render="italic">American Literature, Root and Flower: Significant Poets, Novelists and Dramatists, 1775-1955</title>(Beijing, Foreign Language Teaching and Research Press, 1988).</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>Organized into six series: I. Biographical; II. Correspondence; III. Freedom of Information Act Files; IV. Lecture Tours; V. Political Activities; and VI. Writings. Within each series, the files are arranged alphabetically.</p>
+            <p>
+                <emph render="bold">Series I. Biographical.</emph></p>
+            <p>This small series includes an undated autobiographical fragment pertaining to her childhood and early professional and political endeavors, an interview transcript, resumes, and ephemera.</p>
+            <p>
+                <emph render="bold">Series II. Correspondence.</emph></p>
+            <p>The correspondence runs from the end of WWII to the early 1990s, and is organized into two subseries: Domestic, and Foreign. Prominent domestic correspondents include: James Aronson and Cedric Belfrage ( 
+                <title render="italic">National Guardian</title>), W. E. B. DuBois, Charles Humboldt ( 
+                <title render="italic">Mainstream</title>), John Howard Lawson, Harry Magdoff, Pete Seeger, Morton and Helen Sobell, Willard Uphaus, Dr. Harry F. Ward, and Doxey and Yolanda Wilkerson. The foreign correspondence is principally with educators and others in the People's Republic of China, the German Democratic Republic, other socialist countries and Western Europe, and with her mother, Jean Rubinstein.</p>
+            <p>
+                <emph render="bold">Series III. Freedom of Information Act Files.</emph></p>
+            <p>This series contains six 'books' of FBI files, arranged by book number, and Rubinstein's correspondence with the CIA and FBI.</p>
+            <p>
+                <emph render="bold">Series IV. Lecture Tours.</emph></p>
+            <p>This series contains correspondence, flyers, itineraries, lecture notes and other teaching materials and provides a detailed account of her tours and travels.</p>
+            <p>
+                <emph render="bold">Series V. Political Activities.</emph></p>
+            <p>Contains correspondence and campaign materials regarding her activities with the ALP from 1940-1960, including her 1949 congressional campaign, and correspondence, position papers, and other material pertaining to the her campaign for Lt. Governor of New York on the Independent Socialist Party ticket in 1958. Rubinstein's long standing relationship with the Robert Louis Stevenson School, including her legal and political struggles, is reflected in correspondence and legal documents, ending with her resignation in 1952. Also included are documents and ephemera from the Charter Group for a Pledge of Conscience, several pamphlets Rubinstein wrote or edited for them, and several files of Communist Party ephemera.</p>
+            <p>
+                <emph render="bold">Series VI. Writings.</emph></p>
+            <p>About half of this series consists of Rubinstein's book reviews (mostly typescripts, published and unpublished) and her literary and non-literary articles, many of which appeared in 
+                <title render="italic">Mainstream</title>or 
+                <title render="italic">Science and Society</title>. For 
+                <title render="italic">The Great Tradition in English Literature</title>there are typescripts, correspondence, publicity materials and reviews. There is correspondence and contracts pertaining to the publication and distribution of 
+                <title render="italic">I Vote My Conscience</title>. Later writings include memorial articles and a memoir about her mother, Jean Rubinstein.</p>
+            <p>
+                <emph render="bold">Series VII. Addendum.</emph></p>
+            <p>Contains correspondence, and some biographical publicity materials donated after the first six series were already processed. Contains an unpublished typescript, 
+                <title render="italic">Annette T. Rubinstein: Author, Educator, Activist</title>(2002), by Gerald Meyer, 33 pp.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>Organized into seven series: I. Biographical; II. Correspondence; III. Freedom of Information Act Files; IV. Lecture tours; V. Political activities; VI. Writings; and VII. Addendum.</p>
+            <p>Folders are arranged alphabetically within each series.</p>
+        </arrangement>
+        <relatedmaterial id="ref178">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+            <p>The Tamiment Library's Oral History of the American Left Collection (Series I) contains three interviews with Annette Rubinstein.</p>
+            <p>
+                <archref>
+                    <extref ns2:href="http://dlib.nyu.edu/eadapp/transform?source=tamwag/belfrage.xml&amp;style=tamwag/tamwag.xsl">The Cedric Belfrage Papers (Tamiment 143)</extref> </archref></p>
+        </relatedmaterial>
+        <userestrict id="ref180">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref181">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form: 
+                <lb/>
+                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <persname source="naf">Aronson, James</persname>
+            <persname source="naf">Belfrage, Cedric, 1904-1990.</persname>
+            <persname source="naf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963</persname>
+            <persname source="ingest">Humboldt, Charles.</persname>
+            <persname source="naf">Lawson, John Howard, 1894-1977.</persname>
+            <persname source="ingest">Magdoff, Harry.</persname>
+            <persname source="naf">Rubinstein, Annette T. (Annette Teta), 1910-2007.</persname>
+            <persname source="ingest">Rubinstein, Jean.</persname>
+            <persname source="naf">Seeger, Pete, 1919-</persname>
+            <persname source="naf">Sobell, Helen</persname>
+            <persname source="naf">Sobell, Morton</persname>
+            <persname source="naf">Uphaus, Willard E. (Willard Edwin), 1890-1983.</persname>
+            <persname source="local">Ward, Henry Frederick, 1873-1966.</persname>
+            <persname source="naf">Wilkerson, Doxey Alphonso, 1905-1993.</persname>
+            <persname source="ingest">Wilkerson, Yolanda.</persname>
+            <genreform source="aat">Articles.</genreform>
+            <genreform source="aat">Autobiographies.</genreform>
+            <genreform source="aat">Clippings (information artifacts).</genreform>
+            <subject source="lcsh">Communism |z United States</subject>
+            <subject source="lcsh">Communists |z United States</subject>
+            <genreform source="aat">Correspondence.</genreform>
+            <genreform source="aat">Drafts (documents)</genreform>
+            <genreform source="aat">Ephemera.</genreform>
+            <genreform source="aat">Government records.</genreform>
+            <genreform source="aat">Lectures.</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series I: Biographical</unittitle>
+                </did>
+                <c02 id="ref12" level="otherlevel">
+                    <did>
+                        <unittitle>Autobiographical Fragment</unittitle>
+                        <container id="cid129929" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid129929" type="Folder">1</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>Birthday Celebrations</unittitle>
+                        <container id="cid129928" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid129928" type="Folder">2</container>
+                        <unitdate normal="1984/1990" type="inclusive">1984 , 1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="otherlevel">
+                    <did>
+                        <unittitle>Interview (ATR interviewed by Rebecca MacLean)</unittitle>
+                        <container id="cid129927" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid129927" type="Folder">3</container>
+                        <unitdate normal="1984/1984">1984</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Resume - Karl Marx University Resume - 
+                            <title render="italic">New York Times</title></unittitle>
+                        <container id="cid129926" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid129926" type="Folder">4</container>
+                        <unitdate normal="1974/1974">1974</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>Resume - 
+                            <title render="italic">New York Times</title></unittitle>
+                        <container id="cid129925" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid129925" type="Folder">5</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Schappes, Morris - 85th Birthday and 
+                            <title render="italic">Jewish Currents</title>Anniversary Celebration Program (ATR gave "Stranger than Fiction" address)</unittitle>
+                        <container id="cid129924" type="Box" label="Mixed materials">1</container>
+                        <container parent="cid129924" type="Folder">6</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Series II: Correspondence</unittitle>
+                </did>
+                <c02 id="ref19" level="subseries">
+                    <did>
+                        <unittitle>Subseries A: Domestic</unittitle>
+                    </did>
+                    <c03 id="ref20" level="otherlevel">
+                        <did>
+                            <unittitle>A (alphabetical)</unittitle>
+                            <container id="cid129923" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129923" type="Folder">7</container>
+                            <unitdate normal="1949/1973" type="inclusive">1949-1973</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="otherlevel">
+                        <did>
+                            <unittitle>Aronson, James</unittitle>
+                            <container id="cid129922" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129922" type="Folder">8</container>
+                            <unitdate normal="1961/1989" type="inclusive">1961-1979 , 1989</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="otherlevel">
+                        <did>
+                            <unittitle>B</unittitle>
+                            <container id="cid129921" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129921" type="Folder">9</container>
+                            <unitdate normal="1947/1994" type="inclusive">1947-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="otherlevel">
+                        <did>
+                            <unittitle>Belfrage, Cedric</unittitle>
+                            <container id="cid129920" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129920" type="Folder">10</container>
+                            <unitdate normal="1974/1979" type="inclusive">1974-1979</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="otherlevel">
+                        <did>
+                            <unittitle>Buhle, Mary Jo and Paul</unittitle>
+                            <container id="cid129919" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129919" type="Folder">11</container>
+                            <unitdate normal="1975/1992" type="inclusive">1975-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="otherlevel">
+                        <did>
+                            <unittitle>C</unittitle>
+                            <container id="cid129918" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129918" type="Folder">12</container>
+                            <unitdate normal="1950/1994" type="inclusive">1950-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="otherlevel">
+                        <did>
+                            <unittitle>Criticism, Requests for (Chronological)</unittitle>
+                            <container id="cid129917" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129917" type="Folder">13</container>
+                            <unitdate normal="1946/1993" type="inclusive">1946-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="otherlevel">
+                        <did>
+                            <unittitle>D</unittitle>
+                            <container id="cid129916" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129916" type="Folder">14</container>
+                            <unitdate normal="1946/1994" type="inclusive">1946-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="otherlevel">
+                        <did>
+                            <unittitle>Doctoral Students, Requests for Information</unittitle>
+                            <container id="cid129915" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129915" type="Folder">15</container>
+                            <unitdate normal="1963/1994" type="inclusive">1963-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="otherlevel">
+                        <did>
+                            <unittitle>DuBois, W. E. B. - Correspondence, General</unittitle>
+                            <container id="cid129914" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129914" type="Folder">16</container>
+                            <unitdate normal="1951/1960" type="inclusive">1951-1960</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>DuBois, W. E. B. - Documentary</unittitle>
+                            <container id="cid129913" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129913" type="Folder">17</container>
+                            <unitdate normal="1964/1964">1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="otherlevel">
+                        <did>
+                            <unittitle>DuBois, W. E. B. - Film Project</unittitle>
+                            <container id="cid129912" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129912" type="Folder">18</container>
+                            <unitdate normal="1993/1993">1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>E-G</unittitle>
+                            <container id="cid129911" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129911" type="Folder">19</container>
+                            <unitdate normal="1951/1991" type="inclusive">1951-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="otherlevel">
+                        <did>
+                            <unittitle>H-I</unittitle>
+                            <container id="cid129910" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129910" type="Folder">20</container>
+                            <unitdate normal="1955/1991" type="inclusive">1955-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>Humboldt, Charles</unittitle>
+                            <container id="cid129909" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129909" type="Folder">21</container>
+                            <unitdate normal="1952/1973" type="inclusive">1952-1973</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="otherlevel">
+                        <did>
+                            <unittitle>J-L</unittitle>
+                            <container id="cid129908" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129908" type="Folder">22</container>
+                            <unitdate normal="1949/1994" type="inclusive">1949-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>Lawson, John Howard</unittitle>
+                            <container id="cid129907" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129907" type="Folder">23</container>
+                            <unitdate normal="1959/1964" type="inclusive">1959-1964</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="otherlevel">
+                        <did>
+                            <unittitle>M</unittitle>
+                            <container id="cid129906" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129906" type="Folder">24</container>
+                            <unitdate normal="1950/1993" type="inclusive">1950-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>Magdoff, Harry</unittitle>
+                            <container id="cid129905" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129905" type="Folder">25</container>
+                            <unitdate normal="1961/1990" type="inclusive">1961-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="otherlevel">
+                        <did>
+                            <unittitle>
+                                <title render="italic">Mainstream</title></unittitle>
+                            <container id="cid129904" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129904" type="Folder">26</container>
+                            <unitdate normal="1947/1994" type="inclusive">1947-1962 , 1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="otherlevel">
+                        <did>
+                            <unittitle>N</unittitle>
+                            <container id="cid129903" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129903" type="Folder">27</container>
+                            <unitdate normal="1951/1980" type="inclusive">1951-1980</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="otherlevel">
+                        <did>
+                            <unittitle>New York Marxist School</unittitle>
+                            <container id="cid129902" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129902" type="Folder">28</container>
+                            <unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="otherlevel">
+                        <did>
+                            <unittitle>O-P</unittitle>
+                            <container id="cid129901" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129901" type="Folder">29</container>
+                            <unitdate normal="1955/1994" type="inclusive">1955-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="otherlevel">
+                        <did>
+                            <unittitle>R</unittitle>
+                            <container id="cid129900" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129900" type="Folder">30</container>
+                            <unitdate normal="1949/1994" type="inclusive">1949-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="otherlevel">
+                        <did>
+                            <unittitle>S</unittitle>
+                            <container id="cid129899" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129899" type="Folder">31</container>
+                            <unitdate normal="1949/1994" type="inclusive">1949-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="otherlevel">
+                        <did>
+                            <unittitle>Sobell Committee (Helen and Morton Sobell)</unittitle>
+                            <container id="cid129898" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129898" type="Folder">32</container>
+                            <unitdate normal="1970/1994" type="inclusive">1970-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="otherlevel">
+                        <did>
+                            <unittitle>T</unittitle>
+                            <container id="cid129897" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129897" type="Folder">33</container>
+                            <unitdate normal="1958/1994" type="inclusive">1958-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="otherlevel">
+                        <did>
+                            <unittitle>Truman, President Harry S. - ATR Letter Concerning HUAC</unittitle>
+                            <container id="cid129896" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129896" type="Folder">34</container>
+                            <unitdate>Jun, 7, 1950</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="otherlevel">
+                        <did>
+                            <unittitle>V</unittitle>
+                            <container id="cid129895" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129895" type="Folder">35</container>
+                            <unitdate normal="1964/1994" type="inclusive">1964-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="otherlevel">
+                        <did>
+                            <unittitle>W</unittitle>
+                            <container id="cid129894" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129894" type="Folder">36</container>
+                            <unitdate normal="1955/1990" type="inclusive">1955-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="otherlevel">
+                        <did>
+                            <unittitle>Wald, Alan</unittitle>
+                            <container id="cid129893" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129893" type="Folder">37</container>
+                            <unitdate normal="1988/1990" type="inclusive">1988-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="otherlevel">
+                        <did>
+                            <unittitle>Ward, Harry F.</unittitle>
+                            <container id="cid129892" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129892" type="Folder">38</container>
+                            <unitdate normal="1953/1963" type="inclusive">1953-1963</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="otherlevel">
+                        <did>
+                            <unittitle>Wilkerson, Doxey and Yolanda</unittitle>
+                            <container id="cid129891" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129891" type="Folder">39</container>
+                            <unitdate normal="1949/1994" type="inclusive">1949-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="otherlevel">
+                        <did>
+                            <unittitle>World Fellowship (Rev. Dryden Phelps and Willard Uphaus)</unittitle>
+                            <container id="cid129890" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129890" type="Folder">40</container>
+                            <unitdate normal="1952/1994" type="inclusive">1952-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="otherlevel">
+                        <did>
+                            <unittitle>Y-Z</unittitle>
+                            <container id="cid129889" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129889" type="Folder">41</container>
+                            <unitdate normal="1948/1994" type="inclusive">1948-1994</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref55" level="subseries">
+                    <did>
+                        <unittitle>Subseries B: Foreign</unittitle>
+                    </did>
+                    <c03 id="ref56" level="otherlevel">
+                        <did>
+                            <unittitle>China Adler, Pat and Sol</unittitle>
+                            <container id="cid129888" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129888" type="Folder">42</container>
+                            <unitdate normal="1984/1993" type="inclusive">1984-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="otherlevel">
+                        <did>
+                            <unittitle>China: 
+                                <title render="italic">American Literature, Root and Flower 1775-1955</title>(Publication of), American Women Writers Tour</unittitle>
+                            <container id="cid129887" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129887" type="Folder">43</container>
+                            <unitdate normal="1983/1994" type="inclusive">1983-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="otherlevel">
+                        <did>
+                            <unittitle>China: C</unittitle>
+                            <container id="cid129886" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129886" type="Folder">44</container>
+                            <unitdate normal="1973/1990" type="inclusive">1973-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="otherlevel">
+                        <did>
+                            <unittitle>China: Crook, David and Isabel</unittitle>
+                            <container id="cid129885" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129885" type="Folder">45</container>
+                            <unitdate normal="1981/1994" type="inclusive">1981-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="otherlevel">
+                        <did>
+                            <unittitle>China: D-K</unittitle>
+                            <container id="cid129884" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129884" type="Folder">46</container>
+                            <unitdate normal="1982/1994" type="inclusive">1982-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="otherlevel">
+                        <did>
+                            <unittitle>China: L</unittitle>
+                            <container id="cid129883" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129883" type="Folder">47</container>
+                            <unitdate normal="1982/1994" type="inclusive">1982-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="otherlevel">
+                        <did>
+                            <unittitle>China: Lii, Hui - U.S. Immigration Affidavit of Support (by ATR)</unittitle>
+                            <container id="cid129882" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129882" type="Folder">48</container>
+                            <unitdate normal="1990/1991" type="inclusive">1990-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="otherlevel">
+                        <did>
+                            <unittitle>China: Marks, Marcia</unittitle>
+                            <container id="cid129881" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129881" type="Folder">49</container>
+                            <unitdate normal="1981/1994" type="inclusive">1981-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="otherlevel">
+                        <did>
+                            <unittitle>China: P-W</unittitle>
+                            <container id="cid129880" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129880" type="Folder">50</container>
+                            <unitdate normal="1982/1993" type="inclusive">1982-1993</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="otherlevel">
+                        <did>
+                            <unittitle>China: X-Z</unittitle>
+                            <container id="cid129879" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129879" type="Folder">51</container>
+                            <unitdate normal="1982/1994" type="inclusive">1982-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="otherlevel">
+                        <did>
+                            <unittitle>Czechoslovakia: A-L</unittitle>
+                            <container id="cid129878" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129878" type="Folder">52</container>
+                            <unitdate normal="1958/1991" type="inclusive">1958-1991</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="otherlevel">
+                        <did>
+                            <unittitle>Czechoslovakia: M-Z</unittitle>
+                            <container id="cid129877" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129877" type="Folder">53</container>
+                            <unitdate normal="1960/1981" type="inclusive">1960-1981</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="otherlevel">
+                        <did>
+                            <unittitle>Europe: Correspondence with Mother, Other Relatives (Chronological)</unittitle>
+                            <container id="cid129876" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129876" type="Folder">54</container>
+                            <unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="otherlevel">
+                        <did>
+                            <unittitle>Europe: Correspondence with Mother, Other Relatives (Chronological)</unittitle>
+                            <container id="cid129875" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129875" type="Folder">55</container>
+                            <unitdate normal="1968/1968">1968</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="otherlevel">
+                        <did>
+                            <unittitle>Europe, Eastern (Poland, USSR)</unittitle>
+                            <container id="cid129874" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129874" type="Folder">56</container>
+                            <unitdate normal="1954/1985" type="inclusive">1954-1985</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="otherlevel">
+                        <did>
+                            <unittitle>Europe, Western (England, France, Sweden, etc.)</unittitle>
+                            <container id="cid129873" type="Box" label="Mixed materials">1</container>
+                            <container parent="cid129873" type="Folder">57</container>
+                            <unitdate normal="1958/1990" type="inclusive">1958-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="otherlevel">
+                        <did>
+                            <unittitle>German Democratic Republic: A-F</unittitle>
+                            <container id="cid129872" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid129872" type="Folder">1</container>
+                            <unitdate normal="1960/1990" type="inclusive">1960-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="otherlevel">
+                        <did>
+                            <unittitle>German Democratic Republic: G-L</unittitle>
+                            <container id="cid129871" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid129871" type="Folder">2</container>
+                            <unitdate normal="1959/1994" type="inclusive">1959-1994</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="otherlevel">
+                        <did>
+                            <unittitle>German Democratic Republic: M-S</unittitle>
+                            <container id="cid129870" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid129870" type="Folder">3</container>
+                            <unitdate normal="1960/1988" type="inclusive">1960-1988</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="otherlevel">
+                        <did>
+                            <unittitle>German Democratic Republic: T-Z</unittitle>
+                            <container id="cid129869" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid129869" type="Folder">4</container>
+                            <unitdate normal="1960/1990" type="inclusive">1960-1990</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="otherlevel">
+                        <did>
+                            <unittitle>Hungary</unittitle>
+                            <container id="cid129868" type="Box" label="Mixed materials">2</container>
+                            <container parent="cid129868" type="Folder">5</container>
+                            <unitdate normal="1961/1990" type="inclusive">1961-1990</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref77" level="series">
+                <did>
+                    <unittitle>Series III: Freedom of Information Act Files</unittitle>
+                </did>
+                <c02 id="ref78" level="otherlevel">
+                    <did>
+                        <unittitle>Central Intelligence Agency : FOIA and Privacy Act Requests for Information</unittitle>
+                        <container id="cid129867" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129867" type="Folder">6</container>
+                        <unitdate normal="1977/1977">1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="otherlevel">
+                    <did>
+                        <unittitle>Federal Bureau of Investigation : FOIA Requests for Information</unittitle>
+                        <container id="cid129866" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129866" type="Folder">7</container>
+                        <unitdate normal="1976/1976">1976</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="otherlevel">
+                    <did>
+                        <unittitle>FOIA : Book I</unittitle>
+                        <container id="cid129865" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129865" type="Folder">8</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="otherlevel">
+                    <did>
+                        <unittitle>FOIA : Book IA - Financial Investigation</unittitle>
+                        <container id="cid129864" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129864" type="Folder">9</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>FOIA : Book II</unittitle>
+                        <container id="cid129863" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129863" type="Folder">10</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="otherlevel">
+                    <did>
+                        <unittitle>FOIA : Book III</unittitle>
+                        <container id="cid129862" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129862" type="Folder">11</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="otherlevel">
+                    <did>
+                        <unittitle>FOIA : Book IV</unittitle>
+                        <container id="cid129861" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129861" type="Folder">12</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>FOIA : Book V</unittitle>
+                        <container id="cid129860" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129860" type="Folder">13</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref86" level="series">
+                <did>
+                    <unittitle>Series IV: Lecture Tours</unittitle>
+                </did>
+                <c02 id="ref87" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container id="cid129859" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129859" type="Folder">14</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container id="cid129858" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129858" type="Folder">15</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container id="cid129857" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129857" type="Folder">16</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container id="cid129856" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129856" type="Folder">17</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container id="cid129855" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129855" type="Folder">18</container>
+                        <unitdate normal="1968/1968">1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="otherlevel">
+                    <did>
+                        <unittitle>Canada</unittitle>
+                        <container id="cid129854" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129854" type="Folder">19</container>
+                        <unitdate normal="1969/1969">1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="otherlevel">
+                    <did>
+                        <unittitle>China : Cartoons</unittitle>
+                        <container id="cid129853" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129853" type="Folder">20</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="otherlevel">
+                    <did>
+                        <unittitle>China : Diary</unittitle>
+                        <container id="cid129852" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129852" type="Folder">21</container>
+                        <unitdate>Dec 1972-Jan 1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="otherlevel">
+                    <did>
+                        <unittitle>China : Scrapbook</unittitle>
+                        <container id="cid129851" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129851" type="Folder">22</container>
+                        <unitdate normal="1982/1988" type="inclusive">1982-1988</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref96" level="otherlevel">
+                    <did>
+                        <unittitle>China : Teaching Material and Tour Itinerary</unittitle>
+                        <container id="cid129850" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129850" type="Folder">23</container>
+                        <unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref97" level="otherlevel">
+                    <did>
+                        <unittitle>Germany : Itinerary</unittitle>
+                        <container id="cid129849" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129849" type="Folder">24</container>
+                        <unitdate normal="1975/1975">1975</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="otherlevel">
+                    <did>
+                        <unittitle>Germany : Lectures</unittitle>
+                        <container id="cid129848" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129848" type="Folder">25</container>
+                        <unitdate normal="1993/1993">1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures</unittitle>
+                        <container id="cid129847" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129847" type="Folder">26</container>
+                        <unitdate normal="1937/1955" type="inclusive">1937-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures</unittitle>
+                        <container id="cid129846" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129846" type="Folder">27</container>
+                        <unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures</unittitle>
+                        <container id="cid129845" type="Box" label="Mixed materials">2</container>
+                        <container parent="cid129845" type="Folder">28</container>
+                        <unitdate normal="1957/1958" type="inclusive">1957-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (California - Iowa)</unittitle>
+                        <container id="cid129844" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129844" type="Folder">1</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Maryland - Wisconsin)</unittitle>
+                        <container id="cid129843" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129843" type="Folder">2</container>
+                        <unitdate normal="1959/1959">1959</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref104" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (California and Colorado)</unittitle>
+                        <container id="cid129842" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129842" type="Folder">3</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Illinois - New York)</unittitle>
+                        <container id="cid129841" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129841" type="Folder">4</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Ohio - Wisconsin)</unittitle>
+                        <container id="cid129840" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129840" type="Folder">5</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Arizona - Colorado)</unittitle>
+                        <container id="cid129839" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129839" type="Folder">6</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Idaho - Wisconsin)</unittitle>
+                        <container id="cid129838" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129838" type="Folder">7</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures - ATR Notes</unittitle>
+                        <container id="cid129837" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129837" type="Folder">8</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref110" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Arizona - Colorado)</unittitle>
+                        <container id="cid129836" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129836" type="Folder">9</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref111" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures (Illinois - Wisconsin)</unittitle>
+                        <container id="cid129835" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129835" type="Folder">10</container>
+                        <unitdate normal="1962/1962">1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures</unittitle>
+                        <container id="cid129834" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129834" type="Folder">11</container>
+                        <unitdate normal="1964/1964">1964</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures</unittitle>
+                        <container id="cid129833" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129833" type="Folder">12</container>
+                        <unitdate normal="1967/1967">1967</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Cross Country Lectures</unittitle>
+                        <container id="cid129832" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129832" type="Folder">13</container>
+                        <unitdate normal="1969/1993" type="inclusive">1969-1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Lecture Notices</unittitle>
+                        <container id="cid129831" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129831" type="Folder">14</container>
+                        <unitdate normal="1950/1959" type="inclusive">1950s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Lecture Notices</unittitle>
+                        <container id="cid129830" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129830" type="Folder">15</container>
+                        <unitdate normal="1960/1969" type="inclusive">1960s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref117" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Lecture Notices</unittitle>
+                        <container id="cid129829" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129829" type="Folder">16</container>
+                        <unitdate normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref118" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Local and East Coast Lectures</unittitle>
+                        <container id="cid129828" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129828" type="Folder">17</container>
+                        <unitdate normal="1941/1965" type="inclusive">1941-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="otherlevel">
+                    <did>
+                        <unittitle>United States : Local and East Coast Lectures</unittitle>
+                        <container id="cid129827" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129827" type="Folder">18</container>
+                        <unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref120" level="series">
+                <did>
+                    <unittitle>Series V: Political Activities</unittitle>
+                </did>
+                <c02 id="ref121" level="otherlevel">
+                    <did>
+                        <unittitle>American Labor Party</unittitle>
+                        <container id="cid129826" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129826" type="Folder">19</container>
+                        <unitdate normal="1940/1948" type="inclusive">1940-1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref122" level="otherlevel">
+                    <did>
+                        <unittitle>American Labor Party</unittitle>
+                        <container id="cid129825" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129825" type="Folder">20</container>
+                        <unitdate normal="1949/1949">1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref123" level="otherlevel">
+                    <did>
+                        <unittitle>American Labor Party</unittitle>
+                        <container id="cid129824" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129824" type="Folder">21</container>
+                        <unitdate normal="1951/1960" type="inclusive">1951-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref124" level="otherlevel">
+                    <did>
+                        <unittitle>Charter Group for a Pledge of Conscience</unittitle>
+                        <container id="cid129823" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129823" type="Folder">22</container>
+                        <unitdate normal="1965/1987" type="inclusive">1965-1987</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref125" level="otherlevel">
+                    <did>
+                        <unittitle>Charter Group for a Pledge of Conscience : Community Control of Schools</unittitle>
+                        <container id="cid129822" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129822" type="Folder">23</container>
+                        <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="otherlevel">
+                    <did>
+                        <unittitle>Charter Group for a Pledge of Conscience : Pamphlets</unittitle>
+                        <container id="cid129821" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129821" type="Folder">24</container>
+                        <unitdate normal="1968/1978" type="inclusive">1968-1978</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="otherlevel">
+                    <did>
+                        <unittitle>Child Care Council</unittitle>
+                        <container id="cid129820" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129820" type="Folder">25</container>
+                        <unitdate normal="1948/1948">1948</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party : Poland</unittitle>
+                        <container id="cid129819" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129819" type="Folder">26</container>
+                        <unitdate normal="1967/1973" type="inclusive">1967-1973</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref129" level="otherlevel">
+                    <did>
+                        <unittitle>Communist Party : United States</unittitle>
+                        <container id="cid129818" type="Box" label="Mixed materials">3</container>
+                        <container parent="cid129818" type="Folder">27</container>
+                        <unitdate normal="1959/1989" type="inclusive">1959 , 1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref130" level="otherlevel">
+                    <did>
+                        <unittitle>DuBois, W.E.B. : Rubinstein's Notes for Seminar</unittitle>
+                        <container id="cid129817" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129817" type="Folder">1</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref131" level="otherlevel">
+                    <did>
+                        <unittitle>Federal Theatre Project Research Center (at George Mason University)</unittitle>
+                        <container id="cid129816" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129816" type="Folder">2</container>
+                        <unitdate normal="1979/1994" type="inclusive">1979-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref132" level="otherlevel">
+                    <did>
+                        <unittitle>Fund for Social Analysis</unittitle>
+                        <container id="cid129815" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129815" type="Folder">3</container>
+                        <unitdate normal="1961/1961">1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref133" level="otherlevel">
+                    <did>
+                        <unittitle>Harlem Six</unittitle>
+                        <container id="cid129814" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129814" type="Folder">4</container>
+                        <unitdate normal="1966/1982" type="inclusive">1966-1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref134" level="otherlevel">
+                    <did>
+                        <unittitle>Robert Louis Stevenson School : New York State Education Department Correspondence</unittitle>
+                        <container id="cid129813" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129813" type="Folder">5</container>
+                        <unitdate normal="1934/1953" type="inclusive">1934-1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="otherlevel">
+                    <did>
+                        <unittitle>Robert Louis Stevenson School : Rubinstein Correspondence</unittitle>
+                        <container id="cid129812" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129812" type="Folder">6</container>
+                        <unitdate normal="1941/1993" type="inclusive">1941-1961 , 1993</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref136" level="otherlevel">
+                    <did>
+                        <unittitle>Robert Louis Stevenson School : Rubinstein, Annette T. (Acting as Owner) vs. The United States</unittitle>
+                        <container id="cid129811" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129811" type="Folder">7</container>
+                        <unitdate normal="1960/1960">1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref137" level="otherlevel">
+                    <did>
+                        <unittitle>Robert Louis Stevenson School : Senate Hearings (re: Communist Ownership of Schools for War Veterans)</unittitle>
+                        <container id="cid129810" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129810" type="Folder">8</container>
+                        <unitdate normal="1956/1956">1956</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="otherlevel">
+                    <did>
+                        <unittitle>Rubinstein Electoral Campaigns</unittitle>
+                        <container id="cid129809" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129809" type="Folder">9</container>
+                        <unitdate normal="1949/1958" type="inclusive">1949 , 1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref139" level="otherlevel">
+                    <did>
+                        <unittitle>United Independent Socialist Committee</unittitle>
+                        <container id="cid129808" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129808" type="Folder">10</container>
+                        <unitdate normal="1940/1960" type="inclusive">1940-1960</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref140" level="otherlevel">
+                    <did>
+                        <unittitle>United States Senate : Temporary National Economic Committee (Confidential Memorandum from A.A. Berle Jr., with ATR's Notes)</unittitle>
+                        <container id="cid129807" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129807" type="Folder">11</container>
+                        <unitdate normal="1938/1938">1938</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref141" level="series">
+                <did>
+                    <unittitle>Series VI: Writings</unittitle>
+                </did>
+                <c02 id="ref142" level="otherlevel">
+                    <did>
+                        <unittitle>Articles : Literary (mostly typescripts, published and unpublished)</unittitle>
+                        <container id="cid129806" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129806" type="Folder">12</container>
+                        <unitdate normal="1960/1977" type="inclusive">1960-1977</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref143" level="otherlevel">
+                    <did>
+                        <unittitle>Articles : Non-Literary</unittitle>
+                        <container id="cid129805" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129805" type="Folder">13</container>
+                        <unitdate normal="1958/1992" type="inclusive">1958-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref144" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews A-C (mostly typescripts, published and unpublished, arranged alphabetically by author)</unittitle>
+                        <container id="cid129804" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129804" type="Folder">14</container>
+                        <unitdate normal="1957/1989" type="inclusive">1957-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref145" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews D-H</unittitle>
+                        <container id="cid129803" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129803" type="Folder">15</container>
+                        <unitdate normal="1958/1991" type="inclusive">1958-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews J-L</unittitle>
+                        <container id="cid129802" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129802" type="Folder">16</container>
+                        <unitdate normal="1962/1992" type="inclusive">1962-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref147" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews M-O</unittitle>
+                        <container id="cid129801" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129801" type="Folder">17</container>
+                        <unitdate normal="1958/1992" type="inclusive">1958-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref148" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews P-R</unittitle>
+                        <container id="cid129800" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129800" type="Folder">18</container>
+                        <unitdate normal="1956/1992" type="inclusive">1956-1992</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref149" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews S-U</unittitle>
+                        <container id="cid129799" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129799" type="Folder">19</container>
+                        <unitdate normal="1957/1989" type="inclusive">1957-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref150" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews V-Z</unittitle>
+                        <container id="cid129798" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129798" type="Folder">20</container>
+                        <unitdate normal="1960/1994" type="inclusive">1960-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref151" level="otherlevel">
+                    <did>
+                        <unittitle>Book Reviews in Newspapers (clippings)</unittitle>
+                        <container id="cid129797" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129797" type="Folder">21</container>
+                        <unitdate normal="1946/1991" type="inclusive">1946-1991</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref152" level="otherlevel">
+                    <did>
+                        <unittitle>Contracts</unittitle>
+                        <container id="cid129796" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129796" type="Folder">22</container>
+                        <unitdate normal="1954/1955" type="inclusive">1954-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref153" level="otherlevel">
+                    <did>
+                        <unittitle>Goldway, David : Memorial Article</unittitle>
+                        <container id="cid129795" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129795" type="Folder">23</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref154" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Great Tradition in English Literature</title>: Correspondence</unittitle>
+                        <container id="cid129794" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129794" type="Folder">24</container>
+                        <unitdate normal="1951/1954" type="inclusive">1951-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref155" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Great Tradition in English Literature</title>: Correspondence</unittitle>
+                        <container id="cid129793" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129793" type="Folder">25</container>
+                        <unitdate normal="1955/1980" type="inclusive">1955-1980</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Great Tradition in English Literature</title>: Publicity</unittitle>
+                        <container id="cid129792" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129792" type="Folder">26</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref157" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Great Tradition in English Literature</title>: Typescripts</unittitle>
+                        <container id="cid129791" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129791" type="Folder">27</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref158" level="otherlevel">
+                    <did>
+                        <unittitle>Humboldt, Charles - Memorial Article</unittitle>
+                        <container id="cid129790" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129790" type="Folder">28</container>
+                        <unitdate normal="1965/1965">1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="otherlevel">
+                    <did>
+                        <unittitle>Marcantonio, Vito : Memorial ( 
+                            <title render="italic">I Vote My Conscience</title>)</unittitle>
+                        <container id="cid129789" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129789" type="Folder">29</container>
+                        <unitdate normal="1955/1966" type="inclusive">1955-1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref160" level="otherlevel">
+                    <did>
+                        <unittitle>Rhodes, Irwin (1911-1990; ATR's brother) : Memorial Article</unittitle>
+                        <container id="cid129788" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129788" type="Folder">30</container>
+                        <unitdate normal="1990/1990">1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="otherlevel">
+                    <did>
+                        <unittitle>Rubinstein, Jean (1885-1973; ATR's mother) : Memoir</unittitle>
+                        <container id="cid129787" type="Box" label="Mixed materials">4</container>
+                        <container parent="cid129787" type="Folder">31</container>
+                        <unitdate normal="1937/1994" type="inclusive">undated</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref162" level="series">
+                <did>
+                    <unittitle>Series VII: Addendum</unittitle>
+                    <container id="cid19805002" type="Box" label="Mixed materials">1-5</container>
+                </did>
+                <c02 id="ref163" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Annette T. Rubinstein: Author, Educator, Activist</title>(Typescript by Gerald Meyer, 33 pp.)</unittitle>
+                        <container id="cid129786" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129786" type="Folder">0.1</container>
+                        <unitdate normal="2002/2002">2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="otherlevel">
+                    <did>
+                        <unittitle>Biographical Material and Correspondence With Biographer Tina Baker</unittitle>
+                        <container id="cid129785" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129785" type="Folder">1</container>
+                        <unitdate normal="1942/2000" type="inclusive">1942-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Brecht Forum / New York Marxist School</unittitle>
+                        <container id="cid129784" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129784" type="Folder">2</container>
+                        <unitdate normal="1986/2001" type="inclusive">1986-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: China</unittitle>
+                        <container id="cid129783" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129783" type="Folder">3</container>
+                        <unitdate normal="1987/1995" type="inclusive">1987-1995</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: China</unittitle>
+                        <container id="cid129782" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129782" type="Folder">4</container>
+                        <unitdate normal="1996/2001" type="inclusive">1996-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref168" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Europe ("personal letters")</unittitle>
+                        <container id="cid129781" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129781" type="Folder">5</container>
+                        <unitdate normal="1955/2000" type="inclusive">1955-2000</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref169" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Family</unittitle>
+                        <container id="cid129780" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129780" type="Folder">6</container>
+                        <unitdate normal="1909/2002" type="inclusive">1909-2002</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref170" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: General</unittitle>
+                        <container id="cid129779" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129779" type="Folder">7</container>
+                        <unitdate normal="1950/1994" type="inclusive">1950-1994</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref171" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: General</unittitle>
+                        <container id="cid129778" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129778" type="Folder">8</container>
+                        <unitdate normal="1995/2001" type="inclusive">1995-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref172" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Literary and Political</unittitle>
+                        <container id="cid129777" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129777" type="Folder">9</container>
+                        <unitdate normal="1942/1989" type="inclusive">1942-1989</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref173" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Literary and Political</unittitle>
+                        <container id="cid129776" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129776" type="Folder">10</container>
+                        <unitdate normal="1991/2001" type="inclusive">1991-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref174" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Publishers</unittitle>
+                        <container id="cid129775" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129775" type="Folder">11</container>
+                        <unitdate normal="1945/1990" type="inclusive">1945-1990</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="otherlevel">
+                    <did>
+                        <unittitle>Correspondence: Researchers</unittitle>
+                        <container id="cid129774" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129774" type="Folder">12</container>
+                        <unitdate normal="1946/2001" type="inclusive">1946-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="otherlevel">
+                    <did>
+                        <unittitle>Publicity: Classes, Lectures, Political Activity, Testimonials, etc.</unittitle>
+                        <container id="cid129773" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129773" type="Folder">13</container>
+                        <unitdate normal="1954/2001" type="inclusive">1954-2001</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref177" level="otherlevel">
+                    <did>
+                        <unittitle>
+                            <title render="italic">Science &amp; Society</title></unittitle>
+                        <container id="cid129772" type="Box" label="Mixed materials">5</container>
+                        <container parent="cid129772" type="Folder">14</container>
+                        <unitdate normal="1986/2000" type="inclusive">1986-2000</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

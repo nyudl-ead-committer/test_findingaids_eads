@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="FindingAid" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">tam_505</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Tamiment Library Web Archive (Labor and the Left): Communism, Socialism, Trotksyism
+                    <num>TAM.505</num>
+                </titleproper>
+                <author>Finding aid prepared by Tamiment staff</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>1/28/2010</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2012-03-29T19:49-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>
+                <extref ns2:actuate="onLoad" ns2:show="embed" ns2:title="Tamiment Library Web Archive (Labor and the Left): Communism, Socialism, Trotskyism" ns2:href="http://webarchives.cdlib.org/a/CommunismSocialismTrotskyism">Tamiment Library Web Archive (Labor and the Left): Communism, Socialism, Trotskyism</extref></unittitle>
+            <unitid>TAM.505</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.0010 linear feet</extent>
+                <extent>(1+ websites; i.e., a collection of websites that grows on an ongoing basis)</extent>
+            </physdesc>
+            <unitdate>2007-</unitdate>
+            <langmaterial id="ref6" label="Language of Materials note">Materials are principally in English, with some materials in German, Russian, Spanish, and other languages from around the world.</langmaterial>
+            <abstract id="ref8" label="Abstract">The Tamiment Library Web Archive (Labor and the Left): Communism, Socialism, Trotskyism, was created with the Web Archiving Service from the California Digital Library. (The Web Archiving Service was made possible with support from the National Digital Information and Infrastructure Preservation Program and the University of California, as part of a project to preserve born-digital political communication.) The Tamiment Library creates topically based archives of periodically captured websites documenting labor and left activity, principally that based in the United States, with a particular focus on New York City. This collection contains periodically archived websites of (principally) Marxian inspired entities, including political parties, that identify with or are inspired by Communist, Socialist, or Trotskyist perspectives. While the focus is on the United States, selected international sites, especially those documenting the history of these movements, are also archived. NOTE: For technical, privacy and other reasons, archived websites may not be exact copies of the original website at the time of the web crawl. 
+                <emph render="bold">NOTE: if a link for an individual site does not work, click on the TITLE of this collection (in the descriptive summary section at the top of the Guide) which will take you to the web archive, then go to the site list and then the web site(s) you wish to view.</emph></abstract>
+            <origination label="creator">
+                <corpname source="naf">Tamiment Library.</corpname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents</head>
+            <p>This web archive contains periodically archived websites of (principally) Marxian inspired entities, including political parties, that identify with or are inspired by Communist, Socialist, or Trotskyist perspectives. While the focus is on the U.S., with a particular focus on New York City, selected international sites, especially those documenting the history of these movements, are also archived.</p>
+            <p>Classic Marxian doctrine advocates collective ownership of the means of production, to be achieved by the political struggle of the working class via political parties and labor unions, and the eventual withering away of the state.</p>
+            <p>For the purposes of this archive, Communist organizations are understood as those that supported or now align themselves with the ideology and politics of the former Soviet Union and the associated international Communist movement that arose in the aftermath of the Russian Revolution of 1917, or with the Chinese revolution (Maoism), or other schisms in the international Communist movement; Trotskyist organizations are those rooted in Leon Trotsky's critique of the Soviet Union, which he helped to found; Socialist organizations, including social democratic organizations (progressive organizations with socialism as an ultimate, if distant goal), include those rooted in the pre-1917 socialist movement, and reject the Communist ideal of a one-party state.</p>
+            <p>NOTE: For technical, privacy and other reasons, archived websites may not be exact copies of the original website at the time of the web crawl.</p>
+            <p>
+                <emph render="bold">NOTE: if a link for an individual site does not work, click on the TITLE of this collection (in the descriptive summary section at the top of the Guide) which will take you to the web archive, then go to the site list and then the web site(s) you wish to view.</emph></p>
+        </scopecontent>
+        <bioghist id="ref2">
+            <head>Historical/Biographical Note</head>
+            <p>The Tamiment Library Web Archive (Labor and the Left): Communism, Socialism, Trotskyism, along with other topically based web archives relating to labor and the left, was created with the Web Archiving Service from the California Digital Library. This service employs open source web archiving utilities developed by Internet Archive with the support of the The International Internet Preservation Consortium. The Web Archiving Service was made possible with support from the National Digital Information and Infrastructure Preservation Program and the University of California, as part of a project to preserve born-digital political communication. The role of the Tamiment Library during this project and thereafter was/is to create topically based archives of websites documenting contemporary and ongoing labor and left activity, as well as the history of labor and the left, principally in the United States, with a special concentration on New York City.</p>
+        </bioghist>
+        <relatedmaterial id="ref3">
+            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+            <p>A list of related Tamiment Library web archives, whose ns2:titles all begin with the prefix "Tamiment Library Web Archive (Labor and the Left), can be found at the website 
+                <extref ns2:actuate="onLoad" ns2:show="embed" ns2:title="Web Archives from New York University Libraries" ns2:href="http://webarchives.cdlib.org/institutions/NYUL">Web Archives from New York University Libraries</extref>.</p>
+        </relatedmaterial>
+        <accessrestrict id="ref4">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <userestrict id="ref5">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: tamiment.wagner@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form, copying the required information from the metadata supplied at the top of the archived web page: 
+                <lb/>
+                <lb/>Title (of web page), Archival URL, Date/time captured; 
+                <lb/>Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/>Elmer Holmes Bobst Library 
+                <lb/>70 Washington Square South 
+                <lb/>New York, NY 10012, New York University Libraries.</p>
+        </prefercite>
+        <controlaccess>
+            <corpname source="naf">Communist Party of the United States of America.</corpname>
+            <persname source="naf">Engels, Friedrich, 1820-1895</persname>
+            <persname source="naf">Lenin, Vladimir Il'ich, 1870-1924</persname>
+            <persname source="naf">Mao, Zedong, 1893-1976.</persname>
+            <persname source="naf">Marx, Karl, 1818-1883.</persname>
+            <persname source="naf">Trotsky, Leon, 1879-1940.</persname>
+            <subject source="lcsh">Communism |x History.</subject>
+            <subject source="lcsh">Communism |z United States</subject>
+            <subject source="lcsh">Communism.</subject>
+            <subject source="lcsh">Communist parties |z United States.</subject>
+            <subject source="lcsh">Communist parties.</subject>
+            <subject source="lcsh">Communists |z United States</subject>
+            <subject source="lcsh">Communists.</subject>
+            <subject source="local">Marxism |x History.</subject>
+            <subject source="lcsh">Socialism |x History.</subject>
+            <subject source="lcsh">Socialism |z United States.</subject>
+            <subject source="lcsh">Socialism.</subject>
+            <subject source="lcsh">Socialist parties |z United States.</subject>
+            <subject source="lcsh">Socialist parties.</subject>
+            <subject source="lcsh">Socialists |z United States.</subject>
+            <subject source="lcsh">Socialists.</subject>
+            <geogname source="lcsh">Soviet Union |x History.</geogname>
+            <geogname source="lcsh">Soviet Union |x Politics and government.</geogname>
+            <subject source="local">Trotskyism |x History.</subject>
+            <subject source="local">Trotskyism |z United States.</subject>
+            <subject source="local">Trotskyism.</subject>
+            <subject source="local">Trotskyist parties |z United States.</subject>
+            <subject source="local">Trotskyists.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Communism, Socialism, Trotksyism Web Archive</unittitle>
+                    <unitdate>2007-</unitdate>
+                </did>
+                <c02 id="ref54" level="otherlevel">
+                    <did>
+                        <unittitle>Act Now to Stop War &amp; End Racism (ANSWER)</unittitle>
+                        <unitdate>07/29/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="otherlevel">
+                    <did>
+                        <unittitle>Against the Current, Solidarity</unittitle>
+                        <unitdate>5/8/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="otherlevel">
+                    <did>
+                        <unittitle>American Communism and Anticommunism: A Historian’s Bibliography and Guide to the Literature</unittitle>
+                        <unitdate>07/09/2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="otherlevel">
+                    <did>
+                        <unittitle>Arguing the World | PBS Online</unittitle>
+                        <unitdate>08/31/2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="otherlevel">
+                    <did>
+                        <unittitle>Brecht Forum</unittitle>
+                        <unitdate>07/31/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="otherlevel">
+                    <did>
+                        <unittitle>Committees of Correspondence for Democracy and Socialism</unittitle>
+                        <unitdate>08/12/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Communist Party of the United States of America</unittitle>
+                        <unitdate>05/10/2008-</unitdate>
+                        <abstract id="ref93" label="Abstract">The Communist Party of the United States of America (CPUSA), founded in 1919 by members of the left wing of the Socialist Party USA, one of many such parties worldwide inspired by the Russian Revolution of 1917, played an important role in the labor movement, particularly in the building of the Congress of Industrial Organizations, in struggles for civil rights for African Americans, while its cultural initiatives attracted a number of prominent artists and intellectuals, and its struggles to attain and maintain its legality were an important chapter in the history of U.S. civil liberties. Today the CPUSA continues its struggle for socialism, peace, and social and economic justice, and publishes a newspaper, the Peoples Weekly World, a monthly journal, Political Affairs (both captured within this website) and through its Labor Commission, the online periodical Labor Upfront (separately captured as part of this project)</abstract>
+                        <origination label="creator">
+                            <corpname source="naf">Communist Party of the United States of America.</corpname>
+                        </origination>
+                    </did>
+                    <scopecontent id="ref94">
+                        <head>Scope and Content Note</head>
+                        <p>testing scope and content note</p>
+                    </scopecontent>
+                    <odd id="ref95">
+                        <head>General note</head>
+                        <p></p>
+                    </odd>
+                    <controlaccess>
+                        <corpname source="naf">Communist Party of the United States of America.</corpname>
+                        <subject source="lcsh">Communism |z United States</subject>
+                    </controlaccess>
+                </c02>
+                <c02 id="ref64" level="otherlevel">
+                    <did>
+                        <unittitle>CPGB Bibliography</unittitle>
+                        <unitdate>1/13/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="otherlevel">
+                    <did>
+                        <unittitle>CPUSA: Southern California Communist Party</unittitle>
+                        <unitdate>8/25/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Democratic Socialists of America</unittitle>
+                        <unitdate>11/25/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="otherlevel">
+                    <did>
+                        <unittitle>Dialectical Marxism: The Writings of Bertell Ollman</unittitle>
+                        <unitdate>07/31/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="otherlevel">
+                    <did>
+                        <unittitle>Early American Marxism: A Repository of Source Material, 1864-1946</unittitle>
+                        <unitdate>09/23/09-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="otherlevel">
+                    <did>
+                        <unittitle>Encyclopedia of Trotskyism Online (ETOL)</unittitle>
+                        <unitdate>12/09/08-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="otherlevel">
+                    <did>
+                        <unittitle>ernie124102</unittitle>
+                        <unitdate>4/14/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="otherlevel">
+                    <did>
+                        <unittitle>Eugene V. Debs Foundation</unittitle>
+                        <unitdate>8/9/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="otherlevel">
+                    <did>
+                        <unittitle>Facebook, Communist Party USA Notes</unittitle>
+                        <unitdate>8/11/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="otherlevel">
+                    <did>
+                        <unittitle>Fight Imperialism Stand Together</unittitle>
+                        <unitdate>07/31/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="otherlevel">
+                    <did>
+                        <unittitle>Freedom Road Socialist Organization</unittitle>
+                        <unitdate>2/25/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Freedom Socialist Party (U.S.)</unittitle>
+                        <unitdate>02/07/2007-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="otherlevel">
+                    <did>
+                        <unittitle>In Defence of Marxism</unittitle>
+                        <unitdate>12/11/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="otherlevel">
+                    <did>
+                        <unittitle>International Bolshevik Tendency</unittitle>
+                        <unitdate>5/8/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="otherlevel">
+                    <did>
+                        <unittitle>International Communist League (Fourth Internationalist)</unittitle>
+                        <unitdate>11/25/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="otherlevel">
+                    <did>
+                        <unittitle>International Socialist Organization (U.S.)</unittitle>
+                        <unitdate>11/20/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="otherlevel">
+                    <did>
+                        <unittitle>Keep On Keepin' On</unittitle>
+                        <unitdate>7/8/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="otherlevel">
+                    <did>
+                        <unittitle>Labor Upfront Newsletter</unittitle>
+                        <unitdate>05/05/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="otherlevel">
+                    <did>
+                        <unittitle>League for the Revolutionary Party - Communist Organization for the Fourth International</unittitle>
+                        <unitdate>03/14/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="otherlevel">
+                    <did>
+                        <unittitle>LeftShift.org</unittitle>
+                        <unitdate>04/20/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="otherlevel">
+                    <did>
+                        <unittitle>Leon Trotsky Internet Archive</unittitle>
+                        <unitdate>12/10/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="otherlevel">
+                    <did>
+                        <unittitle>Lubitz TrotskyanaNet</unittitle>
+                        <unitdate>08/26/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="otherlevel">
+                    <did>
+                        <unittitle>Maoist Internationalist Movements (MIM)</unittitle>
+                        <unitdate>7/22/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="otherlevel">
+                    <did>
+                        <unittitle>Marxism Leninism Today</unittitle>
+                        <unitdate>11/1/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="otherlevel">
+                    <did>
+                        <unittitle>Marxist-Humanist Initiative</unittitle>
+                        <unitdate>1/7/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="otherlevel">
+                    <did>
+                        <unittitle>Marxists Internet Archive</unittitle>
+                        <unitdate>12/23/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="otherlevel">
+                    <did>
+                        <unittitle>Monthly Review: An Independent Socialist Magazine</unittitle>
+                        <unitdate>03/26/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="otherlevel">
+                    <did>
+                        <unittitle>National Committee to Reopen The Rosenberg Case</unittitle>
+                        <unitdate>07/26/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="otherlevel">
+                    <did>
+                        <unittitle>New York State Communist Party</unittitle>
+                        <unitdate>8/11/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="otherlevel">
+                    <did>
+                        <unittitle>News and Letters Committees</unittitle>
+                        <unitdate>03/14/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="otherlevel">
+                    <did>
+                        <unittitle>Next Left Notes</unittitle>
+                        <unitdate>7/13/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="otherlevel">
+                    <did>
+                        <unittitle>North-Atlantic Left Dialogue</unittitle>
+                        <unitdate>5/11/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="otherlevel">
+                    <did>
+                        <unittitle>Northern California CCDS</unittitle>
+                        <unitdate>8/11/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="otherlevel">
+                    <did>
+                        <unittitle>NYC Local of the Socialist Party USA</unittitle>
+                        <unitdate>08/08/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref74" level="otherlevel">
+                    <did>
+                        <unittitle>NYCsocialist.org</unittitle>
+                        <unitdate>11/17/2010</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="otherlevel">
+                    <did>
+                        <unittitle>Peace and Freedom Party</unittitle>
+                        <unitdate>07/31/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="otherlevel">
+                    <did>
+                        <unittitle>People's World</unittitle>
+                        <unitdate>8/11/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref75" level="otherlevel">
+                    <did>
+                        <unittitle>Phillip Bonosky</unittitle>
+                        <unitdate>11/9/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="otherlevel">
+                    <did>
+                        <unittitle>Progressive Labor Party</unittitle>
+                        <unitdate>07/29/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="otherlevel">
+                    <did>
+                        <unittitle>PSLweb (Party for Socialism and Liberation)</unittitle>
+                        <unitdate>08/02/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="otherlevel">
+                    <did>
+                        <unittitle>Radical Women Freedom Socialist Party</unittitle>
+                        <unitdate>09/22/2007-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref85" level="otherlevel">
+                    <did>
+                        <unittitle>Rethinking Marxism</unittitle>
+                        <unitdate>5/9/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="otherlevel">
+                    <did>
+                        <unittitle>RevLeft</unittitle>
+                        <unitdate>12/13/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="otherlevel">
+                    <did>
+                        <unittitle>Revolution Books (New York, NY)</unittitle>
+                        <unitdate>09/22/2007-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="otherlevel">
+                    <did>
+                        <unittitle>Revolution: Voice of the Revolutionary Communist Party, USA</unittitle>
+                        <unitdate>8/13/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="otherlevel">
+                    <did>
+                        <unittitle>Revolutionary Communist Party, USA</unittitle>
+                        <unitdate>09/22/2007-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="otherlevel">
+                    <did>
+                        <unittitle>Revolutionary Workers Group</unittitle>
+                        <unitdate>5/2/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="otherlevel">
+                    <did>
+                        <unittitle>Science and Society</unittitle>
+                        <unitdate>5/1/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="otherlevel">
+                    <did>
+                        <unittitle>SocialDemocratsUSA.org</unittitle>
+                        <unitdate>04/08/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="otherlevel">
+                    <did>
+                        <unittitle>Socialist Alternative</unittitle>
+                        <unitdate>03/14/09-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="otherlevel">
+                    <did>
+                        <unittitle>Socialist Labor Party of America</unittitle>
+                        <unitdate>07/26/09-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="otherlevel">
+                    <did>
+                        <unittitle>Socialist Party USA</unittitle>
+                        <unitdate>09/23/07- </unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="otherlevel">
+                    <did>
+                        <unittitle>Socialist Viewpoint</unittitle>
+                        <unitdate>08/15/09-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="otherlevel">
+                    <did>
+                        <unittitle>Solidarity-US.org</unittitle>
+                        <unitdate>3/26/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="otherlevel">
+                    <did>
+                        <unittitle>Spirit of Haymarket: Communist Party of Illinois Blog</unittitle>
+                        <unitdate>8/11/2010-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="otherlevel">
+                    <did>
+                        <unittitle>The Buckeye Socialist Alternative</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="otherlevel">
+                    <did>
+                        <unittitle>The League</unittitle>
+                        <unitdate>5/18/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="otherlevel">
+                    <did>
+                        <unittitle>The Militant</unittitle>
+                        <unitdate>07/30/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="otherlevel">
+                    <did>
+                        <unittitle>Trotsky.net</unittitle>
+                        <unitdate>12/10/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="otherlevel">
+                    <did>
+                        <unittitle>Weather Underground FBI Report 1976</unittitle>
+                        <unitdate>08/09/2009</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="otherlevel">
+                    <did>
+                        <unittitle>Whittaker Chambers</unittitle>
+                        <unitdate>7/15/2011-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="otherlevel">
+                    <did>
+                        <unittitle>Workers World</unittitle>
+                        <unitdate>07/31/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="otherlevel">
+                    <did>
+                        <unittitle>Workers World Party</unittitle>
+                        <unitdate>07/31/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="otherlevel">
+                    <did>
+                        <unittitle>Young Communist League USA</unittitle>
+                        <unitdate>03/22/2009-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="otherlevel">
+                    <did>
+                        <unittitle>Young Democratic Socialists</unittitle>
+                        <unitdate>11/25/2008-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="otherlevel">
+                    <did>
+                        <unittitle>Young People's Socialist League</unittitle>
+                        <unitdate>09/23/2007-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="otherlevel">
+                    <did>
+                        <unittitle>Young People's Socialist League Reunion</unittitle>
+                        <unitdate>09/28/2007-</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="otherlevel">
+                    <did>
+                        <unittitle>Youth for International Socialism</unittitle>
+                        <unitdate>12/09/2008-</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="unverified-full-draft" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid>rainer</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Yvonne Rainer 
+                    <emph render="italic">Grand Union</emph> performance videotape collection.
+                    <lb/>
+                    <date>1972</date>
+                    <lb/>
+                    <num>MSS 174</num>
+                    <num>MSS 174</num>
+                </titleproper>
+                <author>Finding aid prepared by Processed by Brandon Stosuy, 2003, with additional research by Pamela Smith and Huiming Yu. Additional media processing by Luke Martin and Brent Phillips, 2008.</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from Rainer, Yvonne videotapes\finding aid.doc</p>
+            </editionstmt>
+            <publicationstmt>
+                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <address>
+                    <addressline>Fales Library and Special Collections</addressline>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY 10012</addressline>
+                    <addressline>Phone: (212) 998-2596</addressline>
+                    <addressline>Email: fales.library@nyu.edu</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2013-10-01T11:11-0400</date>
+            </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Yvonne Rainer 
+                <emph render="italic">Grand Union</emph> Performance Videotape Collection</unittitle>
+            <unitid>MSS 174</unitid>
+            <repository>
+                <corpname>© 2012 Fales Library and Special Collections</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.5 linear feet</extent>
+            </physdesc>
+            <unitdate>1972</unitdate>
+            <abstract id="ref3" label="Abstract">The collection consists of seven videotapes which document a series of Grand Union performances that took place on May 28, 1972 at the Joe LoGiudice Gallery at 59 Wooster Street in SoHo.</abstract>
+        </did>
+        <custodhist id="ref5">
+            <head>Provenance</head>
+            <p>The videotapes were donated to the Fales Library by Yvonne Rainer in 2002.</p>
+        </custodhist>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>Open to researchers. Appointments are necessary to consult manuscript and archives material.</p>
+        </accessrestrict>
+        <userestrict id="ref7">
+            <head>Use Restrictions</head>
+            <p>Collection use is subject to all copyright laws. Permission to publish materials must be obtained in writing from the Director of Fales Library and Special Collections. Please contact fales.library@nyu.edu. or call 212 998 2596.</p>
+        </userestrict>
+        <prefercite id="ref8">
+            <head>Preferred Citation</head>
+            <p>Published citations should take the following form:
+                <lb/>
+                <lb/>Identification of item, date (if known); The Yvonne Rainer 
+                <emph render="italic">Grand Union</emph> Performance Videotape Collection; MSS 174; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+        </prefercite>
+        <bioghist id="ref9">
+            <head>Historical Note</head>
+            <p>The Grand Union was a collective of nine choreographers/ dancers who performed group improvisations from 1970 to 1976. The group evolved out of work by Yvonne Rainer, in particular, 
+                <emph render="italic">Continuous Project-Altered Daily</emph>, yet Rainer purposefully subverted her role as leader; each member had an equal give-and-take in the creation and process of the performance. The Grand Union embraced dance, theater, and theatrics in an ongoing investigation into the nature of dance and performance. Performers included David Gordon, Stephen Paxton, Barbara Dilley, Nancy Lewis, Lincoln Scott, Becky Arnold and Douglas Dunn.</p>
+            <p>Grand Union's performances included both spontaneous and choreographed behaviors-using gesture, dance and voice-manipulating objects or bodies as objects, accompanied by a loosely constructed soundtrack of contemporary songs, music and silence. As Sally Banes writes in 
+                <emph render="italic">Terpsichore in Sneakers</emph>, "Just as their concerns varied, the persona each member of the Grand Union projected in performance could shift enormously from one night to the next, from one section of a single performance to another… widely divergent styles and concerns, working within a framework that encouraged provocation, as well as cooperation." Each performance was unpredictable, unrepeatable and ephemeral.</p>
+        </bioghist>
+        <scopecontent id="ref10">
+            <head>Scope and Content Note</head>
+            <p>The collection consists of seven videotapes which document a series of Grand Union performances that took place on May 28, 1972 at the Joe LoGiudice Gallery at 59 Wooster Street in SoHo. The performers are Trisha Brown, Barbara Dilley, Douglas Dunn, David Gordon, Nancy Green, Steve Paxton, and Yvonne Rainer. The original footage was shot on ½" open reel videotape by Gary Bower, Ron Clark, and Jamie Dearing and produced by Carlota Schoolman. In the late 1970's, Schoolman made ¾" U-Matic dubmasters of the original reels. In a letter to Yvonne Rainier, Schoolman suggested that this second set was incomplete, "missing the second half," possibly because she sent a tape to someone in London. In 1992, Middlemarch Films made another set of ¾" U-Matic dubs from the dubmasters for a documentary on postmodern dance. The material was not used in the documentary because of objections from Trisha Brown and Steve Paxton. In 2002, this set was given to the Fales Library and Special Collections by Yvonne Rainer. Preservation masters and research copies of the 7 tapes were made in April 2003 by Vidipax (Job #3947). Original numbering of tapes, eg. #D222, was applied by Middlemarch Films. Fales Media Object ID numbers, eg. #174.0001, were assigned in October 2005.</p>
+        </scopecontent>
+        <arrangement id="ref11">
+            <head>Arrangement</head>
+            <p>Material is arranged according to preexisting numerical order. Tape 2 was not part of acquisition.</p>
+            <list numeration="arabic" type="ordered">
+                <item>Series I: Videotapes - The Grand Union, May 1972</item>
+            </list>
+        </arrangement>
+        <relatedmaterial id="ref46">
+            <head>Related Material at Fales Library and Special Collections</head>
+            <p>
+                <extref ns2:href="http://dlib.nyu.edu/findingaids/html/fales/alexander.html">Robert Alexander Papers</extref></p>
+            <p>
+                <extref ns2:href="http://dlib.nyu.edu/findingaids/html/fales/judson.html">Judson Memorial Church Archive</extref></p>
+        </relatedmaterial>
+        <separatedmaterial id="ref47">
+            <head>Separated Material</head>
+            <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+        </separatedmaterial>
+        <controlaccess>
+            <persname source="naf">Bower, Gary, 1940-</persname>
+            <persname source="naf">Brown, Trisha, 1936-</persname>
+            <persname source="ingest">Clark, Ron</persname>
+            <persname source="local">Dearing, Jamie</persname>
+            <persname source="local">Dilley, Barbara</persname>
+            <persname source="naf">Dunn, Douglas, 1942-</persname>
+            <persname source="naf">Gordon, David, 1936-</persname>
+            <persname source="ingest">Green, Nancy</persname>
+            <persname source="naf">Paxton, Steve</persname>
+            <persname source="naf">Rainer, Yvonne, 1934-</persname>
+            <persname source="local">Schoolman, Carlota</persname>
+            <corpname source="ingest">The Grand Union</corpname>
+            <subject source="lcsh">Dance |z United States.</subject>
+            <subject source="lcsh">Modern dance.</subject>
+            <geogname source="lcsh">New York (N.Y.)</geogname>
+            <genreform source="aat">Videotapes.</genreform>
+        </controlaccess>
+        <dsc>
+            <c id="ref12" level="series">
+                <did>
+                    <unittitle>Series I: Videotapes - The Grand Union, May 1972</unittitle>
+                </did>
+                <scopecontent id="ref45">
+                    <head>Scope and Contents note</head>
+                    <p>Contains all video materials in collection. Each subsequent tape is a contuation of the one previous constituting a single performance. Tape 2 was not part of acquisition.</p>
+                </scopecontent>
+                <c id="ref29" level="subseries">
+                    <did>
+                        <unittitle>Subseries A: Video Recordings</unittitle>
+                    </did>
+                    <scopecontent id="ref44">
+                        <head>Scope and Contents note</head>
+                        <p>Subseries B includes original donated 3/4" Umatic tapes. See previous subseries for researcher access copies.</p>
+                    </scopecontent>
+                    <c id="ref30" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 1</unittitle>
+                            <container id="cid18424001" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424001" type="Media">ID: 174.0001</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref48">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union.</p>
+                        </scopecontent>
+                        <accessrestrict id="ref49">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                        <phystech id="ref31">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 01:02:00</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                    </c>
+                    <c id="ref32" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 3</unittitle>
+                            <container id="cid18424002" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424002" type="Media">ID: 174.0004</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref50">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union.</p>
+                        </scopecontent>
+                        <phystech id="ref33">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 01:01:19</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                        <accessrestrict id="ref51">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                    </c>
+                    <c id="ref34" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 4</unittitle>
+                            <container id="cid18424003" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424003" type="Media">ID: 174.0007</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref52">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union.</p>
+                        </scopecontent>
+                        <accessrestrict id="ref53">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                        <phystech id="ref35">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 00:10:10</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                    </c>
+                    <c id="ref36" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 5</unittitle>
+                            <container id="cid18424004" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424004" type="Media">ID: 174.0011</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref54">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union.</p>
+                        </scopecontent>
+                        <accessrestrict id="ref55">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                        <phystech id="ref37">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 00:59:06</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                    </c>
+                    <c id="ref38" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 6</unittitle>
+                            <container id="cid18424005" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424005" type="Media">ID: 174.0013</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref56">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union.</p>
+                        </scopecontent>
+                        <accessrestrict id="ref57">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                        <phystech id="ref39">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 00:32:08</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                    </c>
+                    <c id="ref40" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 7</unittitle>
+                            <container id="cid18424006" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424006" type="Media">ID: 174.0016</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref58">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union.</p>
+                        </scopecontent>
+                        <accessrestrict id="ref59">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                        <phystech id="ref41">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 01:02:02</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                    </c>
+                    <c id="ref42" level="otherlevel">
+                        <did>
+                            <unittitle>The Grand Union, Tape 8</unittitle>
+                            <container id="cid18424007" type="Box" label="Moving Images">1</container>
+                            <container parent="cid18424007" type="Media">ID: 174.0020</container>
+                            <unitdate>May 1972</unitdate>
+                        </did>
+                        <scopecontent id="ref60">
+                            <head>Scope and Content</head>
+                            <p>Documentation of May 1972 dance performance by the Grand Union. Includes almost twenty minutes of after show footage.</p>
+                        </scopecontent>
+                        <accessrestrict id="ref62">
+                            <head>Conditions Governing Access</head>
+                            <p>Access DVD available by appointment only.</p>
+                        </accessrestrict>
+                        <phystech id="ref43">
+                            <head>Physical Characteristics and Technical Requirements note</head>
+                            <p>Format: DVD</p>
+                            <p>Black &amp; White, Sound</p>
+                            <p>TRT: 00:57:34</p>
+                            <p>Original Format: 3/4" Umatic</p>
+                        </phystech>
+                    </c>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>

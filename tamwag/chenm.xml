@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">chenm</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Brief Description of the May Chen Papers
+                    <num>WAG 301</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+                <date>2010</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Brief EAD; Inventory, Folder Level (partial) (Word)</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2011-07-30T14:29-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>May Chen Papers</unittitle>
+            <unitid>WAG 301</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>9.0 linear feet</extent>
+                <extent>(9 boxes)</extent>
+            </physdesc>
+            <unitdate normal="1980/2009" type="inclusive">1980-2009</unitdate>
+            <origination label="creator">
+                <persname source="local">Chen, May Ying</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Historical/Biographical Note</head>
+            <p>May Chen (1948- ) is a labor organizer who for more than twenty years has been actively engaged in outreach and advocacy for immigrant workers. Born and raised in Boston, MA, she worked as a high school teacher, wrote for the Asain-American publications 
+                <emph render="italic">Gidra</emph> and 
+                <emph render="italic">Roots</emph>, founded a day-care center that employed mainly immigrant women, and served as a local officer (Local 23-25) and International Vice President of the International Ladies Garment Workers Union (later UNITE, UNITE/HERE, and Workers United).</p>
+        </bioghist>
+        <userestrict id="ref4">
+            <head>Use Restrictions</head>
+            <p>Permission to publish materials must be obtained in writing from the: 
+                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
+                <lb/> Elmer Holmes Bobst Library 
+                <lb/> 70 Washington Square South 
+                <lb/> New York, NY 10012 
+                <lb/> Phone: (212) 998-2630 
+                <lb/> Fax: (212) 995-4225 
+                <lb/> E-mail: peter.filardo@nyu.edu 
+                <lb/></p>
+        </userestrict>
+        <scopecontent id="ref2">
+            <head>Scope and Content Note</head>
+            <p>Most of the files in this collection relate to two components of May Chen’s work as a labor organizer and community activist in the New York's Chinatown from 1989 to 2005. The first component is organizing Chinese immigrant garment workers to fight sweatshop conditions. These files contain newspaper clippings, logistic planning documents, meeting notes, contact lists, press releases, flyers and memos for UNITE’s Chinatown Rally to Stop Sweatshops on August 28, 1998. The other component of Chen’s collection consists of advocacy work to aid Chinatown’s economic recovery after 9/11. These files include reports and conference materials relating to a variety of organizations, for example, Asian Americans for Equality’s Rebuild Chinatown Initiative, the Asian American Federation’s economic impact study of Chinatown after Sept 11th, and the Asian American Leadership Conference, "Healing and Rebuilding in New York," held on May 10, 2002. In addition, there are materials relating to Chen’s work as a founding member and executive officer of the Asian-Pacific American Labor Alliance (APALA); these include a constitution and chapter by-laws, an application for tax exempt status, contact mailing lists, an executive board directory, and a directory of Asian-American organizations in New York and California. A preliminary inventory of the first five boxes is available on request.</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="local" role="Donor (dnr)">Chen, May Ying</persname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

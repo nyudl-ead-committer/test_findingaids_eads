@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Unprocessed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL">science_and_society</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Science &amp; Society Editorial Files
+                    <num>TAM 555</num>
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library / Wagner Archives</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@nyu.edu</addressline>
+                </address>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Brief EAD; X-Collection List</p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-10-19T13:11-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Science &amp; Society Editorial Files</unittitle>
+            <unitid>TAM 555</unitid>
+            <repository>
+                <corpname>Tamiment Library / Wagner Archives</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <container id="cid19950001" type="Box" label="Mixed materials">1-7</container>
+            <physdesc>
+                <extent>7.0 linear feet</extent>
+                <extent>(7 boxes)</extent>
+            </physdesc>
+            <unitdate>c. 1960s - 2000s</unitdate>
+            <origination label="creator">
+                <corpname source="local">Science &amp; Society (Periodical).</corpname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Historical/Biographical Note</head>
+            <p>
+                <emph render="italic">Science &amp; Society</emph>, is a scholarly Marxist quarterly (1936- ) then and for many years thereafter associated with the Communist Party USA. The journal is interdisciplinary, applying a Marxist perspective to a broad range of topics; however, political economy is the most frequently represented topic, followed by Marxist philosophy, the history of communist movements, and other topics.</p>
+        </bioghist>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of files from the editorial staff of 
+                <emph render="italic">Science &amp; Society</emph>. Most of the files are author files, which have correspondence to and from the authors, as well as nd usually, submitted manuscripts, regardless of whether or not they were published. There are other folders labeled correspondence, presumably concerning business, management, policy and political matters.</p>
+            <p>FOR MORE INFORMATION, CONTACT: peter.filardo@nyu.edu</p>
+        </scopecontent>
+        <controlaccess>
+            <persname source="ingest">Gettleman, Marvin E.</persname>
+            <persname source="naf">Marx, Karl, 1818-1883.</persname>
+            <subject source="lcsh">Communism |x Periodicals</subject>
+            <subject source="local">Communism |xHistory |v Periodicals</subject>
+            <subject source="lcsh">Marxian economics |x Periodicals</subject>
+            <subject source="local">Philosophy, Marxist |x Periodicals</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
