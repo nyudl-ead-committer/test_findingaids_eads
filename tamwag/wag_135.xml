@@ -25,7 +25,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-12-10T11:58-0500</date>
+                <date>2014-04-02T16:25-0400</date>
             </creation>
             <langusage>Finding aid is written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -145,7 +145,7 @@
             <genreform source="aat">Bylaws (administrative records).</genreform>
             <subject source="lcsh">Collective labor agreements |x Bakery employees.</subject>
             <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Labor unions |z United States</subject>
+            <subject source="lcsh">Labor unions |z United States.</subject>
             <genreform source="aat">Legal documents.</genreform>
             <genreform source="aat">Minutes.</genreform>
             <geogname source="lcsh">New York (N.Y.)</geogname>
@@ -7025,7 +7025,7 @@
                     <did>
                         <unittitle>Box 30</unittitle>
                         <container id="cid22763004" type="Box" label="Mixed materials">30</container>
-                        <unitdate normal="1971/1979" type="inclusive">1971-1979</unitdate>
+                        <unitdate normal="1971/1980" type="inclusive">1971-1980</unitdate>
                     </did>
                 </c>
                 <c id="ref902" level="otherlevel">

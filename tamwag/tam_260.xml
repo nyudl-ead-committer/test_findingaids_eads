@@ -22,7 +22,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-03-27T14:35-0400</date>
+                <date>2014-04-02T12:30-0400</date>
             </creation>
             <langusage>Finding aid is written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -121,6 +121,10 @@
             <p>Subseries II:G: Miscellaneous Events, 1929-1989</p>
             <p>Series III: Photographs, 1929-1988</p>
         </arrangement>
+        <separatedmaterial id="ref183">
+            <head>Separated Materials</head>
+            <p>A set of 38 reproductions "Posters of the Russian Revolution, 1917-1929" were transferred to the Tamiment Library Posters and Broadsides Collection (GRAPHICS 002), as were four original pen and ink cartoons by Fred Wright.</p>
+        </separatedmaterial>
         <scopecontent id="ref10">
             <head>Scope and Contents note</head>
             <p>The collection contains photocopies of three scrapbooks, which were disassembled during processing, and the original clippings, correspondence and approximately two hundred photographs which were included in the scrapbooks. There is also a limited amount of additional correspondence and ephemera which has been incorporated into Series I of this collection. Notable individuals represented in the correspondence files include Cesar Chavez, Congressman William F. Ryan, Rockwell Kent, Michael Quill, Albert Shanker, and Pete Seeger. The clippings and photographs from the scrapbooks document the construction of the Chrysler and Empire State buildings, labor organizing, anti-war demonstrations (both before WWII and during the Vietnam War), as well as demonstrations against fascism in Greece and in favor of disarmament.</p>
@@ -135,10 +139,6 @@
             <p>Series II of this collection has been microfilmed (R-7850) and must be used in that format. For a complete list linking shoot numbers to reel and frame numbers on the microfilm, go to: 
                 <extref ns2:href="http://www.nyu.edu/library/bobst/research/tam/rivers_micro.pdf">http://www.nyu.edu/library/bobst/research/tam/rivers_micro.pdf </extref> Please note that in the container list for Series II, shoot numbers are listed in the column for "item."</p>
         </altformavail>
-        <separatedmaterial id="ref183">
-            <head>Separated Materials</head>
-            <p>A set of 38 reproductions "Posters of the Russian Revolution, 1917-1929" were transferred to the Tamiment Library Posters and Broadsides Collection (GRAPHICS 002), as were four original pen and ink cartoons by Fred Wright.</p>
-        </separatedmaterial>
         <controlaccess>
             <persname source="ingest">Chavez, Cesar, 1927-1993 -- |v Correspondence</persname>
             <corpname source="ingest">Communist Party of the United States of America.</corpname>
