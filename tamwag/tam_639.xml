@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="CollectionLevel" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_639/">tam_639</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Sylvia Hall Thompson Papers
+                    <num>TAM.639</num>
+                </titleproper>
+                <author>Finding aid prepared by Heather Mulliner</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
+                <address>
+                    <addressline>Elmer Holmes Bobst Library</addressline>
+                    <addressline>70 Washington Square South</addressline>
+                    <addressline>New York, NY, 10012</addressline>
+                    <addressline>(212) 998-2630</addressline>
+                    <addressline>tamiment.wagner@library.nyu.edu</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-04-03T14:29-0400</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Sylvia Hall Thompson Papers</unittitle>
+            <unitid>TAM.639</unitid>
+            <repository>
+                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 linear feet</extent>
+            </physdesc>
+            <unitdate normal="1950/1985" type="inclusive">1951-1985</unitdate>
+            <abstract id="ref7" label="Abstract">This collection contains the papers of union organizer and Communist Party member Sylvia Hall Thompson (1924-1912). Thompson's papers primarily consists of Freedom of Information Act release files related to Federal Bureau of Investigation surveillance of Hall throughout the 1950s and 1960s. The collection also contains a small portion of related to Sylvia's husbands Samuel Hall and Robert Thompson.</abstract>
+            <langmaterial id="ref5" label="Language of Materials note">Materials are in English</langmaterial>
+            <physloc id="ref9" label="Location note">Materials are located at the Tamiment Library.</physloc>
+        </did>
+        <bioghist id="ref1">
+            <head>Historical/Biographical Note</head>
+            <p>Sylvia Hall Thompson was born Sylvia Bernard in 1924 in San Antonio, Texas. As a young woman, she joined the Communist Party and helped launch the Civil Rights Congress in Texas. In 1947, she traveled to North Carolina where she spent more than a year organizing electrical workers to join the union. It was there that she met her first husband, Sam Hall, a district organizer for the Party. The young couple moved to Birmingham, Alabama where, as open communists, they endured constant surveillance, threats and break-ins.</p>
+            <p>After Hall’s death, Sylvia moved to New York City where she went to work for the state Party office and met her second husband, Robert G. Thompson in late 1957. Bob Thompson had been a battalion commander with the Lincoln Brigade in Spain, and went on to receive one of the highest medals for valor – the Distinguished Service Cross – for his heroic actions in the Pacific Theater in World War II.</p>
+            <p>When he died in 1965, Sylvia sought and received permission from the Army to have his ashes interred in Arlington National Cemetery. However, when publicity about Bob’s previous imprisonment as a Smith Act defendant surfaced, the Army reversed itself and denied the widow’s request. Sylvia contested the Army's decision and in 1968, a federal appeals court ordered the Army to inter Bob Thompson’s ashes.</p>
+            <p>In subsequent years, Sylvia became a mainstay in the New York office of the Veterans of the Abraham Lincoln Brigade, working with veterans and organizing the annual reunions. Thompson passed away in 2012.</p>
+        </bioghist>
+        <scopecontent id="ref3">
+            <head>Scope and Content Note</head>
+            <p>This collection contains the papers of union organizer and Communist Party member Sylvia Hall Thompson. Thompson's papers primarily consists of Freedom of Information Act release files related to Federal Bureau of Investigation surveillance of Hall throughout the 1950s and 1960s. The collection also contains a small portion of related to Sylvia's husbands Samuel Hall and Robert Thompson. Materials related to Sylvia's first husband Samuel Hall are comprised of a marriage certificate, photographs, Sylvia Hall Thompson's reminisces of her husband, and clippings related to Hall's activism and his death in 1954. Material related to her second husband Robert Thompson include a marriage certificate, correspondence, photographs, and materials related to Sylvia's effort to have her husband buried in Arlington National Cemetery. The collection also contain several articles by Robert Thompson, which were published in Political Affairs and materials related to Sylvia Hall Thompson's involvement in with the Veterans of the Abraham Lincoln Brigades.</p>
+        </scopecontent>
+        <accessrestrict id="ref6">
+            <head>Access Restrictions</head>
+            <p>Open for research without restrictions.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Sylvia Thompson bequeathed two boxes of her personal papers to Tamiment Library in 2013. The accession number associated with this gift is 2013.047.</p>
+        </acqinfo>
+        <processinfo id="ref10">
+            <head>Processing Information note</head>
+            <p>At the time of accessioning, materials were moved into archival housing, and a collection-level finding aid was created to describe these materials. No physical processing or arrangement was done at this time.</p>
+        </processinfo>
+        <userestrict id="ref8">
+            <head>Use Restrictions</head>
+            <p>Copyright to materials in this collection created by donor are held by donor. Permission to publish or reproduce materials to which s/he holds copyright must be secured from the Tamiment Library and the copyright holder.</p>
+        </userestrict>
+        <prefercite id="ref11">
+            <head>Preferred Citation</head>
+            <p>Identification of item, date; Sylvia Hall Thompson Papers; TAM 639; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+        </prefercite>
+        <appraisal id="ref12">
+            <head>Appraisal note</head>
+            <p>No materials were separated from this collection.</p>
+        </appraisal>
+        <arrangement id="ref13">
+            <head>Arrangement</head>
+            <p>The order in which these materials were sent to the Tamiment Library has been maintained.</p>
+        </arrangement>
+        <controlaccess>
+            <persname rules="dacs" source="local">Hall, Samuel Joseph, 1910-1954</persname>
+            <persname source="local">Thompson, Robert George, 1915-1966.</persname>
+            <persname rules="dacs" source="local">Thompson, Sylvia, 1924-2012</persname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

@@ -11,7 +11,7 @@
                 <author>Finding aid prepared by Laura Newsome, 2010.</author>
             </titlestmt>
             <publicationstmt>
-                <publisher>© 2012 Fales Library and Special Collections</publisher>
+                <publisher>Fales Library and Special Collections</publisher>
                 <address>
                     <addressline>Fales Library and Special Collections</addressline>
                     <addressline>Elmer Holmes Bobst Library</addressline>
@@ -25,8 +25,10 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-05-09T10:43-0400</date>
+                <date>2014-04-03T16:05-0400</date>
             </creation>
+            <langusage>Description is in 
+                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
         </profiledesc>
     </eadheader>
     <archdesc level="collection">
@@ -34,7 +36,7 @@
             <unittitle>Tammy Rae Carland "I (heart) Amy Carter" Riot Grrrl Collection</unittitle>
             <unitid>MSS 290</unitid>
             <repository>
-                <corpname>© 2012 Fales Library and Special Collections</corpname>
+                <corpname>Fales Library and Special Collections</corpname>
             </repository>
             <langmaterial>
                 <language langcode="eng"/>
@@ -44,7 +46,7 @@
                 <extent>(2 boxes)</extent>
             </physdesc>
             <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
-            <abstract id="ref135" label="Abstract">Tammy Tae Carland is a Professor at the California College of the Arts where she also chairs the Photography Program. In the 1990's Carland produced a series of fanzines, including 
+            <abstract id="ref135" label="Abstract">Tammy Rae Carland is a Professor at the California College of the Arts where she also chairs the Photography Program. In the 1990's Carland produced a series of fanzines, including 
                 <emph render="italic">I (heart) Amy Carter</emph> and 
                 <emph render="italic">Thorn</emph>. From 1997-2005 she co-ran Mr. Lady Records and Videos, an independent record label and video art distribution company that was dedicated to the production and distribution of queer and feminist culture. The Collection consists of zines 
                 <emph render="italic">I (heart) Amy Carter</emph>, 

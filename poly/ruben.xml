@@ -4,7 +4,7 @@
         <filedesc>
             <titlestmt>
                 <titleproper>Samuel Ruben Papers, 1923-1979
-                    <num>RG.15</num>
+                    <num>RG.015</num>
                 </titleproper>
                 <author>Finding aid prepared by Nicole Lindberg Richard</author>
             </titlestmt>
@@ -22,7 +22,7 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-08-02T16:17-0400</date>
+                <date>2014-04-03T15:44-0400</date>
             </creation>
             <langusage>English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
@@ -31,7 +31,7 @@
     <archdesc level="collection">
         <did>
             <unittitle>Guide to the Samuel Ruben Papers, 1923-1979</unittitle>
-            <unitid>RG.15</unitid>
+            <unitid>RG.015</unitid>
             <repository>
                 <corpname>Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology</corpname>
             </repository>
@@ -59,7 +59,7 @@
         <prefercite id="ref200">
             <head>Preferred Citation note</head>
             <p>Published citations should take the following form:</p>
-            <p>Identification of item, date (volume, issue, page); Samuel Ruben Papers; box number; folder number; Bern Dibner Library; Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology.</p>
+            <p>Identification of item, date; RG-015: Samuel Ruben Papers; box number; folder number; Poly Archives &amp; Special Collections at Bern Dibner Library of Science and Technology.</p>
         </prefercite>
         <scopecontent id="ref201">
             <head>Scope and Contents note</head>
@@ -1616,8 +1616,8 @@
                 <c id="ref215" level="file">
                     <did>
                         <unittitle>The Ruben Scholarships</unittitle>
-                        <container id="cid166001" type="Box" label="Text">4</container>
-                        <container parent="cid166001" type="Folder">1</container>
+                        <container id="cid166001" type="Box" label="Text">3</container>
+                        <container parent="cid166001" type="Folder">11</container>
                         <unitdate>1967</unitdate>
                     </did>
                 </c>
@@ -1632,6 +1632,8 @@
                 <c id="ref217" level="file">
                     <did>
                         <unittitle>Articles</unittitle>
+                        <container id="cid172001" type="Box" label="Text">3</container>
+                        <container parent="cid172001" type="Folder">12</container>
                         <unitdate>1967-1968</unitdate>
                     </did>
                 </c>

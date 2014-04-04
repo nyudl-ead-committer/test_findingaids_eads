@@ -21,15 +21,15 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2014-04-02T18:29-0400</date>
+                <date>2014-04-03T16:33-0400</date>
             </creation>
             <langusage>Finding aid is in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
         <revisiondesc>
             <change>
-                <date>3/31/2014</date>
-                <item>Boxes 60-62 added by Rachel Schimke</item>
+                <date>4/2/2014</date>
+                <item>Boxes 60-63 added by Rachel Schimke</item>
             </change>
         </revisiondesc>
     </eadheader>
@@ -44,8 +44,8 @@
                 <language langcode="eng"/>
             </langmaterial>
             <physdesc>
-                <extent>60.75 linear feet</extent>
-                <extent>in 60 record cartons and 2 manuscript boxes</extent>
+                <extent>61.5 linear feet</extent>
+                <extent>in 60 record cartons, 2 manuscript boxes, and 1 oversize flat box</extent>
             </physdesc>
             <unitdate normal="1971/2011" type="inclusive">1971-2011</unitdate>
             <abstract id="ref2" label="Abstract">The New York Committee for Occupational Safety and Health (NYCOSH) was founded in 1976 to advocate for safe and healthy workplaces. NYCOSH bases much of its advocacy on the Occupational Safety and Health Act of 1970 and has helped spearhead successful efforts to preserve the Federal Occupational Safety and Health Administration (OSHA). The collection includes minutes of membership, steering committee, health and technical committee, personnel committee, political education committee and workers' compensation committee meetings, general correspondence, requests for assistance, membership records, course materials, publicity flyers, fact sheets, newsletters, fund raising materials, pamphlets, lobbying materials, and educational materials.</abstract>
@@ -55,6 +55,10 @@
                 <corpname source="ingest">New York Committee for Occupational Safety and Health.</corpname>
             </origination>
         </did>
+        <processinfo id="ref1155">
+            <head>Processing Information note</head>
+            <p>Some materials from the 2012 and 2014 accessions were placed in archival housing. Loose materials were placed in archival folders.</p>
+        </processinfo>
         <bioghist id="ref3">
             <head>Historical/Biographical Note</head>
             <p>The New York Committee for Occupational Safety and Health (NYCOSH) was founded in 1976 to advocate for safe and healthy workplaces. NYCOSH bases much of its advocacy on the Occupational Safety and Health Act of 1970 and has helped spearhead successful efforts to preserve the Federal Occupational Safety and Health Administration (OSHA).</p>
@@ -71,8 +75,13 @@
             <head>Arrangement</head>
             <p>The collection is arranged into three series:</p>
             <p>Series I: Management, 1977-1989
-                <lb/> Series II: Activities, 1979-1987
-                <lb/> Series III: Unprocessed Material, 1971-2011
+                <lb/></p>
+            <p>Series II: Activities, 1979-1987
+                <lb/> Subseries A: The Committee to Save OSHA, 1979-1983
+                <lb/> Subseries B: NYCOSH (New York Committee for Occupational Safety and Health) Conferences, 1980-1986
+                <lb/> Subseries C: Health and Safety Activities and Information, 1981-1987
+                <lb/></p>
+            <p>Series III: Unprocessed Material, 1971-2011
                 <lb/></p>
             <p>Series I is arranged by function and then alphabetically. Series II is arranged by activity and then by date. Series III has not been arranged by an archivist.</p>
         </arrangement>
@@ -94,6 +103,12 @@
             <head>Use Restrictions</head>
             <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2126. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
         </userestrict>
+        <acqinfo id="ref1153">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Gift of the New York Committee for Occupational Safety and Health, 1985. Additional donations were made in 2005 and 2009.</p>
+            <p>Two additional donations, comprising the materials in Boxes 57-59, were made in 2012. The accession numbers associated with these gifts are 2012.015 and 2012.023.</p>
+            <p>Another two additional donations, comprising the materials in Boxes 60-63, were made in 2014. The accession numbers associated with these gifts are 2014.010 and 2014.016.</p>
+        </acqinfo>
         <controlaccess>
             <corpname source="ingest">New York Committee for Occupational Safety and Health.</corpname>
             <persname source="ingest">Shufro, Joel A., 1943-</persname>
@@ -2721,6 +2736,10 @@
                 <did>
                     <unittitle>Series III: Unprocessed Material, 1971-2011</unittitle>
                 </did>
+                <scopecontent id="ref1154">
+                    <head>Scope and Content Note</head>
+                    <p>The unprocessed materials in this collection relate to various health and safety campaigns. General information and research on these issues is also included. Major health and workers' issues documented include asbestos, needlestick injuries, workers' compensation, VDTs, and reproductive health. Professions represented in this series include teachers, transportation workers, government employees, health care employees, and others. NYCOSH's advocacy and general information on these issues are documented through correspondence, reports, fliers, pamphlets, posters, newsletters, government documents, news clippings, conference materials, financial records, and other materials.</p>
+                </scopecontent>
                 <c id="ref1073" level="file">
                     <did>
                         <unittitle>Box 8</unittitle>
@@ -3203,6 +3222,7 @@
                     <did>
                         <unittitle>Box 57</unittitle>
                         <container id="cid23046709" type="Box" label="Mixed Materials">57</container>
+                        <unitdate>circa 1990-2009</unitdate>
                     </did>
                     <scopecontent id="ref1064">
                         <head>Scope and Content Note</head>
@@ -3213,6 +3233,7 @@
                     <did>
                         <unittitle>Box 58</unittitle>
                         <container id="cid23046708" type="Box" label="Mixed Materials">58</container>
+                        <unitdate>circa 1990-2009</unitdate>
                     </did>
                     <scopecontent id="ref1063">
                         <head>Scope and Content Note</head>
@@ -3233,7 +3254,7 @@
                 <c id="ref1058" level="file">
                     <did>
                         <unittitle>Box 60</unittitle>
-                        <container id="cid23099002" type="Box" label="Mixed materials">60</container>
+                        <container id="cid23099002" type="Box" label="Mixed materials (31142054628956)">60</container>
                         <unitdate>circa 1980-2011</unitdate>
                     </did>
                     <scopecontent id="ref1150">
@@ -3244,7 +3265,7 @@
                 <c id="ref1056" level="file">
                     <did>
                         <unittitle>Box 61</unittitle>
-                        <container id="cid23099001" type="Box" label="Mixed materials">61</container>
+                        <container id="cid23099001" type="Box" label="Mixed materials (31142054628964)">61</container>
                         <unitdate normal="1989/2003" type="inclusive">1989-2003</unitdate>
                     </did>
                     <scopecontent id="ref1057">
@@ -3256,9 +3277,20 @@
                 <c id="ref1059" level="file">
                     <did>
                         <unittitle>Ingoing and Outgoing Correspondence</unittitle>
-                        <container id="cid23099003" type="Box" label="Mixed materials">62</container>
+                        <container id="cid23099003" type="Box" label="Mixed materials (31142054628972)">62</container>
                         <unitdate>2003-2011</unitdate>
                     </did>
+                </c>
+                <c id="ref1151" level="file">
+                    <did>
+                        <unittitle>Box 63</unittitle>
+                        <container id="cid23103001" type="Box" label="Mixed materials">63</container>
+                        <unitdate>1981-2011</unitdate>
+                    </did>
+                    <scopecontent id="ref1152">
+                        <head>Scope and Content Note</head>
+                        <p>This box contains a mockup of a poster for the NYCOSH-sponsored Right to Know Conference in 1981, a poster for the centennial commemoration of the Triangle Shirtwaist Factory fire, and three poster advertisements regarding workers' compensation for 9/11 responders (one in Spanish). There are also several federal, state, and local government proclamations recognizing Workers Memorial Days and Teen Worker Safety Month, as well as a "VDT Safety Now!" button and an informational booklet created by the New York State Public Employees Federation, AFL-CIO on Public Employees Safety and Health (PESH)Act/OSHA standards.</p>
+                    </scopecontent>
                 </c>
             </c>
         </dsc>
