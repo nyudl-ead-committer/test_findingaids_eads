@@ -1,238 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_074/">alba_074</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Media Entertainment, Inc. Oral History Collection
-                    <num>ALBA.074</num>
-                </titleproper>
-                <author>Finding aid prepared by Bonnie Gordon.</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library and Robert F. Wagner Labor Archive</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@library.nyu.edu</addressline>
-                </address>
-                <date>May 2013, 2013.5.1</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2013-08-02T12:07-0400</date>
-            </creation>
-            <langusage>Finding aid written in English.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Media Entertainment, Inc. Oral History Collection</unittitle>
-            <unitid>ALBA.074</unitid>
-            <repository>
-                <corpname>Tamiment Library and Robert F. Wagner Labor Archive</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>1.25 linear feet</extent>
-                <extent>in 3 manuscript boxes.</extent>
-            </physdesc>
-            <unitdate normal="1996/1996">1996</unitdate>
-            <abstract id="ref23" label="Abstract">Consists of videos and transcripts for eleven interviews conducted in 1996 for the documentary In Search of the Lincoln Brigade (c.1999).</abstract>
-            <langmaterial id="ref27" label="Language of Materials note">Materials are in English</langmaterial>
-            <origination label="creator">
-                <corpname source="naf">Media Entertainment, Inc.</corpname>
-            </origination>
-        </did>
-        <scopecontent id="ref1">
-            <head>Scope and Contents note</head>
-            <p>Consists of videos and transcripts for eleven interviews conducted in 1996 for the documentary 
-                <title render="italic">In Search of the Lincoln Brigade</title> (c.1999). The interviewees are: Morris Brier, Ralph Fasanella, Milt Felsen, Harry Fisher, Moe Fishman, Leonard Levenson, Abe Smorodin, Bill Sussman, Anthony Toney, Bill Van Felix, and Milt Wolff.</p>
-        </scopecontent>
-        <arrangement id="ref24">
-            <head>Arrangement</head>
-            <p>Materials are arranged alphabetically.</p>
-        </arrangement>
-        <userestrict id="ref31">
-            <head>Use Restrictions</head>
-            <p>Copyright status is unknown. Permission to publish materials must be obtained in writing from the: 
-                <lb/> Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: tamiment.wagner@library.nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <bioghist id="ref25">
-            <head>Historical/Biographical Note</head>
-            <p>The Abraham Lincoln Brigade were volunteers from the United States that went to Spain to fight fascism in the Spanish Civil War. The documentary 
-                <emph render="italic">In Search of The Lincoln Brigade</emph>, produced by Media Entertainment, Inc., recounts the Spanish Civil War through the eyes of eleven Abraham Lincoln Brigade volunteers.</p>
-        </bioghist>
-        <custodhist id="ref26">
-            <head>Custodial History note</head>
-            <p>The Media Entertainment, Inc. Oral History Collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>
-        </custodhist>
-        <prefercite id="ref28">
-            <head>Preferred Citation</head>
-            <p>Identification of item, date; Media Entertainment, Inc. Oral History Collection; ALBA 047; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
-        </prefercite>
-        <processinfo id="ref29">
-            <head>Processing Information note</head>
-            <p>Original videocassettes were digitized in 2013.</p>
-        </processinfo>
-        <phystech id="ref32">
-            <head>Physical Characteristics and Technical Requirements note</head>
-            <p>Entire collection has been digitized. Researchers must use access DVDs.</p>
-        </phystech>
-        <accessrestrict id="ref33">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <controlaccess>
-            <genreform source="aat">Interviews.</genreform>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American |v Interviews.</geogname>
-            <geogname source="lcsh">Spain |x History |y Civil War, 1936-1939 |x Participation, American.</geogname>
-            <genreform source="aat">Transcripts.</genreform>
-            <genreform source="aat">Videocassettes.</genreform>
-        </controlaccess>
-        <dsc>
-            <c id="ref4" level="file">
-                <did>
-                    <unittitle>Morris Briar</unittitle>
-                    <container id="cid22475001" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475001" type="DVD">Briar</container>
-                    <container id="cid22372029" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372029" type="Folder">1</container>
-                    <container id="cid22372001" type="Box" label="Master VHS">1</container>
-                    <container parent="cid22372001" type="Video">1</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref5" level="file">
-                <did>
-                    <unittitle>Ralph Fasanella</unittitle>
-                    <container id="cid22475002" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475002" type="DVD">Fasanella</container>
-                    <container id="cid22372030" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372030" type="Folder">2</container>
-                    <container id="cid22372002" type="Box" label="Master VHS">1</container>
-                    <container parent="cid22372002" type="Video">2-4</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref8" level="file">
-                <did>
-                    <unittitle>Milt Felsen</unittitle>
-                    <container id="cid22475003" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475003" type="DVD">Felsen</container>
-                    <container id="cid22372031" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372031" type="Folder">3</container>
-                    <container id="cid22372005" type="Box" label="Master VHS">1</container>
-                    <container parent="cid22372005" type="Video">5</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref9" level="file">
-                <did>
-                    <unittitle>Harry Fisher</unittitle>
-                    <container id="cid22372006" type="Box" label="Master VHS">1</container>
-                    <container parent="cid22372006" type="Video">6</container>
-                    <container id="cid22372032" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372032" type="Folder">4</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref10" level="file">
-                <did>
-                    <unittitle>Moe Fishman</unittitle>
-                    <container id="cid22475004" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475004" type="DVD">Fishman</container>
-                    <container id="cid22372022" type="Box" label="Master VHS">1</container>
-                    <container parent="cid22372022" type="Video">7-9</container>
-                    <container id="cid22372033" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372033" type="Folder">5</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref13" level="file">
-                <did>
-                    <unittitle>Len Levenson</unittitle>
-                    <container id="cid22372010" type="Box" label="Master VHS">1</container>
-                    <container parent="cid22372010" type="Video">10-12</container>
-                    <container id="cid22475005" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475005" type="DVD">Levenson</container>
-                    <container id="cid22372034" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372034" type="Folder">6</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref16" level="file">
-                <did>
-                    <unittitle>Abe Smorodin</unittitle>
-                    <container id="cid22372013" type="Box" label="Master VHS">2</container>
-                    <container parent="cid22372013" type="Video">13-15</container>
-                    <container id="cid22475006" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475006" type="DVD">Smorodin</container>
-                    <container id="cid22372035" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372035" type="Folder">7</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref19" level="file">
-                <did>
-                    <unittitle>Bill Sussman</unittitle>
-                    <container id="cid22475007" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475007" type="DVD">Sussman</container>
-                    <container id="cid22372016" type="Box" label="Master VHS">2</container>
-                    <container parent="cid22372016" type="Video">16</container>
-                    <container id="cid22372036" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372036" type="Folder">8</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref21" level="file">
-                <did>
-                    <unittitle>Anthony Toney</unittitle>
-                    <container id="cid22475008" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475008" type="DVD">Toney</container>
-                    <container id="cid22372018" type="Box" label="Master VHS">2</container>
-                    <container parent="cid22372018" type="Video">17</container>
-                    <container id="cid22372037" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372037" type="Folder">9</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref20" level="file">
-                <did>
-                    <unittitle>Bill Van Felix</unittitle>
-                    <container id="cid22475009" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475009" type="DVD">Van Felix</container>
-                    <container id="cid22372017" type="Box" label="Master VHS">2</container>
-                    <container parent="cid22372017" type="Video">18-19</container>
-                    <container id="cid22372038" type="Box" label="Transcript">3</container>
-                    <container parent="cid22372038" type="Folder">10</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-            <c id="ref2" level="file">
-                <did>
-                    <unittitle>Milt Wolff</unittitle>
-                    <container id="cid22475010" type="Box" label="Access DVD">2</container>
-                    <container parent="cid22475010" type="DVD">Wolff</container>
-                    <container id="cid22371002" type="Box" label="Transcript">3</container>
-                    <container parent="cid22371002" type="Folder">11</container>
-                    <container id="cid22371003" type="Box" label="Master VHS">2</container>
-                    <container parent="cid22371003" type="Video">20</container>
-                    <unitdate normal="1996/1996">1996</unitdate>
-                </did>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_074/">alba_074</eadid><filedesc><titlestmt><titleproper>Guide to the Media Entertainment, Inc. Oral History Collection <num>ALBA.074</num></titleproper><author>Collection processed by Bonnie Gordon.</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-08-02T13:35:21</date></creation><langusage>Finding aid written in English.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>August 2022</date><item>Edited by Anna Björnsson McCormick to correct the spelling of Bill Susman's name.</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial id="aspace_e4e17fa9490f05b317b95f6c548f585b">Materials are in English</langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Media Entertainment, Inc. Oral History Collection</unittitle>
+    <origination label="Creator">
+      <corpname authfilenumber="(lccn)nr00024907" source="naf">Media Entertainment, Inc.</corpname>
+    </origination>
+    <unitid>ALBA.074</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">1.25 Linear Feet</extent>
+      <extent altrender="carrier">in 3 manuscript boxes.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+    <abstract id="aspace_134ab5d38e6d1447759edf25ac8dd0d5">Consists of videos and transcripts for eleven interviews conducted in 1996 for the documentary In Search of the Lincoln Brigade (c.1999).</abstract>
+  </did>
+  <scopecontent id="aspace_293a206af1c9bc85f5aa49a256e6d5e8">
+    <head>Scope and Contents</head>
+<p>Consists of videos and transcripts for eleven interviews conducted in 1996 for the documentary <title render="italic">In Search of the Lincoln Brigade</title> (c.1999). The interviewees are: Morris Brier, Ralph Fasanella, Milt Felsen, Harry Fisher, Moe Fishman, Leonard Levenson, Abe Smorodin, Bill Susman, Anthony Toney, Bill Van Felix, and Milt Wolff.</p>  </scopecontent>
+  <arrangement id="aspace_ff51ce232e1dbf46edf3f286b285e96b">
+    <head>Arrangement</head>
+<p>Materials are arranged alphabetically.</p>  </arrangement>
+  <userestrict id="aspace_e419eb5b73cfc0447a5688a51ce9d5f4">
+    <head>Use Restrictions</head>
+<p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </userestrict>
+  <bioghist id="aspace_87182182a127b9cce2299a6ac84ac14a">
+    <head>Historical/Biographical Note</head>
+<p>The Abraham Lincoln Brigade were volunteers from the United States that went to Spain to fight fascism in the Spanish Civil War.  The documentary <emph render="italic">In Search of The Lincoln Brigade</emph>, produced by Media Entertainment, Inc., recounts the Spanish Civil War through the eyes of eleven Abraham Lincoln Brigade volunteers.</p>  </bioghist>
+  <custodhist id="aspace_a394e493fa2e28a5c37a39fc1e33b669">
+    <head>Custodial History</head>
+<p>The Media Entertainment, Inc. Oral History Collection came to New York University in January 2001 as part of the original acquisition of Abraham Lincoln Brigade Archives collections, formerly housed at Brandeis University.</p>  </custodhist>
+  <prefercite id="aspace_e581b577b3a2d9c9eff1efb273b377d3">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Media Entertainment, Inc. Oral History Collection; ALBA 047; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <processinfo id="aspace_a0bffa93c3e48dd8802695025e35b019">
+    <head>Processing Information</head>
+<p>Original videocassettes were digitized in 2013.</p>  </processinfo>
+  <phystech id="aspace_c9e7fe00fbfb5c0041dfcdbfd56d5b8b">
+    <head>Physical Characteristics and Technical Requirements</head>
+<p>Access copies are available by appointment for reading room use only. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </phystech>
+  <accessrestrict id="aspace_15fc4882386abb297497e20c2b24256e">
+    <head>Access Restrictions</head>
+<p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>  </accessrestrict>
+  <controlaccess>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American -- Interviews.</geogname>
+    <genreform source="aat">Interviews.</genreform>
+    <genreform source="aat">Transcripts.</genreform>
+    <genreform source="aat">Videocassettes.</genreform>
+    <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+  </controlaccess>
+  <dsc><c id="aspace_ref4" level="file"><did><unittitle>Morris Briar</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_3d1b4c889fb3fabe9d432fc156555043" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_3d1b4c889fb3fabe9d432fc156555043" type="DVD">Briar</container><container altrender="Manuscript box - Legal - Half" id="aspace_453dad87f9944eb73097a30e5bd4f445" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_453dad87f9944eb73097a30e5bd4f445" type="Folder">1</container><container altrender="Manuscript box - Legal" id="aspace_67551a75db87f3eb5ad37da175a3ef7c" label="Video [31142062723518]" type="Box">1</container><container parent="aspace_67551a75db87f3eb5ad37da175a3ef7c" type="Video">1</container></did></c><c id="aspace_ref5" level="file"><did><unittitle>Ralph Fasanella</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_4cec2d799614c0194439a6492565194e" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_4cec2d799614c0194439a6492565194e" type="DVD">Fasanella</container><container altrender="Manuscript box - Legal - Half" id="aspace_a37ab63e2fd0dd3fb16bf178b3be1330" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_a37ab63e2fd0dd3fb16bf178b3be1330" type="Folder">2</container><container altrender="Manuscript box - Legal" id="aspace_a1ceff9de720115a81bdb8bb9b60f543" label="Video [31142062723518]" type="Box">1</container><container parent="aspace_a1ceff9de720115a81bdb8bb9b60f543" type="Video">2-4</container></did></c><c id="aspace_ref8" level="file"><did><unittitle>Milt Felsen</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_b23ab5921f5b52caa26b9e6d91635e97" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_b23ab5921f5b52caa26b9e6d91635e97" type="DVD">Felsen</container><container altrender="Manuscript box - Legal - Half" id="aspace_bd583cd9f0263658dccf44f06f695253" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_bd583cd9f0263658dccf44f06f695253" type="Folder">3</container><container altrender="Manuscript box - Legal" id="aspace_cfdffde5cd751fc9dc32c726ded6ad26" label="Video [31142062723518]" type="Box">1</container><container parent="aspace_cfdffde5cd751fc9dc32c726ded6ad26" type="Video">5</container></did></c><c id="aspace_ref9" level="file"><did><unittitle>Harry Fisher</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_0b585d587c4556d140bea40d3b674adb" label="Mixed Materials [31142062723526]" type="Box">2</container><container parent="aspace_0b585d587c4556d140bea40d3b674adb" type="DVD">Fishman</container><container altrender="Manuscript box - Legal - Half" id="aspace_5dc32047d8a5431f59cd9b1bbe698c3f" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_5dc32047d8a5431f59cd9b1bbe698c3f" type="Folder">4</container><container altrender="Manuscript box - Legal" id="aspace_c2da06ab60c36e8e6292e031da7b6411" label="Video [31142062723518]" type="Box">1</container><container parent="aspace_c2da06ab60c36e8e6292e031da7b6411" type="Video">6</container></did></c><c id="aspace_ref10" level="file"><did><unittitle>Moe Fishman</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_dd1df8a0cd5433893eab7efc8e7dc4b2" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_dd1df8a0cd5433893eab7efc8e7dc4b2" type="DVD">Fishman</container><container altrender="Manuscript box - Legal - Half" id="aspace_c47fa832fdcd5447ad6f6b7b7cd20095" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_c47fa832fdcd5447ad6f6b7b7cd20095" type="Folder">5</container><container altrender="Manuscript box - Legal" id="aspace_dfadace3e12f1e5802ee4375f6a238ea" label="Video [31142062723518]" type="Box">1</container><container parent="aspace_dfadace3e12f1e5802ee4375f6a238ea" type="Video">7-9</container></did></c><c id="aspace_ref13" level="file"><did><unittitle>Len Levenson</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_5356c36a5f10174de83c04c9bff73524" label="Video [31142062723518]" type="Box">1</container><container parent="aspace_5356c36a5f10174de83c04c9bff73524" type="Video">10-12</container><container altrender="Manuscript box - Legal" id="aspace_89720ba4ffde96c97bd7843ba95ea704" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_89720ba4ffde96c97bd7843ba95ea704" type="DVD">Levenson</container><container altrender="Manuscript box - Legal - Half" id="aspace_41e00da21f7418b35937999904e24f58" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_41e00da21f7418b35937999904e24f58" type="Folder">6</container></did></c><c id="aspace_ref16" level="file"><did><unittitle>Abe Smorodin</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_88095d49330f6c66315af8481e6c2318" label="Video [31142062723526]" type="Box">2</container><container parent="aspace_88095d49330f6c66315af8481e6c2318" type="Video">13-15</container><container altrender="Manuscript box - Legal" id="aspace_10a2107d9cd0faa3639b6abf1aa0614e" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_10a2107d9cd0faa3639b6abf1aa0614e" type="DVD">Smorodin</container><container altrender="Manuscript box - Legal - Half" id="aspace_5af54d6b5433fcc0a8a0ad0c6d66dda4" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_5af54d6b5433fcc0a8a0ad0c6d66dda4" type="Folder">7</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Bill Susman</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_e9f0e871a7dce2d1531a6dc553a9fc7a" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_e9f0e871a7dce2d1531a6dc553a9fc7a" type="DVD">Susman</container><container altrender="Manuscript box - Legal" id="aspace_8d5fdd9cbcf4d017879740a7d91f581c" label="Video [31142062723526]" type="Box">2</container><container parent="aspace_8d5fdd9cbcf4d017879740a7d91f581c" type="Video">16</container><container altrender="Manuscript box - Legal - Half" id="aspace_3952090bdfde708e5f204eacf7eb3305" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_3952090bdfde708e5f204eacf7eb3305" type="Folder">8</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>Anthony Toney</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_309576ba99ab2f46508f248e4733711a" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_309576ba99ab2f46508f248e4733711a" type="DVD">Toney</container><container altrender="Manuscript box - Legal - Half" id="aspace_2b98532fe9340cfb2094ba02341240df" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_2b98532fe9340cfb2094ba02341240df" type="Folder">9</container><container altrender="Manuscript box - Legal" id="aspace_1e8ca8564b1d6d67a6833f1d3845d56b" label="Video [31142062723526]" type="Box">2</container><container parent="aspace_1e8ca8564b1d6d67a6833f1d3845d56b" type="Video">17</container></did></c><c id="aspace_ref20" level="file"><did><unittitle>Bill Van Felix</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_45dd9bb7ecc234ac4bd05cf4ae7602e3" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_45dd9bb7ecc234ac4bd05cf4ae7602e3" type="DVD">Van Felix</container><container altrender="Manuscript box - Legal - Half" id="aspace_2f064c7a6651cf5d70c63a4a7fdeac59" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_2f064c7a6651cf5d70c63a4a7fdeac59" type="Folder">10</container><container altrender="Manuscript box - Legal" id="aspace_5448efdfa3ad8058815716f76f9bdaf0" label="Video [31142062723526]" type="Box">2</container><container parent="aspace_5448efdfa3ad8058815716f76f9bdaf0" type="Video">18-19</container></did></c><c id="aspace_ref2" level="file"><did><unittitle>Milt Wolff</unittitle><unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate><container altrender="Manuscript box - Legal" id="aspace_08c72ced0c6e974f8a9d62459ed3d065" label="Moving Images [31142062723526]" type="Box">2</container><container parent="aspace_08c72ced0c6e974f8a9d62459ed3d065" type="DVD">Wolff</container><container altrender="Manuscript box - Legal - Half" id="aspace_703d4e70f17626afdedb3c2ec7f2d7b4" label="Mixed Materials [31142062755775]" type="Box">3</container><container parent="aspace_703d4e70f17626afdedb3c2ec7f2d7b4" type="Folder">11</container><container altrender="Manuscript box - Legal" id="aspace_70ffae81a1734d92d033a47b849e5000" label="Video [31142062723526]" type="Box">2</container><container parent="aspace_70ffae81a1734d92d033a47b849e5000" type="Video">20</container></did></c></dsc>
+</archdesc>
 </ead>

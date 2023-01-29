@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NyBlHS">arms_1994_005_megill</eadid>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="Completed" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NyBlHS" url="http://dlib.nyu.edu/findingaids/html/bhs/arms_1994_005_megill.html">arms_1994_005_megill</eadid>
         <filedesc>
             <titlestmt>
                 <titleproper>Guide to the Edward L. Megill Company records
@@ -25,11 +25,17 @@
         </filedesc>
         <profiledesc>
             <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2011-11-22T10:34-0500</date>
+                <date>2016-08-25T16:50-0400</date>
             </creation>
-            <langusage>English</langusage>
+            <langusage>Finding aid written in English</langusage>
             <descrules>Describing Archives: A Content Standard</descrules>
         </profiledesc>
+        <revisiondesc>
+            <change>
+                <date>August 2016</date>
+                <item>Updated by John Zarrillo</item>
+            </change>
+        </revisiondesc>
     </eadheader>
     <archdesc level="collection">
         <did>
@@ -41,10 +47,11 @@
             <langmaterial>
                 <language langcode="eng"/>
             </langmaterial>
-            <container id="cid1078001" type="Box" label="Text">1994.005 1 of 1</container>
+            <container id="cid1497014" type="Box" label="Text">2 of 2 (1994.005)</container>
+            <container id="cid1078001" type="Box" label="Text">A0125</container>
             <physdesc>
-                <extent>0.42 linear feet</extent>
-                <extent>in one manuscript box</extent>
+                <extent>0.5 linear feet</extent>
+                <extent>in two manuscript boxes</extent>
             </physdesc>
             <unitdate normal="1870/1881" type="inclusive">1870-1881</unitdate>
             <abstract id="ref2" label="Abstract">The Edward L. Megill Company records span the period 1870 to 1881 and measure 0.42 linear feet. The records consist of account books, daybooks and ledgers of the company (established in 1869), which manufactured gauge pins invented by Edward L. Megill for the Planten Printing Press.The company was located at 761-763 Atlantic Avenue in Brooklyn.</abstract>
@@ -73,7 +80,7 @@
             <genreform source="aat">Daybooks</genreform>
             <genreform source="aat">Ledgers (account books)</genreform>
             <subject source="lcsh">Manufactures |z New York (State) |z Kings County</subject>
-            <subject source="lcgft">Printing |z New York (State) |z Kings County</subject>
+            <subject source="lcsh">Printing |z New York (State) |z Kings County</subject>
         </controlaccess>
         <dsc/>
     </archdesc>

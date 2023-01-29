@@ -1,804 +1,98 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">    <eadheader findaidstatus="MultiLevel_Full" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
-        <eadid countrycode="US" mainagencycode="US-NNU-TL" url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_005">aia_005</eadid>
-        <filedesc>
-            <titlestmt>
-                <titleproper>Guide to the Sean Prendiville Papers
-                    <num>AIA.005</num>
-                </titleproper>
-                <author>Finding aid prepared by Alice Naughton and Rebecca Altermatt</author>
-            </titlestmt>
-            <publicationstmt>
-                <publisher>Tamiment Library / Wagner Archives</publisher>
-                <address>
-                    <addressline>Elmer Holmes Bobst Library</addressline>
-                    <addressline>70 Washington Square South</addressline>
-                    <addressline>New York, NY, 10012</addressline>
-                    <addressline>(212) 998-2630</addressline>
-                    <addressline>tamiment.wagner@nyu.edu</addressline>
-                </address>
-                <date>01/05/2010</date>
-            </publicationstmt>
-        </filedesc>
-        <profiledesc>
-            <creation>This finding aid was produced using the Archivists' Toolkit
-                <date>2012-09-25T14:38-0400</date>
-            </creation>
-            <langusage>Description is in 
-                <language langcode="eng" encodinganalog="546">English</language>.</langusage>
-            <descrules>Describing Archives: A Content Standard</descrules>
-        </profiledesc>
-        <revisiondesc>
-            <change>
-                <date>August 2012</date>
-                <item> Edited by Rachel Searcy for compliance with DACS and Tamiment Required Elements for Archival Description</item>
-            </change>
-        </revisiondesc>
-    </eadheader>
-    <archdesc level="collection">
-        <did>
-            <unittitle>Sean Prendiville Papers</unittitle>
-            <unitid>AIA.005</unitid>
-            <repository>
-                <corpname>Tamiment Library / Wagner Archives</corpname>
-            </repository>
-            <langmaterial>
-                <language langcode="eng"/>
-            </langmaterial>
-            <physdesc>
-                <extent>4.75 linear feet</extent>
-                <extent>in 2 manuscript boxes, 3 record cartons, and 1 oversized flat box.</extent>
-            </physdesc>
-            <unitdate normal="1920/1997" type="bulk">Bulk, 1920-1997</unitdate>
-            <unitdate normal="1818/1997" type="inclusive">1818-1997, bulk 1920-1997</unitdate>
-            <abstract id="ref3" label="Abstract">Sean Prendiville is a first-generation Irish American, born and raised in San Francisco, California. Members of the Prendiville family living in Ireland were active Republicans during the Irish War of Independence (1919-1921) and the Irish Civil War (1922-1923). Prendiville joined Irish support groups established in San Francisco during confict in Northern Ireland in the late 1960s. This collection contains material concerning the Irish American experience with specific focus on Northern California. Materials include personal correspondence and other documentation regarding numerous Freedom of Information Act (FOIA) requests made by Prendiville to the Federal Bureau of Investigation (FBI) concerning several Irish American individuals and organizations suspected of Irish Republican activity from approximately 1920 to 1979. Also included are original letters written by a Fenian prisoner in Western Australia in 1870, as well as newspaper accounts from the same time period. The collection also includes ephemera and physical objects, including flyers, broadsides, bumper stickers, and a singificant button collection supprting Irish prisoners and the Republican movement.</abstract>
-            <physloc id="ref117" label="Location Note">Materials stored offsite and advance notice is required for use. Please contact irishamerica.archives@nyu.edu two business days prior to research visit.</physloc>
-            <origination label="creator">
-                <persname source="ingest">Prendiville, Sean.</persname>
-            </origination>
-        </did>
-        <custodhist id="ref4">
-            <head>Custodial History Note</head>
-            <p>Sean Prendiville donated the documents to the Archives of Irish America at the Tamiment Library, NYU in June 1997. The series of personal correspondence came to the Archives along with the Patrick Daughton Papers (AIA 055) in 2009.</p>
-        </custodhist>
-        <accessrestrict id="ref5">
-            <head>Access Restrictions</head>
-            <p>Open for research without restrictions.</p>
-        </accessrestrict>
-        <bioghist id="ref8">
-            <head>Historical/Biographical Note</head>
-            <p>Sean Prendiville is a first generation Irish American, born and raised in San Francisco, California. His father emigrated from County Kerry, his mother from County Roscommon. In Ireland, members of the Prendiville family were active Republicans during the country’s fight for independence from Great Britain (1919-1921) and subsequent civil war (1922-1923). Two of Sean Prendiville’s grand-uncles were in the Irish Republican Army (IRA): one was killed in a raid on a Royal Irish Constabulary (police) station in Castleisland, County Kerry; the other continued to fight with the IRA until he was wounded and captured during the civil war. Their nephew in San Francisco regularly took young Sean Prendiville to buy the Sinn Fein newspaper 
-                <emph render="italic">The United Irishman</emph> at the Golden Gate News Agency on Third Street.</p>
-            <p>When conflict broke out in Northern Ireland in 1968, following attacks on Northern Ireland Civil Rights Association marches, Sean Prendiville joined some of the Irish support groups that were established in San Francisco. Later, after the Republican movement split, he joined the Irish Republican Clubs, supporters of the Official Irish Republican movement, because their politics seemed more in line with the anti-Vietnam war movement that he was also participating in at the time. While a member of the Irish Republican Clubs, Prendiville met some older activists who had participated in the Irish Republican Congress Clubs of the 1930s, especially Vernon Healey in San Francisco and Gerald O'Reilly in New York. He became aware of a current in Irish-American and Irish Republican history that had been passed over - the links between left-wing Irish organizations and American progressives – sparking a research interest that eventually led to the assembly of this collection between 1986 and 1994</p>
-        </bioghist>
-        <scopecontent id="ref9">
-            <head>Scope and Content Note</head>
-            <p>This collection documents Sean Prendiville’s involvement in and research on the activities of Irish and Irish American organizations in the 20th century, with a specific focus on Irish Republicanism. Materials include flyers, pamphlets, broadsides, buttons, bumper stickers, correspondence, newspapers, government forms, Freedom of Information Act (FOIA) requests, and Federal Bureau of Investigation documents. The majority of the collection consists of Prendiville’s FOIA requests and the documents he received in response. These materials focused on Irish organizations in Ireland and the United States under surveillance for alleged Irish Republican activities.</p>
-        </scopecontent>
-        <arrangement id="ref10">
-            <head>Arrangement</head>
-            <p>Collection is arranged into five series. Series are arranged alphabetically, then chronologically.</p>
-            <list type="ordered">
-                <item>Series I. Correspondence, 1902-1997</item>
-                <item>Series II. Subject Files, 1864-1988</item>
-                <item>Series III. Freedom of Information Act (FOIA) Requests and Correspondence, 1920-1979</item>
-                <item>Series IV. Printed Ephemera, 1818-1924</item>
-                <item>Series V. Nonprint, 1980-1995</item>
-            </list>
-        </arrangement>
-        <userestrict id="ref70">
-            <head>Use Restrictions</head>
-            <p>Permission to publish materials must be obtained in writing from the: 
-                <lb/> Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/> Elmer Holmes Bobst Library 
-                <lb/> 70 Washington Square South 
-                <lb/> New York, NY 10012 
-                <lb/> Phone: (212) 998-2630 
-                <lb/> Fax: (212) 995-4225 
-                <lb/> E-mail: irishamerica.archives@nyu.edu 
-                <lb/></p>
-        </userestrict>
-        <relatedmaterial id="ref90">
-            <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
-            <list type="ordered">
-                <item>George Harrison Papers AIA 009</item>
-                <item>Irish Republicanism Collection AIA 022</item>
-                <item>Patrick Daugton Collection AIA 055</item>
-            </list>
-        </relatedmaterial>
-        <prefercite id="ref116">
-            <head>Preferred Citation</head>
-            <p>Published citations should take the following form: 
-                <lb/>
-                <lb/>Identification of item, date; Collection name; Collection number; box number; folder number; 
-                <lb/>Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives 
-                <lb/>Elmer Holmes Bobst Library 
-                <lb/>70 Washington Square South 
-                <lb/>New York, NY 10012, New York University Libraries.</p>
-        </prefercite>
-        <controlaccess>
-            <corpname source="naf">Clan-na-Gael.</corpname>
-            <persname source="naf">Gralton, Jimmy, 1886-1945</persname>
-            <corpname source="local">Irish American Labor League.</corpname>
-            <corpname source="naf">Irish Republican Army.</corpname>
-            <corpname source="local">Irish Republican Brotherhood Veterans Association.</corpname>
-            <corpname source="local">Irish Republican Clubs.</corpname>
-            <corpname source="local">James Connolly Clubs.</corpname>
-            <persname source="naf">McAliskey, Bernadette Devlin, 1947- </persname>
-            <corpname source="naf">National Association for Irish Freedom (U.S.).</corpname>
-            <corpname source="local">National Association for Irish Justice.</corpname>
-            <persname source="local">O'Reilly, Gerald, 1903-1990.</persname>
-            <corpname source="local">United Irish Republicans.</corpname>
-            <corpname source="naf">United States. Federal Bureau of Investigation.</corpname>
-            <corpname source="local">Women's Irish Educational League.</corpname>
-            <genreform source="aat">Articles.</genreform>
-            <genreform source="aat">Bumper stickers.</genreform>
-            <genreform source="aat">Buttons (information artifacts).</genreform>
-            <genreform source="aat">Clippings (information artifacts).</genreform>
-            <genreform source="aat">Correspondence.</genreform>
-            <subject source="lcsh">Freedom of information |x Government policy |z United States.</subject>
-            <subject source="lcsh">Irish Americans |x Societies, etc.</subject>
-            <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Political activities.</subject>
-            <subject source="lcsh">Irish Americans |z New York (State) |z New York |x Social life and customs.</subject>
-            <geogname source="lcsh">New York (N.Y.)</geogname>
-            <geogname source="lcsh">Philadelphia (Pa.).</geogname>
-            <subject source="lcsh">Prisoners' writings, Irish.</subject>
-            <genreform source="aat">Reports.</genreform>
-            <geogname source="lcsh">San Francisco (Calif.)</geogname>
-        </controlaccess>
-        <dsc>
-            <c id="ref72" level="series">
-                <did>
-                    <unittitle>Series I. Correspondence</unittitle>
-                    <unitdate normal="1902/1997" type="inclusive">1902-1997</unitdate>
-                </did>
-                <scopecontent id="ref119">
-                    <head>Scope and Content Note</head>
-                    <p>This series consists of personal correspondence between Prendiville and numerous individuals. Of note are two folders of letters between Prendiville and Gerald O’Reily, a prominent member of the New York City Transit Workers Union (TWU) and a contemporary of TWU President Mike Quill. Materials in the correspondence concern Irish Republicans Frank Ryan and Father Michael O’ Flanagan.</p>
-                </scopecontent>
-                <c id="ref73" level="file">
-                    <did>
-                        <unittitle>Cork Workers Club</unittitle>
-                        <container id="cid20144001" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144001" type="Folder">1</container>
-                        <unitdate normal="1978/1978">1978</unitdate>
-                    </did>
-                </c>
-                <c id="ref74" level="file">
-                    <did>
-                        <unittitle>Curtis, Liz (author)</unittitle>
-                        <container id="cid20144002" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144002" type="Folder">2</container>
-                        <unitdate normal="1992/1996" type="inclusive">1992-1996</unitdate>
-                    </did>
-                </c>
-                <c id="ref75" level="file">
-                    <did>
-                        <unittitle>General; mostly Celtic Network I</unittitle>
-                        <container id="cid20144003" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144003" type="Folder">3</container>
-                        <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
-                    </did>
-                </c>
-                <c id="ref76" level="file">
-                    <did>
-                        <unittitle>General; mostly Celtic Network II</unittitle>
-                        <container id="cid20144004" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144004" type="Folder">3A</container>
-                        <unitdate normal="1989/1990" type="inclusive">1989-1990</unitdate>
-                    </did>
-                </c>
-                <c id="ref99" level="file">
-                    <did>
-                        <unittitle>
-                            <emph render="italic">Irish American Voice</emph> (Entertprise, AL)</unittitle>
-                        <container id="cid20491011" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20491011" type="Folder">4</container>
-                        <unitdate normal="1985/1985">1985</unitdate>
-                    </did>
-                </c>
-                <c id="ref77" level="file">
-                    <did>
-                        <unittitle>O'Reilly, Gerald (Local 100, TWU, NYC) I</unittitle>
-                        <container id="cid20144005" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144005" type="Folder">5</container>
-                        <unitdate normal="1902/1990" type="inclusive">1902-1990</unitdate>
-                    </did>
-                </c>
-                <c id="ref78" level="file">
-                    <did>
-                        <unittitle>O'Reilly, Gerald (Local 100, TWU, NYC) II</unittitle>
-                        <container id="cid20144006" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144006" type="Folder">6</container>
-                        <unitdate normal="1902/1990" type="inclusive">1902-1990</unitdate>
-                    </did>
-                </c>
-                <c id="ref79" level="file">
-                    <did>
-                        <unittitle>Research and Correspondence (includes two unidentified photographs)</unittitle>
-                        <container id="cid20144007" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144007" type="Folder">7</container>
-                        <unitdate normal="1985/1997" type="inclusive">1985-1997</unitdate>
-                    </did>
-                </c>
-                <c id="ref80" level="file">
-                    <did>
-                        <unittitle>Irish American Unity Conference: Membership papers</unittitle>
-                        <container id="cid20144008" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid20144008" type="Folder">8</container>
-                        <unitdate normal="1984/1984">1984</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref100" level="series">
-                <did>
-                    <unittitle>Series II. Subject Files</unittitle>
-                    <unitdate>1864-1988</unitdate>
-                </did>
-                <scopecontent id="ref120">
-                    <head>Scope and Content Note</head>
-                    <p>This series consists of original letters and newspaper clippings collected by Prendiville related to the escape and rescue of Fenian prisoners held in Western Australia by the American wahling ship the 
-                        <emph render="italic">Catalpa</emph> in the late 19th century. The series also includes publications produced by The Workers Party (Ireland), including a manifesto, newsletters, pamphlets, and issues of the Student Workers Party Bulletin.</p>
-                </scopecontent>
-                <c id="ref98" level="file">
-                    <did>
-                        <unittitle>Catalpa: article in 
-                            <emph render="italic">The Western Austrlian Times</emph></unittitle>
-                        <container id="cid20491007" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid20491007" type="Folder">1</container>
-                        <unitdate normal="1876/1876">Apr 21, 1876</unitdate>
-                    </did>
-                </c>
-                <c id="ref95" level="file">
-                    <did>
-                        <unittitle>Catalpa: correspondence, newspaper accounts (very rare) Note: Most of the Catalpa-related material appears to be correspondence written to or from John B. Walsh, a Fenian who was transported to Australia after the Fenian Rising was broken up. Walsh was released after one of the round of amnesties, either 1869 or 1871, and settled in San Francisco. Transcriptions are included for some of the letters.</unittitle>
-                        <container id="cid20491008" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20491008" type="Folder">8</container>
-                        <unitdate normal="1864/1895" type="inclusive">1864-1895</unitdate>
-                    </did>
-                </c>
-                <c id="ref113" level="file">
-                    <did>
-                        <unittitle>Irish Republican Prisoners and Dependents Fund: Biographies of speakers and others</unittitle>
-                        <container id="cid20491010" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20491010" type="Folder">9</container>
-                        <unitdate>circa 1920</unitdate>
-                    </did>
-                </c>
-                <c id="ref96" level="file">
-                    <did>
-                        <unittitle>The Workers Party (Belfast): Manifesto, Newsletters, Pamphlets, Students Workers Party Bulletin</unittitle>
-                        <container id="cid20491009" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20491009" type="Folder">10</container>
-                        <unitdate normal="1987/1988" type="inclusive">1987-1988</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref13" level="series">
-                <did>
-                    <unittitle>Series III: Freedom of Information Act (FOIA) Requests and Correspondence</unittitle>
-                    <langmaterial>
-                        <language langcode="eng"/>
-                    </langmaterial>
-                    <unitdate normal="1920/1992" type="inclusive">1920-1992</unitdate>
-                </did>
-                <scopecontent id="ref121">
-                    <head>Scope and Content Note</head>
-                    <p>This series consists of administrative papers, government forms, and other documents related to Freedom of Information Act (FOIA) requests and appeals made by Prendiville from 1986 to 1994. The files contains photocopies of memoranda, letters, and reports generated by the Federal Bureau of Investigation (FBI) in the course of their surveillance of Irish Republican activities in the United States between 1930 and 1979. Also included are newspaper and magazine articles, brochures, and other literature distributed by Irish American organizations under investigation. Many files contain collections of clippings from Irish publications, especially newspapers produced by support groups, that no longer exist and for which there may be no surviving copies. Organizations present in this series include the Irish Republican Clubs, Clan na Gael, James Connolly Clubs, the Irish American Labor League, the Irish Republican Army (IRA), Irish Republican Clubs (IRC), National Association for Irish Freedom (NAIF), the National Association for Irish Justice (NAIJ), and The Citizens for Irish Justice (CIJ). Specific individuals such as James Gralton and James Larkin also appear. Much of the material is heavily redacted.</p>
-                </scopecontent>
-                <arrangement id="ref122">
-                    <head>Arrangement</head>
-                    <p>Files in this series are arranged according to the FBI’s original identification and sequence numbers. The FBI assigned each organization a sequence number. For example, the Irish Republican Clubs are identified by the number 97-5329. Each specific document relating to that organization was then numbered sequentially; for example, 97-5329-25 identifies the twenty-fifth document in approximately chronological order. The FBI files also contain records that were filed under more than one organization; when cross-referenced like this, the documents do not have a sequence number. The order in which documents were supplied by the FBI has been maintained except when unknown; then they are filed chronologically.</p>
-                </arrangement>
-                <c id="ref14" level="file">
-                    <did>
-                        <unittitle>Correspondence re: FOIA requests</unittitle>
-                        <container id="cid109954" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109954" type="Folder">9</container>
-                        <unitdate normal="1986/1994" type="inclusive">1986-1994</unitdate>
-                    </did>
-                </c>
-                <c id="ref15" level="file">
-                    <did>
-                        <unittitle>Government Materials - non-FBI</unittitle>
-                        <container id="cid109953" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109953" type="Folder">10</container>
-                        <unitdate normal="1972/1972">1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref18" level="file">
-                    <did>
-                        <unittitle>Clan na Gael c. 97-4883-1-97-4883-17</unittitle>
-                        <container id="cid109951" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109951" type="Folder">11</container>
-                        <unitdate>Mar 1964-Oct 1964</unitdate>
-                    </did>
-                </c>
-                <c id="ref19" level="file">
-                    <did>
-                        <unittitle>Clan na Gael c. 97-4883-18-97-4883-40</unittitle>
-                        <container id="cid109950" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109950" type="Folder">12</container>
-                        <unitdate>Oct 1964-Sep 1965</unitdate>
-                    </did>
-                </c>
-                <c id="ref23" level="file">
-                    <did>
-                        <unittitle>Gralton, James 65-35485-1;65-35485-5</unittitle>
-                        <container id="cid109948" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109948" type="Folder">13</container>
-                        <unitdate>Jun 1943-Oct 1944</unitdate>
-                    </did>
-                </c>
-                <c id="ref25" level="file">
-                    <did>
-                        <unittitle>Irish American Labor League c. 61-179-1-61-179-32</unittitle>
-                        <container id="cid109947" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109947" type="Folder">14</container>
-                        <unitdate>Oct 1921-Feb 1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref26" level="file">
-                    <did>
-                        <unittitle>Irish American Labor League : Case 75, 75A, Doc. C. 127-152pages c. 14160-14213 (reports of agents, summary memos)</unittitle>
-                        <container id="cid109946" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109946" type="Folder">15</container>
-                        <unitdate>Apr 1921-May 1921</unitdate>
-                    </did>
-                </c>
-                <c id="ref27" level="file">
-                    <did>
-                        <unittitle>Irish American Labor League: Case 75, 75A, Doc. C. 153-201pages c. 14215 - 14295</unittitle>
-                        <container id="cid109945" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109945" type="Folder">16</container>
-                        <unitdate>May 1921-Jun 1921</unitdate>
-                    </did>
-                </c>
-                <c id="ref28" level="file">
-                    <did>
-                        <unittitle>Irish American Labor League: Reports, memos related to Case 75pages c. 14298-14333 (illegible)</unittitle>
-                        <container id="cid109944" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109944" type="Folder">17</container>
-                        <unitdate normal="1922/1922">Mar 1921 , 1922</unitdate>
-                    </did>
-                </c>
-                <c id="ref64" level="file">
-                    <did>
-                        <unittitle>Irish Radio Shows</unittitle>
-                        <container id="cid109913" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109913" type="Folder">18</container>
-                        <unitdate normal="1970/1970">1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref30" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-1-61-7606-50</unittitle>
-                        <container id="cid109943" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109943" type="Folder">19</container>
-                        <unitdate>Sep 1939-Jul 1940</unitdate>
-                    </did>
-                </c>
-                <c id="ref31" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-51-61-7606-83</unittitle>
-                        <container id="cid109942" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109942" type="Folder">20</container>
-                        <unitdate>Jul 1940-Feb 1942 (bulk 1920-1997)</unitdate>
-                    </did>
-                </c>
-                <c id="ref32" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-84-61-7606-144</unittitle>
-                        <container id="cid109941" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109941" type="Folder">21</container>
-                        <unitdate>Jan 1942-Jan 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref33" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-145-61-7606-209</unittitle>
-                        <container id="cid109940" type="Box" label="Mixed materials">1</container>
-                        <container parent="cid109940" type="Folder">22</container>
-                        <unitdate>Feb 1943-May 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref34" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-210-61-7606-260 I</unittitle>
-                        <container id="cid109939" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109939" type="Folder">1</container>
-                        <unitdate normal="1943/1943">May 1943-Oct 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref81" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-145-61-7606-260 II</unittitle>
-                        <container id="cid20144009" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20144009" type="Folder">2</container>
-                        <unitdate normal="1943/1943">May 1943-Oct 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref35" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-261-61-7606-342 I</unittitle>
-                        <container id="cid109938" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109938" type="Folder">3</container>
-                        <unitdate>Sep 1943-Dec 1944</unitdate>
-                    </did>
-                </c>
-                <c id="ref82" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-261-61-7606-342 II</unittitle>
-                        <container id="cid20144010" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20144010" type="Folder">4</container>
-                        <unitdate normal="1943/1943">Sep 1943-Dec 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref36" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-343-61-7606-393</unittitle>
-                        <container id="cid109937" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109937" type="Folder">5</container>
-                        <unitdate normal="1945/1950" type="inclusive">Feb 1945-May 1950</unitdate>
-                    </did>
-                </c>
-                <c id="ref37" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-394-61-7606-451</unittitle>
-                        <container id="cid109936" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109936" type="Folder">6</container>
-                        <unitdate>Sep 1951-Oct 1957</unitdate>
-                    </did>
-                </c>
-                <c id="ref38" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-452-61-7606-501</unittitle>
-                        <container id="cid109935" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109935" type="Folder">7</container>
-                        <unitdate>Oct 1957-Nov 1963</unitdate>
-                    </did>
-                </c>
-                <c id="ref39" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-502-61-7606- c. 520s(some documents not numbered, cross-referenced)</unittitle>
-                        <container id="cid109934" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109934" type="Folder">8</container>
-                        <unitdate>Nov 1963-Nov 1969</unitdate>
-                    </did>
-                </c>
-                <c id="ref40" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-?-61-7606-575(Some documents not completely numbered)</unittitle>
-                        <container id="cid109933" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109933" type="Folder">9</container>
-                        <unitdate>Dec 1969-Oct 1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref41" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-576-61-7606-653</unittitle>
-                        <container id="cid109932" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109932" type="Folder">10</container>
-                        <unitdate>Oct 1972-Feb 1974</unitdate>
-                    </did>
-                </c>
-                <c id="ref42" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-654-61-7606-721</unittitle>
-                        <container id="cid109931" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109931" type="Folder">11</container>
-                        <unitdate>Feb 1974-Feb 1975</unitdate>
-                    </did>
-                </c>
-                <c id="ref43" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-722-61-7606-831 I</unittitle>
-                        <container id="cid109930" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid109930" type="Folder">12</container>
-                        <unitdate>Feb 1975-May 1977</unitdate>
-                    </did>
-                </c>
-                <c id="ref83" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-722-61-7606-831 II</unittitle>
-                        <container id="cid20160001" type="Box" label="Mixed materials">2</container>
-                        <container parent="cid20160001" type="Folder">13</container>
-                        <unitdate>Feb 1975-May 1979</unitdate>
-                    </did>
-                </c>
-                <c id="ref44" level="file">
-                    <did>
-                        <unittitle>Irish Republican Army c. 61-7606-A: news clippings, wire services - U.S , Ireland, U.K. events</unittitle>
-                        <container id="cid109929" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109929" type="Folder">1</container>
-                        <unitdate normal="1939/1975" type="inclusive">1939-1975</unitdate>
-                    </did>
-                </c>
-                <c id="ref65" level="file">
-                    <did>
-                        <unittitle>Irish Republican Brotherhood Veterans Association (FOIA #270, 640)</unittitle>
-                        <container id="cid109912" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109912" type="Folder">2</container>
-                        <unitdate normal="1992/1992">1992</unitdate>
-                    </did>
-                </c>
-                <c id="ref46" level="file">
-                    <did>
-                        <unittitle>Irish Republican Clubs c. 97-5329-1-97-5329-16</unittitle>
-                        <container id="cid109928" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109928" type="Folder">3</container>
-                        <unitdate>Mar 1971-Sep 1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref47" level="file">
-                    <did>
-                        <unittitle>Irish Republican Clubs c. 97-5329-17-97-5329-31</unittitle>
-                        <container id="cid109927" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109927" type="Folder">4</container>
-                        <unitdate>Sep 1971-Jun 1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref48" level="file">
-                    <did>
-                        <unittitle>Irish Republican Clubs c. 97-5329-32-97-5329-52</unittitle>
-                        <container id="cid109926" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109926" type="Folder">5</container>
-                        <unitdate>Feb 1972-Nov 1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref49" level="file">
-                    <did>
-                        <unittitle>Irish Republican Clubs c. 97-5329-53-97-5329-81 I</unittitle>
-                        <container id="cid109925" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109925" type="Folder">6</container>
-                        <unitdate>Nov 1972-Jun 1975</unitdate>
-                    </did>
-                </c>
-                <c id="ref84" level="file">
-                    <did>
-                        <unittitle>Irish Republican Clubs c. 97-5329-53-97-5329-81 II</unittitle>
-                        <container id="cid20160002" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20160002" type="Folder">7</container>
-                        <unitdate>Nov 1972-Jun 1975</unitdate>
-                    </did>
-                </c>
-                <c id="ref50" level="file">
-                    <did>
-                        <unittitle>Irish Republican Clubs c. 97-5329-82-97-5329-112</unittitle>
-                        <container id="cid109924" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109924" type="Folder">8</container>
-                        <unitdate>Jul 1975-Aug 1979</unitdate>
-                    </did>
-                </c>
-                <c id="ref66" level="file">
-                    <did>
-                        <unittitle>Irish Workers Clubs</unittitle>
-                        <container id="cid109911" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109911" type="Folder">9</container>
-                        <unitdate normal="1940/1955" type="inclusive">1940-1955</unitdate>
-                    </did>
-                </c>
-                <c id="ref21" level="file">
-                    <did>
-                        <unittitle>James Connolly Clubs 62-17493-0</unittitle>
-                        <container id="cid109949" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109949" type="Folder">10</container>
-                        <unitdate normal="1920/1943" type="inclusive">1920-1924 , 1943</unitdate>
-                    </did>
-                </c>
-                <c id="ref63" level="file">
-                    <did>
-                        <unittitle>James Gralton Defense Committee 9 FOIA #270, 234)</unittitle>
-                        <container id="cid109914" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109914" type="Folder">11</container>
-                        <unitdate normal="1986/1986">1986</unitdate>
-                    </did>
-                </c>
-                <c id="ref67" level="file">
-                    <did>
-                        <unittitle>James Larkin Defense Committee ( FOIA #270, 233)</unittitle>
-                        <container id="cid109910" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109910" type="Folder">12</container>
-                        <unitdate normal="1986/1986">1986</unitdate>
-                    </did>
-                </c>
-                <c id="ref52" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-1 (Numbers not visible)</unittitle>
-                        <container id="cid109923" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109923" type="Folder">13</container>
-                        <unitdate>Apr 1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref53" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-2-1053212344-19 I</unittitle>
-                        <container id="cid109922" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109922" type="Folder">14</container>
-                        <unitdate>Jun 1971-Nov 1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref85" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-2-1053212344-19 II</unittitle>
-                        <container id="cid20160003" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20160003" type="Folder">15</container>
-                        <unitdate>Jun 1971-Nov 1971</unitdate>
-                    </did>
-                </c>
-                <c id="ref54" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-21-105-212344-46 ( 20, 28 missing) I</unittitle>
-                        <container id="cid109921" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109921" type="Folder">16</container>
-                        <unitdate>Nov 1971-Jan 1973</unitdate>
-                    </did>
-                </c>
-                <c id="ref86" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-21-105-212344-46 ( 20, 28 missing) II</unittitle>
-                        <container id="cid20160004" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid20160004" type="Folder">17</container>
-                        <unitdate normal="1971/1973" type="inclusive">Nov 1971-Jan 1973</unitdate>
-                    </did>
-                </c>
-                <c id="ref55" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-47-105-212344-64 ( missing # 52 encl.)</unittitle>
-                        <container id="cid109920" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109920" type="Folder">18</container>
-                        <unitdate>Jan 1973-Apr 1979</unitdate>
-                    </did>
-                </c>
-                <c id="ref57" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Justice (NAIJ) c. 97-5275 -xl- 97-5275-9</unittitle>
-                        <container id="cid109919" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109919" type="Folder">19</container>
-                        <unitdate>Aug 1969-Dec 1969</unitdate>
-                    </did>
-                </c>
-                <c id="ref58" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-10-97-5275-25</unittitle>
-                        <container id="cid109918" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109918" type="Folder">20</container>
-                        <unitdate>Dec 1969-Mar 1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref59" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-28-97-5275-35</unittitle>
-                        <container id="cid109917" type="Box" label="Mixed materials">3</container>
-                        <container parent="cid109917" type="Folder">21</container>
-                        <unitdate>Mar 1970-Jun 1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref60" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-36-97-5275-59 I</unittitle>
-                        <container id="cid109916" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid109916" type="Folder">1</container>
-                        <unitdate>Jul 1970-Nov 1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref87" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-36-97-5275-59 II</unittitle>
-                        <container id="cid20160005" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20160005" type="Folder">2</container>
-                        <unitdate normal="1970/1970">Jul 197-Nov 1970</unitdate>
-                    </did>
-                </c>
-                <c id="ref61" level="file">
-                    <did>
-                        <unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-60-97-5275-88</unittitle>
-                        <container id="cid109915" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid109915" type="Folder">3</container>
-                        <unitdate>Nov 1970-Apr 1972</unitdate>
-                    </did>
-                </c>
-                <c id="ref68" level="file">
-                    <did>
-                        <unittitle>United Irish Republicans (FOIA #297, 643)</unittitle>
-                        <container id="cid109909" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid109909" type="Folder">4</container>
-                        <unitdate normal="1992/1992">1992</unitdate>
-                    </did>
-                </c>
-                <c id="ref69" level="file">
-                    <did>
-                        <unittitle>Women's Irish Educational League (FOAI #297, 646; Appeal #89-1-11)</unittitle>
-                        <container id="cid109908" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid109908" type="Folder">5</container>
-                        <unitdate normal="1989/1989">1989</unitdate>
-                    </did>
-                </c>
-                <c id="ref88" level="file">
-                    <did>
-                        <unittitle>Reference: Index to organization of material (SP)</unittitle>
-                        <container id="cid20160006" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20160006" type="Folder">6</container>
-                        <unitdate normal="1986/1994" type="inclusive">1986-1994</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref91" level="series">
-                <did>
-                    <unittitle>Series IV. Printed Ephemera</unittitle>
-                    <unitdate>1818-1924</unitdate>
-                </did>
-                <scopecontent id="ref123">
-                    <head>Scope and Content Note</head>
-                    <p>This series consists of flyers, pamphlets, broadsides, and other materials demonstrating support for various 20th century Irish Republican and Irish American support groups.</p>
-                </scopecontent>
-                <c id="ref97" level="file">
-                    <did>
-                        <unittitle>Bond Certificates - Republic of Ireland - flier and postcard</unittitle>
-                        <container id="cid20497001" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20497001" type="Folder">7</container>
-                        <unitdate normal="1918/1919" type="inclusive">1918-1919</unitdate>
-                    </did>
-                </c>
-                <c id="ref103" level="file">
-                    <did>
-                        <unittitle>Fliers and Broadsides: includes: "The truth about the Clan na Gael;" "The Irish World's Indictment of James G. Blaine;" "Brother Jonathan to the A.P.A."</unittitle>
-                        <container id="cid20491012" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid20491012" type="Folder">2</container>
-                        <unitdate>1818-1920, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref101" level="file">
-                    <did>
-                        <unittitle>Publication: 
-                            <emph render="italic">Brennan's: A weekly journal of advocating justice, equality and the preservation of American indenpenndence</emph>. Vol. 1, no. 1. (Chicago)</unittitle>
-                        <container id="cid20491013" type="Box" label="Mixed materials">4</container>
-                        <container parent="cid20491013" type="Folder">11</container>
-                        <unitdate>Aug 16, 1924</unitdate>
-                    </did>
-                </c>
-            </c>
-            <c id="ref92" level="series">
-                <did>
-                    <unittitle>Series V. Nonprint</unittitle>
-                    <unitdate>1980-1995</unitdate>
-                </did>
-                <scopecontent id="ref124">
-                    <head>Scope and Content Note</head>
-                    <p>This series consists of flags, sashes, bumper stickers, and other objects demonstrating support for various 19th and 20th century Irish Republican and Irish American support groups. Also included is Prendiville’s button collection, an assortment of political buttons from Irish organizations in Ireland and the United States, including Irish Republican Clubs, Irish Northern Aid, Citizens for Irish Justice, and the National Association for Irish Freedom. Complementing the buttons are detailed notes on the objects, created and supplied by Prendville.</p>
-                </scopecontent>
-                <c id="ref93" level="file">
-                    <did>
-                        <unittitle>Button Collection</unittitle>
-                        <container id="cid20468004" type="Box" label="Mixed materials">6</container>
-                        <unitdate>1980s-1990s</unitdate>
-                    </did>
-                </c>
-                <c id="ref104" level="file">
-                    <did>
-                        <unittitle>Bumper stickers and penants</unittitle>
-                        <container id="cid20491014" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid20491014" type="Folder">3</container>
-                        <unitdate>circa 1980s, undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref112" level="file">
-                    <did>
-                        <unittitle>Paperweight: James Connolly (sold by Anne Devlin IRC; from Gardiner Place, Dublin (Sinn Fein)</unittitle>
-                        <container id="cid20491015" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid20491015" type="Folder">5</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-                <c id="ref114" level="file">
-                    <did>
-                        <unittitle>Silk handerchief/scarf "Remember '98" with images of: Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</unittitle>
-                        <container id="cid20491016" type="Box" label="Mixed materials">5</container>
-                        <container parent="cid20491016" type="Folder">4</container>
-                        <unitdate>undated</unitdate>
-                    </did>
-                </c>
-            </c>
-        </dsc>
-    </archdesc>
+<?xml version="1.0" encoding="utf-8"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9">xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_005">aia_005</eadid><filedesc><titlestmt><titleproper>Guide to the Sean Prendiville Papers <num>AIA.005</num></titleproper><author>Collection processed by Alice Naughton and Rebecca Altermatt</author></titlestmt><publicationstmt><publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher><address><addressline>Tamiment Library and Robert F. Wagner Labor Archive</addressline><addressline>Elmer Holmes Bobst Library</addressline><addressline>70 Washington Square South</addressline><addressline>2nd Floor</addressline><addressline>New York, NY 10012</addressline><addressline>(212) 998-2596</addressline><addressline>special.collections@nyu.edu</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace <date>2022-10-10T13:59:59</date></creation><langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>July 2018</date><item>Updated by Megan O'Shea to incorporate materials from 2018 accretion</item></change><change><date>October 2022</date><item>Updated by Aki Snyder to include descriptions of materials from 2018 accretion</item></change></revisiondesc></eadheader><archdesc level="collection">  <did>
+    <langmaterial id="aspace_07010b11044e743b5e379e1e2a1c0226">Materials are in English.</langmaterial>
+    <repository>
+      <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+    </repository>
+    <unittitle>Sean Prendiville Papers</unittitle>
+    <origination label="Creator">
+      <persname source="local">Prendiville, Sean</persname>
+    </origination>
+    <unitid>AIA.005</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">4.75 Linear Feet</extent>
+      <extent altrender="carrier">in 2 manuscript boxes, 3 record cartons, and 1 oversized flat box.</extent>
+    </physdesc>
+    <unitdate datechar="creation" normal="1818/1997" type="inclusive">1818-1997</unitdate>
+    <unitdate datechar="creation" normal="1920/1997" type="bulk">1920-1997</unitdate>
+    <abstract id="aspace_7e406b5c19ce12d315c54f40d95f3a20">Sean Prendiville is a first-generation Irish American, born and raised in San Francisco, California.  Members of the Prendiville family living in Ireland were active Republicans during the Irish War of Independence (1919-1921) and the Irish Civil War (1922-1923).  Prendiville joined Irish support groups established in San Francisco during confict in Northern Ireland in the late 1960s.  This collection contains material concerning the Irish American experience with specific focus on Northern California.  Materials include personal correspondence and other documentation regarding numerous Freedom of Information Act (FOIA) requests made by Prendiville to the Federal Bureau of Investigation (FBI) concerning several Irish American individuals and organizations suspected of Irish Republican activity from approximately 1920 to 1979.  Also included are original letters written by a Fenian prisoner in Western Australia in 1870, as well as newspaper accounts from the same time period.  The collection also includes ephemera and physical objects, including flyers, newspapers, broadsides, bumper stickers, and a singificant button collection supprting Irish prisoners and the Republican movement.</abstract>
+    <physloc id="aspace_459cdf2afbaaad8e66224cc0f36e3982">Materials stored offsite and advance notice is required for use. Please contact special.collections@nyu.edu at least two business days prior to research visit.</physloc>
+  </did>
+  <accessrestrict id="aspace_70239ac8e302681389aed96302b3bbb8">
+    <head>Access Restrictions</head>
+<p>Materials are open for research without restrictions.</p>  </accessrestrict>
+  <arrangement id="aspace_df12261b9d85957c2e4b988ed3c5d918">
+    <head>Arrangement</head>
+<p>Collection is arranged into five series.  Series are arranged alphabetically, then chronologically.</p>    <list type="ordered">
+      <head>Missing Title</head>
+      <item>Series I. Correspondence, 1902-1997</item>
+      <item>Series II. Subject Files, 1864-1988</item>
+      <item>Series III. Freedom of Information Act (FOIA) Requests and Correspondence, 1920-1979</item>
+      <item>Series IV. Printed Ephemera, 1818-1924</item>
+      <item>Series V. Nonprint, 1980-1995</item>
+    </list>
+  </arrangement>
+  <bioghist id="aspace_05a2fd2c6b78a2979c8e00162b13b1b5">
+    <head>Biographical Note</head>
+<p>Sean Prendiville is a first generation Irish American, born and raised in San Francisco, California. His father emigrated from County Kerry, his mother from County Roscommon. In Ireland, members of the Prendiville family were active Republicans during the country's fight for independence from Great Britain (1919-1921) and subsequent civil war (1922-1923). Two of Sean Prendiville's grand-uncles were in the Irish Republican Army (IRA): one was killed in a raid on a Royal Irish Constabulary (police) station in Castleisland, County Kerry; the other continued to fight with the IRA until he was wounded and captured during the civil war. Their nephew in San Francisco regularly took young Sean Prendiville to buy the Sinn Fein newspaper <emph render="italic">The United Irishman</emph> at the Golden Gate News Agency on Third Street.</p><p>When conflict broke out in Northern Ireland in 1968, following attacks on Northern Ireland Civil Rights Association marches, Sean Prendiville joined some of the Irish support groups that were established in San Francisco. Later, after the Republican movement split, he joined the Irish Republican Clubs, supporters of the Official Irish Republican movement, because their politics seemed more in line with the anti-Vietnam war movement that he was also participating in at the time. While a member of the Irish Republican Clubs, Prendiville met some older activists who had participated in the Irish Republican Congress Clubs of the 1930s, especially Vernon Healey in San Francisco and Gerald O'Reilly in New York. He became aware of a current in Irish-American and Irish Republican history that had been passed over - the links between left-wing Irish organizations and American progressives – sparking a research interest that eventually led to the assembly of this collection between 1986 and 1994</p>  </bioghist>
+  <prefercite id="aspace_4bdabf86e7be318be76d0f3b5d245348">
+    <head>Preferred Citation</head>
+<p>Identification of item, date; Sean Prendiville Papers; AIA 005; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>  </prefercite>
+  <relatedmaterial id="aspace_ec626fd297b5474f4923c11839874395">
+    <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+    <list type="ordered">
+      <head>Related Materials</head>
+      <item>George Harrison Papers AIA 009</item>
+      <item>Irish Republicanism Collection AIA 022</item>
+      <item>Patrick Daugton Collection AIA 055</item>
+    </list>
+  </relatedmaterial>
+  <scopecontent id="aspace_45fc3f743509a30bce8c2efbd5d70641">
+    <head>Scope and Content Note</head>
+<p>This collection documents Sean Prendiville's involvement in and research on the activities of Irish and Irish American organizations in the 20th century, with a specific focus on Irish Republicanism.  Materials include flyers, pamphlets, broadsides, buttons, bumper stickers, correspondence, newspapers, government forms, Freedom of Information Act (FOIA) requests, and Federal Bureau of Investigation documents.  The majority of the collection consists of Prendiville's FOIA requests and the documents he received in response.  These materials focused on Irish organizations in Ireland and the United States under surveillance for alleged Irish Republican activities.</p>  </scopecontent>
+  <separatedmaterial id="aspace_b6c616c3300f134978381136a5ed2bc7">
+    <head>Separated Materials</head>
+<p>The 19th century publication <emph render="italic">The Phoenix</emph> was separated from this collection and integrated into the Archives of Irish America Newspapers and Periodicals Collection (AIA 004) as Box 185.</p>  </separatedmaterial>
+  <userestrict id="aspace_408b990ff279f8397759034d6f16c49a">
+    <head>Use Restrictions</head>
+<p>Any rights (including copyright and related rights to publicity and privacy) held by Sean Prendiville, the creator of this collection, were transferred to New York University in 1997. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>  </userestrict>
+  <acqinfo id="aspace_48df563ec21631e8e7ee15a78d408aee">
+    <head>Immediate Source of Acquisition</head>
+<p>Sean Prendiville donated the documents to the Archives of Irish America at the Tamiment Library, NYU in June 1997, July 1998, August 1998, August 2004, and 2011. The series of personal correspondence came to the Archives along with the Patrick Daughton Papers (AIA 055) in 2009.  The accession numbers associated with this collection are 1997.059 and 2011.005.</p><p>An additional accretion was donated in 2018.  The accession number associated with this gift is 2018.102.</p>  </acqinfo>
+  <processinfo id="aspace_06ff6cf5e59d448ccf7ef48d594e75e2">
+    <head>Processing Information</head>
+<p>Material from the 2018 accretion was housed in archival folders and boxes. In the fall of 2022, materials from accession 2018-102 were processed and described by an archivist.</p>  </processinfo>
+  <controlaccess>
+    <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+    <geogname source="lcsh">New York (N.Y.).</geogname>
+    <subject source="lcsh">Irish Americans -- New York (State) -- New York -- Political activity.</subject>
+    <geogname source="lcsh">Philadelphia (Pa.)</geogname>
+    <genreform source="aat">Correspondence.</genreform>
+    <geogname source="lcsh">San Francisco (Calif.)</geogname>
+    <subject source="lcsh">Irish Americans -- New York (N.Y.) -- Social life and customs.</subject>
+    <subject source="lcsh">Freedom of information -- Government policy -- United States.</subject>
+    <genreform source="aat">Reports.</genreform>
+    <genreform source="aat">Clippings (information artifacts)</genreform>
+    <genreform source="aat">Bumper stickers.</genreform>
+    <genreform source="aat">Buttons (information artifacts).</genreform>
+    <subject source="lcsh">Prisoners' writings, Irish.</subject>
+    <genreform source="aat">Articles.</genreform>
+    <persname source="naf">McAliskey, Bernadette Devlin, 1947-</persname>
+    <persname rules="dacs" source="local">O'Reilly, Gerald, 1903-1990</persname>
+    <corpname authfilenumber="(lccn)n78095617" rules="aacr" source="naf">United States. Federal Bureau of Investigation</corpname>
+    <corpname source="local">United Irish Republicans</corpname>
+    <corpname source="local">National Association for Irish Justice</corpname>
+    <corpname source="local">Irish Republican Clubs</corpname>
+    <corpname source="local">Irish Republican Brotherhood Veterans Association</corpname>
+    <corpname source="local">James Connolly Clubs</corpname>
+    <corpname authfilenumber="(lccn)no2010150469" source="naf">National Association for Irish Freedom (U.S.)</corpname>
+    <corpname authfilenumber="(lccn)n81079443" source="naf">Clan-na-Gael</corpname>
+    <corpname source="local">Irish American Labor League</corpname>
+    <corpname authfilenumber="(lccn)n80063026" source="naf">Irish Republican Army</corpname>
+    <corpname source="local">Women's Irish Educational League</corpname>
+    <persname source="naf">Gralton, Jimmy, 1886-1945</persname>
+  </controlaccess>
+  <dsc><c id="aspace_ref72" level="series"><did><unittitle>Series I. Correspondence </unittitle><unitdate datechar="creation" normal="1902/1997" type="inclusive">1902-1997</unitdate></did><scopecontent id="aspace_cb047985ef6ceba0d8547397ad7840ed"><head>Scope and Content Note</head><p>This series consists of personal correspondence between Prendiville and numerous individuals.  Of note are two folders of letters between Prendiville and Gerald O'Reily, a prominent member of the New York City Transit Workers Union (TWU) and a contemporary of TWU President Mike Quill.  Materials in the correspondence concern Irish Republicans Frank Ryan and Father Michael O' Flanagan.</p></scopecontent><c id="aspace_d441336a6b1d8058e3a95ba4ff0540ce" level="file"><did><unittitle>Conway, Neil J.</unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_37364ebf290b06faf44d75a874ecb30f" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_37364ebf290b06faf44d75a874ecb30f" type="Folder">3</container></did></c><c id="aspace_ref73" level="file"><did><unittitle>Cork Workers Club</unittitle><unitid>cuid14939</unitid><unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate><container id="aspace_a4f34a97ac7699c348a84391f0f02831" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_a4f34a97ac7699c348a84391f0f02831" type="Folder">1</container></did></c><c id="aspace_ref74" level="file"><did><unittitle>Curtis, Liz (author)</unittitle><unitdate datechar="creation" normal="1992/1996" type="inclusive">1992-1996</unitdate><container id="aspace_b0a05cb96546aeae5ce88a96a0444d62" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_b0a05cb96546aeae5ce88a96a0444d62" type="Folder">2</container></did></c><c id="aspace_ref75" level="file"><did><unittitle>General; mostly Celtic Network I</unittitle><unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate><container id="aspace_66ff33e7c096bae225b63afa1137767f" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_66ff33e7c096bae225b63afa1137767f" type="Folder">3</container></did></c><c id="aspace_ref76" level="file"><did><unittitle>General; mostly Celtic Network II</unittitle><unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate><container id="aspace_3ab7cb792a33ca47dbe199f7cbd01fe6" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_3ab7cb792a33ca47dbe199f7cbd01fe6" type="Folder">3A</container></did></c><c id="aspace_ref99" level="file"><did><unittitle><emph render="italic">Irish American Voice</emph> (Entertprise, AL)</unittitle><unitid>cuid14940</unitid><unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate><container id="aspace_4b9d1fd1ca2f5bcfd0bedc925731881d" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_4b9d1fd1ca2f5bcfd0bedc925731881d" type="Folder">4</container></did></c><c id="aspace_ref77" level="file"><did><unittitle>O'Reilly, Gerald (Local 100, TWU, NYC) I</unittitle><unitid>cuid14941</unitid><unitdate datechar="creation" normal="1902/1990" type="inclusive">1902-1990</unitdate><container id="aspace_c0b13ebbb162b0f6a90940d06b2a62af" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_c0b13ebbb162b0f6a90940d06b2a62af" type="Folder">5</container></did></c><c id="aspace_ref78" level="file"><did><unittitle>O'Reilly, Gerald (Local 100, TWU, NYC) II</unittitle><unitid>cuid14942</unitid><unitdate datechar="creation" normal="1902/1990" type="inclusive">1902-1990</unitdate><container id="aspace_d06a3e9bdf0bd1cac45db16661c2df63" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_d06a3e9bdf0bd1cac45db16661c2df63" type="Folder">6</container></did></c><c id="aspace_3e8880091528352519c61a6676e6af40" level="file"><did><unittitle>Queen's University of Belfast Conference Invitation</unittitle><unitdate datechar="creation" normal="1985/1985">1985</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_79f8725363d1bc448a4305ceeec2e442" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_79f8725363d1bc448a4305ceeec2e442" type="Folder">11</container></did></c><c id="aspace_ref79" level="file"><did><unittitle>Research and Correspondence (includes two unidentified photographs)</unittitle><unitid>cuid14943</unitid><unitdate datechar="creation" normal="1985/1997" type="inclusive">1985-1997</unitdate><container id="aspace_4d34ef4bf3e53d946063a207500137ce" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_4d34ef4bf3e53d946063a207500137ce" type="Folder">7</container></did></c><c id="aspace_ref80" level="file"><did><unittitle>Irish American Unity Conference: Membership papers</unittitle><unitid>cuid14944</unitid><unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate><container id="aspace_8de9f414dcc5efc078355257b612a761" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_8de9f414dcc5efc078355257b612a761" type="Folder">8</container></did></c></c><c id="aspace_ref100" level="series"><did><unittitle>Series II. Subject Files</unittitle><unitdate datechar="creation" normal="1864/1988" type="inclusive">1864-1988</unitdate></did><scopecontent id="aspace_dff6a1a0526b82d8382c26459c4de4a4"><head>Scope and Content Note</head><p>This series consists of original letters, newspaper clippings, periodicals, and form letters collected by Prendiville on Irish republican politics and the escape and rescue of Fenian prisoners held in Western Australia by the American whaling ship the <emph render="italic">Catalpa</emph> in the late 19th century.  The series includes publications produced by The Workers Party (Ireland), including a manifesto, newsletters, pamphlets, and issues of the <emph render="italic">Student Workers Party Bulletin</emph>.  Periodical titles include <emph render="italic">The Irish Felon</emph>, <emph render="italic">The Felon</emph>, <emph render="italic">The Harp</emph>, <emph render="italic">Voice of Freedom</emph>, and <emph render="italic">Irish Republican Newsletter</emph>.  The form letters were sent by the National Association for Irish Justice and the National Association for Irish Freedom.</p></scopecontent><c id="aspace_ref98" level="file"><did><unittitle>Catalpa: article in <emph render="italic">The Western Austrlian Times</emph></unittitle><unitid>cuid15097</unitid><unitdate datechar="creation" normal="1876/1876" type="inclusive">Apr 21, 1876</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_763fc41b05eb472e05265940e8c296d8" label="Mixed Materials [31142062760338]" type="Box">5</container><container parent="aspace_763fc41b05eb472e05265940e8c296d8" type="Folder">1</container></did></c><c id="aspace_ref95" level="file"><did><unittitle>Catalpa: correspondence, newspaper accounts (very rare) Note: Most of the Catalpa-related material appears to be correspondence written to or from John B. Walsh, a Fenian who was transported to Australia after the Fenian Rising was broken up. Walsh was released after one of the round of amnesties, either 1869 or 1871, and settled in San Francisco.  Transcriptions are included for some of the letters.</unittitle><unitdate datechar="creation" normal="1864/1895" type="inclusive">1864-1895</unitdate><container id="aspace_f15d178e427abfc8d07f4e6e1f02bb05" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_f15d178e427abfc8d07f4e6e1f02bb05" type="Folder">8</container></did></c><c id="aspace_6759c4ed17b9c1139f0138a80c030dde" level="file"><did><unittitle>Irish republican periodicals and documents</unittitle><unitdate datechar="creation" normal="1909/1984" type="inclusive">1909-1984</unitdate><container altrender="Manuscript box - Legal" id="aspace_8147c865be2e64f5661a041c55866e0a" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container><container parent="aspace_8147c865be2e64f5661a041c55866e0a" type="Folder">1-5</container><container altrender="Flat OS Box 17" id="aspace_80e2b0fbd79211891a1fc77e0b7f0f22" label="Mixed Materials [31142063581279]" type="Box">Shared Tamiment 031</container><container parent="aspace_80e2b0fbd79211891a1fc77e0b7f0f22" type="Folder">1</container></did></c><c id="aspace_ref113" level="file"><did><unittitle>Irish Republican Prisoners and Dependents Fund: Biographies of speakers and others</unittitle><unitid>cuid15098</unitid><unitdate datechar="creation">circa 1920</unitdate><container id="aspace_e1cd60386bf4d5d68664757e2eb2f84a" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_e1cd60386bf4d5d68664757e2eb2f84a" type="Folder">9</container></did></c><c id="aspace_ref96" level="file"><did><unittitle>The Workers Party (Belfast): Manifesto, Newsletters, Pamphlets, Students Workers Party Bulletin</unittitle><unitid>cuid15099</unitid><unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate><container id="aspace_215a9e9dc89f732c9b77c72b46e94263" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_215a9e9dc89f732c9b77c72b46e94263" type="Folder">10</container></did></c></c><c id="aspace_ref13" level="series"><did><unittitle>Series III: Freedom of Information Act (FOIA) Requests and Correspondence</unittitle><unitdate datechar="creation" normal="1920/1992" type="inclusive">1920-1992</unitdate></did><scopecontent id="aspace_6d8810425c30e5cc605dcf4b9463877d"><head>Scope and Content Note</head><p>This series consists of administrative papers, government forms, and other documents related to Freedom of Information Act (FOIA) requests and appeals made by Prendiville from 1986 to 1994.  The files contains photocopies of memoranda, letters, and reports generated by the Federal Bureau of Investigation (FBI) in the course of their surveillance of Irish Republican activities in the United States between 1930 and 1979.  Also included are newspaper and magazine articles, brochures, and other literature distributed by Irish American organizations under investigation.  Many files contain collections of clippings from Irish publications, especially newspapers produced by support groups, that no longer exist and for which there may be no surviving copies.  Organizations present in this series include the Irish Republican Clubs, Clan na Gael, James Connolly Clubs, the Irish American Labor League, the Irish Republican Army (IRA), Irish Republican Clubs (IRC), National Association for Irish Freedom (NAIF), the National Association for Irish Justice (NAIJ), and The Citizens for Irish Justice (CIJ).  Specific individuals such as James Gralton and James Larkin also appear.   Much of the material is heavily redacted.</p></scopecontent><arrangement id="aspace_c0f7c7e94ae55603832ad144646d0531"><head>Arrangement</head><p>Files in this series are arranged according to the FBI's original identification and sequence numbers. The FBI assigned each organization a sequence number. For example, the Irish Republican Clubs are identified by the number 97-5329. Each specific document relating to that organization was then numbered sequentially; for example, 97-5329-25 identifies the twenty-fifth document in approximately chronological order. The FBI files also contain records that were filed under more than one organization; when cross-referenced like this, the documents do not have a sequence number. The order in which documents were supplied by the FBI has been maintained except when unknown; then they are filed chronologically.</p></arrangement><c id="aspace_ref14" level="file"><did><unittitle>Correspondence re: FOIA requests</unittitle><unitid>cuid14945</unitid><unitdate datechar="creation" normal="1986/1994" type="inclusive">1986-1994</unitdate><container id="aspace_e45c6fed131ee20e83939385ebc64431" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_e45c6fed131ee20e83939385ebc64431" type="Folder">9</container></did></c><c id="aspace_ref15" level="file"><did><unittitle>Government Materials - non-FBI</unittitle><unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate><container id="aspace_056b380a6ebbf39b4d1b74a6f0381f5e" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_056b380a6ebbf39b4d1b74a6f0381f5e" type="Folder">10</container></did></c><c id="aspace_ref18" level="file"><did><unittitle>Clan na Gael c. 97-4883-1-97-4883-17</unittitle><unitid>cuid14946</unitid><unitdate datechar="creation">Mar 1964-Oct 1964</unitdate><container id="aspace_95eaf4c899b7288f081fb74eb2ccce6d" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_95eaf4c899b7288f081fb74eb2ccce6d" type="Folder">11</container></did></c><c id="aspace_ref19" level="file"><did><unittitle>Clan na Gael c. 97-4883-18-97-4883-40</unittitle><unitdate datechar="creation">Oct 1964-Sep 1965</unitdate><container id="aspace_3b09bb1e9e7c008a1718d17f4256d310" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_3b09bb1e9e7c008a1718d17f4256d310" type="Folder">12</container></did></c><c id="aspace_ref23" level="file"><did><unittitle>Gralton, James 65-35485-1;65-35485-5</unittitle><unitid>cuid14947</unitid><unitdate datechar="creation">Jun 1943-Oct 1944</unitdate><container id="aspace_1bb5b69a19551cc6c1e1e141779e8821" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_1bb5b69a19551cc6c1e1e141779e8821" type="Folder">13</container></did></c><c id="aspace_ref25" level="file"><did><unittitle>Irish American Labor League c. 61-179-1-61-179-32</unittitle><unitdate datechar="creation">Oct 1921-Feb 1922</unitdate><container id="aspace_8cfd9f7b941f0b2d3bb2bc1872ab48e1" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_8cfd9f7b941f0b2d3bb2bc1872ab48e1" type="Folder">14</container></did></c><c id="aspace_ref26" level="file"><did><unittitle>Irish American Labor League : Case 75, 75A, Doc. C. 127-152pages c. 14160-14213 (reports of agents, summary memos)</unittitle><unitid>cuid14948</unitid><unitdate datechar="creation">Apr 1921-May 1921</unitdate><container id="aspace_f17fd4152f47fb87a9489929ee81678f" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_f17fd4152f47fb87a9489929ee81678f" type="Folder">15</container></did></c><c id="aspace_ref27" level="file"><did><unittitle>Irish American Labor League: Case 75, 75A, Doc. C. 153-201pages c. 14215 - 14295</unittitle><unitid>cuid14949</unitid><unitdate datechar="creation">May 1921-Jun 1921</unitdate><container id="aspace_41c2b221684d9c52dbebc3b09ef466b1" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_41c2b221684d9c52dbebc3b09ef466b1" type="Folder">16</container></did></c><c id="aspace_ref28" level="file"><did><unittitle>Irish American Labor League: Reports, memos related to Case 75pages c. 14298-14333 (illegible)</unittitle><unitid>cuid14950</unitid><unitdate datechar="creation" normal="1922/1922" type="inclusive">Mar 1921 , 1922</unitdate><container id="aspace_083653a9ff9b0d384097c158a614fdfd" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_083653a9ff9b0d384097c158a614fdfd" type="Folder">17</container></did></c><c id="aspace_ref64" level="file"><did><unittitle>Irish Radio Shows</unittitle><unitid>cuid14951</unitid><unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate><container id="aspace_f332b61b89c7b212a5629cdf7f682717" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_f332b61b89c7b212a5629cdf7f682717" type="Folder">18</container></did></c><c id="aspace_ref30" level="file"><did><unittitle>Irish Republican Army c. 61-7606-1-61-7606-50</unittitle><unitid>cuid14952</unitid><unitdate datechar="creation">Sep 1939-Jul 1940</unitdate><container id="aspace_17c264a8d5b3fafed7cd91351f20a360" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_17c264a8d5b3fafed7cd91351f20a360" type="Folder">19</container></did></c><c id="aspace_ref31" level="file"><did><unittitle>Irish Republican Army c. 61-7606-51-61-7606-83</unittitle><unitid>cuid14953</unitid><unitdate datechar="creation">Jul 1940-Feb 1942 (bulk 1920-1997)</unitdate><container id="aspace_4bb163d3cf5ea3d8aa8e6199124f5c38" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_4bb163d3cf5ea3d8aa8e6199124f5c38" type="Folder">20</container></did></c><c id="aspace_ref32" level="file"><did><unittitle>Irish Republican Army c. 61-7606-84-61-7606-144</unittitle><unitid>cuid14954</unitid><unitdate datechar="creation">Jan 1942-Jan 1943</unitdate><container id="aspace_c90aaa5b7478ca13ccb5a4046c1b83ce" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_c90aaa5b7478ca13ccb5a4046c1b83ce" type="Folder">21</container></did></c><c id="aspace_ref33" level="file"><did><unittitle>Irish Republican Army c. 61-7606-145-61-7606-209</unittitle><unitid>cuid14955</unitid><unitdate datechar="creation">Feb 1943-May 1943</unitdate><container id="aspace_5ece55542be712c30faa8193386c73b7" label="Mixed Materials [31142054614584]" type="Box">1</container><container parent="aspace_5ece55542be712c30faa8193386c73b7" type="Folder">22</container></did></c><c id="aspace_ref34" level="file"><did><unittitle>Irish Republican Army c. 61-7606-210-61-7606-260 I</unittitle><unitid>cuid14956</unitid><unitdate datechar="creation" normal="1943/1943" type="inclusive">May 1943-Oct 1943</unitdate><container id="aspace_a287b7dc2bb5a3b0dbf6b4c5ba6f27c9" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_a287b7dc2bb5a3b0dbf6b4c5ba6f27c9" type="Folder">1</container></did></c><c id="aspace_ref81" level="file"><did><unittitle>Irish Republican Army c. 61-7606-145-61-7606-260 II</unittitle><unitid>cuid14957</unitid><unitdate datechar="creation" normal="1943/1943" type="inclusive">May 1943-Oct 1943</unitdate><container id="aspace_69b67d4ba4b5733291f9f4a5a78eb617" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_69b67d4ba4b5733291f9f4a5a78eb617" type="Folder">2</container></did></c><c id="aspace_ref35" level="file"><did><unittitle>Irish Republican Army c. 61-7606-261-61-7606-342 I</unittitle><unitid>cuid14958</unitid><unitdate datechar="creation">Sep 1943-Dec 1944</unitdate><container id="aspace_99c5269e5cd07d4ee0a42cd144e72bf4" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_99c5269e5cd07d4ee0a42cd144e72bf4" type="Folder">3</container></did></c><c id="aspace_ref82" level="file"><did><unittitle>Irish Republican Army c. 61-7606-261-61-7606-342 II</unittitle><unitid>cuid14959</unitid><unitdate datechar="creation" normal="1943/1943" type="inclusive">Sep 1943-Dec 1943</unitdate><container id="aspace_8ccb51c3165c5d8774c4ce2a403c2a29" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_8ccb51c3165c5d8774c4ce2a403c2a29" type="Folder">4</container></did></c><c id="aspace_ref36" level="file"><did><unittitle>Irish Republican Army c. 61-7606-343-61-7606-393</unittitle><unitid>cuid14960</unitid><unitdate datechar="creation" normal="1945/1950" type="inclusive">Feb 1945-May 1950</unitdate><container id="aspace_1e17f9ac2d2468fbfa42049a5a39224c" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_1e17f9ac2d2468fbfa42049a5a39224c" type="Folder">5</container></did></c><c id="aspace_ref37" level="file"><did><unittitle>Irish Republican Army c. 61-7606-394-61-7606-451</unittitle><unitid>cuid14961</unitid><unitdate datechar="creation">Sep 1951-Oct 1957</unitdate><container id="aspace_925b6e3dfa3939e3d3dc8ba0c70a43a0" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_925b6e3dfa3939e3d3dc8ba0c70a43a0" type="Folder">6</container></did></c><c id="aspace_ref38" level="file"><did><unittitle>Irish Republican Army c. 61-7606-452-61-7606-501</unittitle><unitid>cuid14962</unitid><unitdate datechar="creation">Oct 1957-Nov 1963</unitdate><container id="aspace_2b3374b22d9bc36d3561b6868cc1de58" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_2b3374b22d9bc36d3561b6868cc1de58" type="Folder">7</container></did></c><c id="aspace_ref39" level="file"><did><unittitle>Irish Republican Army c. 61-7606-502-61-7606- c. 520s(some documents not numbered, cross-referenced)</unittitle><unitid>cuid14963</unitid><unitdate datechar="creation">Nov 1963-Nov 1969</unitdate><container id="aspace_04e9faa9609afdbbcb9bd9be890cadde" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_04e9faa9609afdbbcb9bd9be890cadde" type="Folder">8</container></did></c><c id="aspace_ref40" level="file"><did><unittitle>Irish Republican Army c. 61-7606-?-61-7606-575(Some documents not completely numbered)</unittitle><unitid>cuid14964</unitid><unitdate datechar="creation">Dec 1969-Oct 1972</unitdate><container id="aspace_1743db1de0c42d372465a26972ac201d" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_1743db1de0c42d372465a26972ac201d" type="Folder">9</container></did></c><c id="aspace_ref41" level="file"><did><unittitle>Irish Republican Army c. 61-7606-576-61-7606-653</unittitle><unitid>cuid14965</unitid><unitdate datechar="creation">Oct 1972-Feb 1974</unitdate><container id="aspace_a022c652450075a0c1d2783b42d72fad" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_a022c652450075a0c1d2783b42d72fad" type="Folder">10</container></did></c><c id="aspace_ref42" level="file"><did><unittitle>Irish Republican Army c. 61-7606-654-61-7606-721</unittitle><unitid>cuid14966</unitid><unitdate datechar="creation">Feb 1974-Feb 1975</unitdate><container id="aspace_afd3127b365996f02234518152b3ad00" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_afd3127b365996f02234518152b3ad00" type="Folder">11</container></did></c><c id="aspace_ref43" level="file"><did><unittitle>Irish Republican Army c. 61-7606-722-61-7606-831 I</unittitle><unitid>cuid14967</unitid><unitdate datechar="creation">Feb 1975-May 1977</unitdate><container id="aspace_7090271065ba19eccd7bbbc3213cc336" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_7090271065ba19eccd7bbbc3213cc336" type="Folder">12</container></did></c><c id="aspace_ref83" level="file"><did><unittitle>Irish Republican Army c. 61-7606-722-61-7606-831 II</unittitle><unitid>cuid14968</unitid><unitdate datechar="creation">Feb 1975-May 1979</unitdate><container id="aspace_0eb5cbbfe907c06fd95e735462e8db10" label="Mixed Materials [31142054614592]" type="Box">2</container><container parent="aspace_0eb5cbbfe907c06fd95e735462e8db10" type="Folder">13</container></did></c><c id="aspace_ref44" level="file"><did><unittitle>Irish Republican Army c. 61-7606-A: news clippings, wire services - U.S , Ireland, U.K. events</unittitle><unitid>cuid14969</unitid><unitdate datechar="creation" normal="1939/1975" type="inclusive">1939-1975</unitdate><container id="aspace_00c41ba04f268ad27f6dd2147fd1553f" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_00c41ba04f268ad27f6dd2147fd1553f" type="Folder">1</container></did></c><c id="aspace_ref65" level="file"><did><unittitle>Irish Republican Brotherhood Veterans Association (FOIA #270, 640)</unittitle><unitid>cuid14970</unitid><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container id="aspace_976219c7fb2d450c0b65ad9da6145dc8" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_976219c7fb2d450c0b65ad9da6145dc8" type="Folder">2</container></did></c><c id="aspace_ref46" level="file"><did><unittitle>Irish Republican Clubs c. 97-5329-1-97-5329-16</unittitle><unitid>cuid14971</unitid><unitdate datechar="creation">Mar 1971-Sep 1971</unitdate><container id="aspace_f8c2a1aaf1b46aa4ca7fbdea7f22803b" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_f8c2a1aaf1b46aa4ca7fbdea7f22803b" type="Folder">3</container></did></c><c id="aspace_ref47" level="file"><did><unittitle>Irish Republican Clubs c. 97-5329-17-97-5329-31</unittitle><unitid>cuid14972</unitid><unitdate datechar="creation">Sep 1971-Jun 1972</unitdate><container id="aspace_4f16c0d36971dc1f7d52eb1ef68a5e3f" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_4f16c0d36971dc1f7d52eb1ef68a5e3f" type="Folder">4</container></did></c><c id="aspace_ref48" level="file"><did><unittitle>Irish Republican Clubs c. 97-5329-32-97-5329-52</unittitle><unitid>cuid14973</unitid><unitdate datechar="creation">Feb 1972-Nov 1972</unitdate><container id="aspace_52987a19a3b316034e13babc8aa46669" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_52987a19a3b316034e13babc8aa46669" type="Folder">5</container></did></c><c id="aspace_ref49" level="file"><did><unittitle>Irish Republican Clubs c. 97-5329-53-97-5329-81 I</unittitle><unitid>cuid14974</unitid><unitdate datechar="creation">Nov 1972-Jun 1975</unitdate><container id="aspace_3939853ccc590ba00235c2eb5d1fa0e5" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_3939853ccc590ba00235c2eb5d1fa0e5" type="Folder">6</container></did></c><c id="aspace_ref84" level="file"><did><unittitle>Irish Republican Clubs c. 97-5329-53-97-5329-81 II</unittitle><unitid>cuid14975</unitid><unitdate datechar="creation">Nov 1972-Jun 1975</unitdate><container id="aspace_7c6cfd6a7a70550a4a2195a172c5e766" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_7c6cfd6a7a70550a4a2195a172c5e766" type="Folder">7</container></did></c><c id="aspace_ref50" level="file"><did><unittitle>Irish Republican Clubs c. 97-5329-82-97-5329-112</unittitle><unitid>cuid14976</unitid><unitdate datechar="creation">Jul 1975-Aug 1979</unitdate><container id="aspace_001d75ee2f933f9a3a6096be0cfc251b" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_001d75ee2f933f9a3a6096be0cfc251b" type="Folder">8</container></did></c><c id="aspace_ref66" level="file"><did><unittitle>Irish Workers Clubs</unittitle><unitid>cuid14977</unitid><unitdate datechar="creation" normal="1940/1955" type="inclusive">1940-1955</unitdate><container id="aspace_eb9bdd5423f54d597dff636aee20b101" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_eb9bdd5423f54d597dff636aee20b101" type="Folder">9</container></did></c><c id="aspace_ref21" level="file"><did><unittitle>James Connolly Clubs 62-17493-0</unittitle><unitid>cuid14978</unitid><unitdate datechar="creation" normal="1920/1943" type="inclusive">1920-1924 , 1943</unitdate><container id="aspace_df164e403c4274fe634d3c03218f1251" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_df164e403c4274fe634d3c03218f1251" type="Folder">10</container></did></c><c id="aspace_ref63" level="file"><did><unittitle>James Gralton Defense Committee 9 FOIA #270, 234)</unittitle><unitid>cuid14979</unitid><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_aa5de3776f63aabe155132d341dcf002" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_aa5de3776f63aabe155132d341dcf002" type="Folder">11</container></did></c><c id="aspace_ref67" level="file"><did><unittitle>James Larkin Defense Committee ( FOIA #270, 233)</unittitle><unitid>cuid14980</unitid><unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate><container id="aspace_2f9a2cba3901edb4386e675602e4b6dd" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_2f9a2cba3901edb4386e675602e4b6dd" type="Folder">12</container></did></c><c id="aspace_ref52" level="file"><did><unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-1 (Numbers not visible)</unittitle><unitid>cuid14981</unitid><unitdate datechar="creation">Apr 1971</unitdate><container id="aspace_b748d57fef1e18bcb656416d81998df8" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_b748d57fef1e18bcb656416d81998df8" type="Folder">13</container></did></c><c id="aspace_ref53" level="file"><did><unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-2-1053212344-19 I</unittitle><unitid>cuid14982</unitid><unitdate datechar="creation">Jun 1971-Nov 1971</unitdate><container id="aspace_5bd7be55a5c79bf29868506454e3f68c" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_5bd7be55a5c79bf29868506454e3f68c" type="Folder">14</container></did></c><c id="aspace_ref85" level="file"><did><unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-2-1053212344-19 II</unittitle><unitid>cuid14983</unitid><unitdate datechar="creation">Jun 1971-Nov 1971</unitdate><container id="aspace_f9ca1a73d67ef605ddf21f179a035435" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_f9ca1a73d67ef605ddf21f179a035435" type="Folder">15</container></did></c><c id="aspace_ref54" level="file"><did><unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-21-105-212344-46 ( 20, 28 missing) I</unittitle><unitid>cuid14984</unitid><unitdate datechar="creation">Nov 1971-Jan 1973</unitdate><container id="aspace_506778d08b7240f9939c3810ed1bd075" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_506778d08b7240f9939c3810ed1bd075" type="Folder">16</container></did></c><c id="aspace_ref86" level="file"><did><unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-21-105-212344-46 ( 20, 28 missing) II</unittitle><unitid>cuid14985</unitid><unitdate datechar="creation" normal="1971/1973" type="inclusive">Nov 1971-Jan 1973</unitdate><container id="aspace_0f1df101f563a335ea39da950de06fcb" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_0f1df101f563a335ea39da950de06fcb" type="Folder">17</container></did></c><c id="aspace_ref55" level="file"><did><unittitle>National Association for Irish Freedom (NAIF) c. 105-212344-47-105-212344-64 ( missing # 52 encl.)</unittitle><unitid>cuid14986</unitid><unitdate datechar="creation">Jan 1973-Apr 1979</unitdate><container id="aspace_8209ed53e7bfa2d8d4cf04457709de27" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_8209ed53e7bfa2d8d4cf04457709de27" type="Folder">18</container></did></c><c id="aspace_ref57" level="file"><did><unittitle>National Association for Irish Justice (NAIJ) c. 97-5275 -xl- 97-5275-9</unittitle><unitid>cuid14987</unitid><unitdate datechar="creation">Aug 1969-Dec 1969</unitdate><container id="aspace_dbf214eaf146b94f6db9c3aff5450eed" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_dbf214eaf146b94f6db9c3aff5450eed" type="Folder">19</container></did></c><c id="aspace_ref58" level="file"><did><unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-10-97-5275-25</unittitle><unitid>cuid14988</unitid><unitdate datechar="creation">Dec 1969-Mar 1970</unitdate><container id="aspace_edbc1fb21884682579eaa47e38ad82b6" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_edbc1fb21884682579eaa47e38ad82b6" type="Folder">20</container></did></c><c id="aspace_ref59" level="file"><did><unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-28-97-5275-35</unittitle><unitid>cuid14989</unitid><unitdate datechar="creation">Mar 1970-Jun 1970</unitdate><container id="aspace_dd7de1771782a613c8de9bd97d894bbd" label="Mixed Materials [31142054614600]" type="Box">3</container><container parent="aspace_dd7de1771782a613c8de9bd97d894bbd" type="Folder">21</container></did></c><c id="aspace_ref60" level="file"><did><unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-36-97-5275-59 I</unittitle><unitid>cuid14990</unitid><unitdate datechar="creation">Jul 1970-Nov 1970</unitdate><container id="aspace_74a0419551a6dc1a0fc1c1be3b21f7d2" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_74a0419551a6dc1a0fc1c1be3b21f7d2" type="Folder">1</container></did></c><c id="aspace_ref87" level="file"><did><unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-36-97-5275-59 II</unittitle><unitid>cuid14991</unitid><unitdate datechar="creation" normal="1970/1970" type="inclusive">Jul 197-Nov 1970</unitdate><container id="aspace_83af65cff58a1ec6e8997ef2a55a78e5" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_83af65cff58a1ec6e8997ef2a55a78e5" type="Folder">2</container></did></c><c id="aspace_ref61" level="file"><did><unittitle>National Association for Irish Justice (NAIJ) c. 97-5275-60-97-5275-88</unittitle><unitid>cuid14992</unitid><unitdate datechar="creation">Nov 1970-Apr 1972</unitdate><container id="aspace_fc37c17910597ce3a995985805fd31e2" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_fc37c17910597ce3a995985805fd31e2" type="Folder">3</container></did></c><c id="aspace_ref68" level="file"><did><unittitle>United Irish Republicans (FOIA #297, 643)</unittitle><unitid>cuid14993</unitid><unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate><container id="aspace_8f7cda0ce4baef0525a344d7e9704eb6" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_8f7cda0ce4baef0525a344d7e9704eb6" type="Folder">4</container></did></c><c id="aspace_ref69" level="file"><did><unittitle>Women's Irish Educational League (FOAI #297, 646; Appeal #89-1-11)</unittitle><unitid>cuid14994</unitid><unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate><container id="aspace_02e374323db430ea18fc57297c14b52d" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_02e374323db430ea18fc57297c14b52d" type="Folder">5</container></did></c><c id="aspace_ref88" level="file"><did><unittitle>Reference: Index to organization of material (SP)</unittitle><unitid>cuid14995</unitid><unitdate datechar="creation" normal="1986/1994" type="inclusive">1986-1994</unitdate><container id="aspace_9f567667ddb2a3123264b606205d4651" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_9f567667ddb2a3123264b606205d4651" type="Folder">6</container></did></c></c><c id="aspace_ref91" level="series"><did><unittitle>Series IV. Printed Ephemera</unittitle><unitdate datechar="creation">1818-1924</unitdate></did><scopecontent id="aspace_9e92369ea492393eeb68d1a56e2d4d8a"><head>Scope and Content Note</head><p>This series consists of flyers, pamphlets, broadsides, and other materials demonstrating support for various 20th century Irish Republican and Irish American support groups.</p></scopecontent><c id="aspace_ref97" level="file"><did><unittitle>Bond Certificates - Republic of Ireland - flier and postcard</unittitle><unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate><container id="aspace_5ed460c8f94ab43256ea37510a2f58f6" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_5ed460c8f94ab43256ea37510a2f58f6" type="Folder">7</container></did></c><c id="aspace_591b21d5338b9b6789a0aadb7463a34e" level="file"><did><unittitle>Book - <emph render = "italic"> Love Orange Love Green</emph> Whitcor Publications Inscribed</unittitle><unitdate datechar="creation" normal="1973/1973">circa 1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_94c50b1fec91d4d368a9db574078af19" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_94c50b1fec91d4d368a9db574078af19" type="Folder">4</container></did></c><c id="aspace_4e8c517e532c3e330da1595a976ac1c3" level="file"><did><unittitle>Cunningham, Michael, <emph render = "italic">Monaghan County of Intrigue</emph></unittitle><unitdate datechar="creation" normal="1979/1979">1979</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_62a0b756d8536f1086079d95eb74c004" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_62a0b756d8536f1086079d95eb74c004" type="Folder">8</container></did></c><c id="aspace_e347e18170494b492b1598a65c9575e7" level="file"><did><unittitle>Eddie Rabbit</unittitle><unitdate datechar="creation" normal="1975/1986" type="inclusive">1975-1986</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_9cd284466e4282bd8d149b4d2cbf72f3" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_9cd284466e4282bd8d149b4d2cbf72f3" type="Folder">14</container></did></c><c id="aspace_ref103" level="file"><did><unittitle>Fliers and Broadsides: includes: "The truth about the Clan na Gael;" "The Irish World's Indictment of James G. Blaine;" "Brother Jonathan to the A.P.A."</unittitle><unitdate datechar="creation">1818-1920, undated</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_bf2e49f97e7dde448366f3ab009d330e" label="Mixed Materials [31142062760338]" type="Box">5</container><container parent="aspace_bf2e49f97e7dde448366f3ab009d330e" type="Folder">2</container></did></c><c id="aspace_b530510e152cf1318ab7580a07711aed" level="file"><did><unittitle>Notes for an article by Gerry Foley</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_f67882456991745755b8fd7e47df8716" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_f67882456991745755b8fd7e47df8716" type="Folder">12</container></did></c><c id="aspace_6cfd1531f50bb4665baa97960aa00f00" level="file"><did><unittitle>Pamphlet - "Christmas in Northern Ireland..." National Assoc. for Irish Freedom</unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_8ce36a6aed074885f97e4f2e0e4c6179" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_8ce36a6aed074885f97e4f2e0e4c6179" type="Folder">2</container></did></c><c id="aspace_d197bfd5eaa09a50a5c4dde0b2ec2ed6" level="file"><did><unittitle>Pamphlet - Class Against Class Marxist-Leninist Org. of Britain</unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_69a78abf48fcba3ebf65fa204f098923" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_69a78abf48fcba3ebf65fa204f098923" type="Folder">13</container></did></c><c id="aspace_de280a7257a67071a369e5cc9f3f8ae3" level="file"><did><unittitle>Pamphlet - Lemane, Cornelius "The Irish Republic"</unittitle><unitdate datechar="creation" normal="1916/1916">1916</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_ba8c9d42910714c899e0a091a67dd1c4" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_ba8c9d42910714c899e0a091a67dd1c4" type="Folder">1</container></did></c><c id="aspace_f88ef73c22a078bf95df483f3499b12e" level="file"><did><unittitle>Pamphlet - Lysaght, O'Connor, <emph render="italic">The Limerick Soviet</emph></unittitle><unitdate datechar="creation" normal="1981/1981">1981</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_a7be30d66c8a8c1c7be8f2c78cfa6e94" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_a7be30d66c8a8c1c7be8f2c78cfa6e94" type="Folder">10</container></did></c><c id="aspace_441329a87ad8623c2270b3f1630106bf" level="file"><did><unittitle>Pamphlet - O'Connell, Emmett, <emph render = "italic">Dail Vladh: Shaping A New Society</emph></unittitle><unitdate datechar="creation" normal="1973/1973">1973</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_52c64f3e08e70a33d66f8b6abe91cc0a" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_52c64f3e08e70a33d66f8b6abe91cc0a" type="Folder">7</container></did></c><c id="aspace_e83df8a28fad60f60dda4056d077361a" level="file"><did><unittitle>Pamphlet - Workers Solidarity Movement, <emph render = "italic">Ireland and British Imperialism</emph></unittitle><unitdate datechar="creation" normal="1992/1992">1992</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_eb27b43341c7999dc4084743e57bb488" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_eb27b43341c7999dc4084743e57bb488" type="Folder">9</container></did></c><c id="aspace_ref101" level="file"><did><unittitle>Publication: <emph render="italic">Brennan's: A weekly journal of advocating justice, equality and the preservation of American indenpenndence</emph>.  Vol. 1, no. 1. (Chicago)</unittitle><unitdate datechar="creation">Aug 16, 1924</unitdate><container id="aspace_0ae3ffb8fd318e07188217a25958efe6" label="Mixed Materials [31142054614618]" type="Box">4</container><container parent="aspace_0ae3ffb8fd318e07188217a25958efe6" type="Folder">11</container></did></c><c id="aspace_214192cce489b4c7da6920c77cf3b052" level="file"><did><unittitle>Purdie, Bob <emph render="italic">Ireland Unfree</emph> Permantente Revolution, German</unittitle><unitdate datechar="creation" normal="1972/1972">1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_09c9d8640fb5ccf222ab91cacc35f158" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_09c9d8640fb5ccf222ab91cacc35f158" type="Folder">6</container></did></c><c id="aspace_c7b2652ef7112eccda3510e0928e6474" level="file"><did><unittitle>Van Der Straeten, Serge and Phillippe Danfouy, <emph render = "italic">The Counter Revolution in Ireland</emph></unittitle><unitdate datechar="creation" normal="1974/1974">1974</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_b873b08b288e7fc02825f9611e0f32e9" label="Mixed Materials [31142067148539]" type="Box">7</container><container parent="aspace_b873b08b288e7fc02825f9611e0f32e9" type="Folder">5</container></did></c></c><c id="aspace_ref92" level="series"><did><unittitle>Series V. Nonprint</unittitle><unitdate datechar="creation">1980-1995</unitdate></did><scopecontent id="aspace_8d2db73a50ff675abe710de9f1e165b8"><head>Scope and Content Note</head><p>This series consists of flags, sashes, bumper stickers, and other objects demonstrating support for various 19th and 20th century Irish Republican and Irish American support groups.  Also included is Prendiville's button collection, an assortment of political buttons from Irish organizations in Ireland and the United States, including Irish Republican Clubs, Irish Northern Aid, Citizens for Irish Justice, and the National Association for Irish Freedom.  Complementing the buttons are detailed notes on the objects, created and supplied by Prendville.</p></scopecontent><c id="aspace_ref93" level="file"><did><unittitle>Button Collection</unittitle><unitid>cuid14996</unitid><unitdate datechar="creation">1980s-1990s</unitdate><container altrender="OS Flat Box - 15x19x3" id="aspace_0aa21ecc4d8f639c099a98a6c0ffb4f9" label="Mixed Materials [31142062757573]" type="Box">6</container></did></c><c id="aspace_ref104" level="file"><did><unittitle>Bumper stickers and penants</unittitle><unitdate datechar="creation">circa 1980s, undated</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_4c6ebd4f64acba308e3ca5c9a2efb13f" label="Mixed Materials [31142062760338]" type="Box">5</container><container parent="aspace_4c6ebd4f64acba308e3ca5c9a2efb13f" type="Folder">3</container></did></c><c id="aspace_ref112" level="file"><did><unittitle>Paperweight: James Connolly (sold by Anne Devlin IRC; from Gardiner Place, Dublin (Sinn Fein)</unittitle><unitdate datechar="creation">undated</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_4355df82fe6d839b11d1a88c38eb9440" label="Mixed Materials [31142062760338]" type="Box">5</container><container parent="aspace_4355df82fe6d839b11d1a88c38eb9440" type="Folder">5</container></did></c><c id="aspace_ref114" level="file"><did><unittitle>Silk handerchief/scarf "Remember '98" with images of:
+Robert Emmet, Wolfe Tone, Henry Joy McCracken, Lord Ed. Fitzgerald</unittitle><unitid>cuid14997</unitid><unitdate datechar="creation">undated</unitdate><container altrender="Hollinger Flat OS 13.5" id="aspace_c5a4c494783713ebec803647bcfc3bc3" label="Mixed Materials [31142062760338]" type="Box">5</container><container parent="aspace_c5a4c494783713ebec803647bcfc3bc3" type="Folder">4</container></did></c></c></dsc>
+</archdesc>
 </ead>
